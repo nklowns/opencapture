@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Mã xác minh"
+   },
+   "accountLogin": {
+      "message": "Đăng nhập bằng tài khoản và mật khẩu"
+   },
+   "add": {
+      "message": "Thêm"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Vui lòng cấp quyền quản lý tải xuống trước"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Cấp quyền quản lý tải xuống"
+   },
+   "auto_clase": {
+      "message": "Tự động đóng cửa sổ"
+   },
+   "bar_copy": {
+      "message": "Sao chép"
+   },
+   "bar_save": {
+      "message": "Lưu"
+   },
+   "btn_cancel": {
+      "message": "Hủy"
+   },
+   "btn_lock": {
+      "message": "Riêng tư"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Xóa"
+   },
+   "btn_snap": {
+      "message": "Chụp ảnh"
+   },
+   "btn_submit": {
+      "message": "Gửi"
+   },
+   "btn_view": {
+      "message": "Xem"
+   },
+   "capture2pdfDownload": {
+      "message": "Lưu dưới dạng PDF"
+   },
+   "captureAllPage": {
+      "message": "Chụp toàn bộ trang"
+   },
+   "captureAnnotate": {
+      "message": "Chú thích"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Tải ảnh chụp lên"
+   },
+   "captureClickAnnotate": {
+      "message": "Nhấp vào ảnh chụp để chú thích"
+   },
+   "captureDownload": {
+      "message": "Lưu hình ảnh"
+   },
+   "captureHighResAllPage": {
+      "message": "Chụp toàn bộ trang HD"
+   },
+   "capturePage": {
+      "message": "Chụp phần hiển thị"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Chụp từ vị trí hiện tại"
+   },
+   "captureScrollable": {
+      "message": "Chụp khu vực cuộn"
+   },
+   "captureSelection": {
+      "message": "Chụp vùng chọn"
+   },
+   "capture_interrupted": {
+      "message": "Phát hiện chuyển tab, ảnh chụp màn hình đã dừng!"
+   },
+   "capture_scroll": {
+      "message": "Chụp cái này"
+   },
+   "clickSel": {
+      "message": "Nhấp để chọn"
+   },
+   "clickUnfold": {
+      "message": "Nhấp để mở rộng"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Không thể sao chép hình ảnh"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Hình ảnh đã được sao chép vào clipboard"
+   },
+   "copyNotSupport": {
+      "message": "Trình duyệt của bạn không hỗ trợ sao chép hình ảnh!"
+   },
+   "copyToClipBoard": {
+      "message": "Sao chép vào clipboard"
+   },
+   "copy_false": {
+      "message": "Sao chép thất bại!"
+   },
+   "copy_success": {
+      "message": "Đã sao chép vào clipboard!"
+   },
+   "crop": {
+      "message": "Cắt"
+   },
+   "default_set": {
+      "message": "Cài đặt mặc định"
+   },
+   "delete": {
+      "message": "Xóa"
+   },
+   "deleteAlert": {
+      "message": "Bạn có chắc chắn muốn xóa không?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Đã xảy ra lỗi không xác định!"
+   },
+   "error_upload_snap": {
+      "message": "Lỗi tải ảnh chụp lên!"
+   },
+   "exist_info": {
+      "message": "Trang web đã được lưu!"
+   },
+   "exitUploading": {
+      "message": "Đang tải lên, bạn có chắc muốn rời đi không?"
+   },
+   "favMyTags": {
+      "message": "Thẻ của tôi"
+   },
+   "favOption": {
+      "message": "Tùy chọn"
+   },
+   "favSuggestTag": {
+      "message": "Đề xuất thẻ"
+   },
+   "favTag": {
+      "message": "Thẻ"
+   },
+   "favTagLengthOver": {
+      "message": "Thẻ quá dài"
+   },
+   "favTagNumOver": {
+      "message": "Số lượng thẻ vượt quá giới hạn!"
+   },
+   "favTagPlaceholder": {
+      "message": "Thẻ"
+   },
+   "favTitle": {
+      "message": "Tiêu đề"
+   },
+   "favUrl": {
+      "message": "Liên kết"
+   },
+   "fav_edit": {
+      "message": "Chỉnh sửa Bộ sưu tập"
+   },
+   "fav_success": {
+      "message": "Lưu thành công!"
+   },
+   "fav_success_edit": {
+      "message": "Lưu thành công - Chỉnh sửa"
+   },
+   "forgetPsw": {
+      "message": "Quên mật khẩu?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(ảnh chụp màn hình HD 2x)"
+   },
+   "history": {
+      "message": "Lịch sử"
+   },
+   "historyClear": {
+      "message": "Xóa"
+   },
+   "historyClearAll": {
+      "message": "Xóa tất cả bản ghi"
+   },
+   "historyClearConfirm": {
+      "message": "Xóa toàn bộ lịch sử ảnh chụp màn hình?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Xóa lịch sử"
+   },
+   "historyClearOlder1Month": {
+      "message": "Xóa các bản ghi cũ hơn 1 tháng"
+   },
+   "historyClearOlder3Months": {
+      "message": "Xóa các bản ghi cũ hơn 3 tháng"
+   },
+   "historyDelete": {
+      "message": "Xóa"
+   },
+   "historyEmpty": {
+      "message": "Chưa có lịch sử ảnh chụp màn hình."
+   },
+   "historyUnknownDomain": {
+      "message": "Miền không xác định"
+   },
+   "iframe_capture": {
+      "message": "Đã phát hiện iframe lồng nhau! Vui lòng chụp lại toàn bộ ảnh chụp màn hình trên trang mở tự động"
+   },
+   "img": {
+      "message": "Hình ảnh"
+   },
+   "imgCaptcha": {
+      "message": "Mã xác minh hình ảnh"
+   },
+   "imgCodeInput": {
+      "message": "Nhập mã xác minh hình ảnh!"
+   },
+   "issueContentAdd": {
+      "message": "Mô tả ngắn về sự cố"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "issueTitleAdd": {
+      "message": "Thêm tiêu đề"
+   },
+   "issueUrl": {
+      "message": "Liên kết"
+   },
+   "like_body": {
+      "message": "Việc phát triển một chương trình hữu ích đòi hỏi rất nhiều công sức, và chúng tôi rất vui vì bạn thích nó!<br /><br />Bạn có thể dành một phút để để lại đánh giá năm sao cho chúng tôi không? Điều đó sẽ rất hữu ích với chúng tôi. :)"
+   },
+   "like_no_thanks": {
+      "message": "Không, cảm ơn"
+   },
+   "like_title": {
+      "message": "Bạn thích công cụ này chứ?"
+   },
+   "like_yes": {
+      "message": "Có"
+   },
+   "loading": {
+      "message": "Đang tải"
+   },
+   "loginCodeResend": {
+      "message": "Gửi lại"
+   },
+   "loginCodeSent": {
+      "message": "Đã gửi"
+   },
+   "loginSignUp": {
+      "message": "Đăng nhập / Đăng ký"
+   },
+   "login_refresh": {
+      "message": "Làm mới sau khi đăng nhập"
+   },
+   "msg_title": {
+      "message": "Mẹo - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Tìm thấy nhiều khu vực, chọn một."
+   },
+   "my_collections": {
+      "message": "Bộ sưu tập của tôi"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Lỗi yêu cầu mạng!"
+   },
+   "noSupportMultiPic": {
+      "message": "Không hỗ trợ cắt nhiều hình ảnh"
+   },
+   "not_support": {
+      "message": "Chào mừng bạn đến với tiện ích mở rộng OpenCapture. Bạn có thể sử dụng tiện ích này trên bất kỳ trang web nào, ngoại trừ những trang bị trình duyệt hạn chế chạy các tập lệnh từ tiện ích mở rộng. Điều này bao gồm cửa hàng tiện ích mở rộng, trang cài đặt trình duyệt và các tiện ích mở rộng khác.<br /><br />Hãy thử một trang web khác, chẳng hạn như <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">trang này</a>. Chúc vui vẻ!<br /><br />Trình duyệt không cho phép truy cập một số URL vì lý do bảo mật. Điều này bao gồm cửa hàng tiện ích mở rộng, các tiện ích mở rộng khác và các URL như chrome://, extension://. <b>Trang hiện tại có vẻ là một URL bị hạn chế.</b><br /><br />Nếu bạn có thêm câu hỏi, vui lòng liên hệ với chúng tôi.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Tùy chọn"
+   },
+   "page_not_ready": {
+      "message": "Đang tải, thử lại sau."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Bạn đã từ chối cấp quyền quản lý tải xuống"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium đang hoạt động."
+   },
+   "premium_active_price": {
+      "message": "Đăng ký hằng năm đang hoạt động"
+   },
+   "premium_active_subtitle": {
+      "message": "Tất cả chế độ Premium đã mở khóa trên bản cài trình duyệt này."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium đang hoạt động"
+   },
+   "premium_all_free": {
+      "message": "Tất cả trong Free"
+   },
+   "premium_back": {
+      "message": "Quay lại"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Quay lại OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Tải lên Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Tính năng Premium này"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Chụp HD toàn trang"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Chụp trang dài tách phần"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Chụp vùng cuộn"
+   },
+   "premium_free_edit": {
+      "message": "Chú thích, cắt, sao chép, in, xuất PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Chụp toàn trang bằng cuộn"
+   },
+   "premium_free_hd": {
+      "message": "Chụp HD toàn trang: 5 lượt thử miễn phí"
+   },
+   "premium_free_long_page_split": {
+      "message": "Chụp trang dài tách phần"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Cho ảnh chụp hằng ngày"
+   },
+   "premium_free_scrollable": {
+      "message": "Chụp vùng cuộn: 5 lượt thử miễn phí"
+   },
+   "premium_free_visible": {
+      "message": "Chụp phần hiển thị"
+   },
+   "premium_future": {
+      "message": "Truy cập tính năng Premium sau này"
+   },
+   "premium_hd": {
+      "message": "Chụp HD toàn trang không giới hạn"
+   },
+   "premium_long_page_split": {
+      "message": "Nhiều dung lượng lịch sử hơn"
+   },
+   "premium_manage": {
+      "message": "Quản lý"
+   },
+   "premium_manage_subscription": {
+      "message": "Quản lý gói đăng ký"
+   },
+   "premium_mode_switching": {
+      "message": "Chuyển chế độ sáng/tối"
+   },
+   "premium_notice_low": {
+      "message": "Lượt thử miễn phí cho {feature} sắp hết. Còn lại: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Nâng cấp Premium để mở khóa thêm tính năng nâng cao."
+   },
+   "premium_notice_used_up": {
+      "message": "Bạn đã dùng hết lượt thử miễn phí cho {feature}."
+   },
+   "premium_opening_portal": {
+      "message": "Đang mở..."
+   },
+   "premium_opening_stripe": {
+      "message": "Đang mở Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Không thể mở trang quản lý gói đăng ký."
+   },
+   "premium_portal_error_full": {
+      "message": "Không thể mở quản lý đăng ký. Vui lòng thử lại sau."
+   },
+   "premium_portal_opening": {
+      "message": "Đang mở..."
+   },
+   "premium_price": {
+      "message": "Đăng ký hằng năm"
+   },
+   "premium_restore_guide": {
+      "message": "Đã mua hoặc cài lại?"
+   },
+   "premium_restore_link": {
+      "message": "Khôi phục Premium"
+   },
+   "premium_scrollable": {
+      "message": "Chụp vùng cuộn không giới hạn"
+   },
+   "premium_stripe_error": {
+      "message": "Không thể mở liên kết thanh toán Stripe. Vui lòng thử lại sau."
+   },
+   "premium_subtitle": {
+      "message": "Premium mở khóa mọi chế độ, gồm chụp HD toàn trang và vùng có thể cuộn."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Nâng cấp Premium để đổi chế độ."
+   },
+   "premium_title": {
+      "message": "Ủng hộ chúng tôi và nâng cấp lên OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Không rõ"
+   },
+   "premium_upgrade": {
+      "message": "Nâng cấp Premium"
+   },
+   "premium_valid_until": {
+      "message": "Có hiệu lực đến"
+   },
+   "print": {
+      "message": "In"
+   },
+   "privacy": {
+      "message": "Quyền riêng tư"
+   },
+   "privateBeizhu": {
+      "message": "Ghi chú riêng tư"
+   },
+   "refresh_effective": {
+      "message": "Hiệu lực sau khi làm mới"
+   },
+   "reportIssue": {
+      "message": "Báo cáo sự cố"
+   },
+   "saveUrl2Private": {
+      "message": "Riêng tư"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Đặt thành riêng tư, chỉ mình bạn có thể xem"
+   },
+   "saveUrl2Public": {
+      "message": "Công khai"
+   },
+   "saveUrl2Snap": {
+      "message": "Chụp ảnh"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Lưu ảnh chụp trang web"
+   },
+   "savedFileNameByTile": {
+      "message": "Theo tiêu đề"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "vd: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Theo thời gian"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "vd: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Tên tệp"
+   },
+   "scrollable_area_no": {
+      "message": "Không tìm thấy khu vực có thể cuộn."
+   },
+   "sendMailCode": {
+      "message": "Gửi"
+   },
+   "setting_appearance": {
+      "message": "Giao diện"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Định dạng tải lên đám mây"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Chọn định dạng tệp khi tải ảnh chụp màn hình lên ổ đĩa đám mây."
+   },
+   "setting_default_private": {
+      "message": "Mặc định là Riêng tư"
+   },
+   "setting_default_private_info": {
+      "message": "Chỉ định mặc định là riêng tư khi lưu vào YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Lưu hình ảnh"
+   },
+   "setting_down_image_format_info": {
+      "message": "Chỉ định định dạng hình ảnh khi tải ảnh chụp màn hình xuống."
+   },
+   "setting_download": {
+      "message": "Tải về"
+   },
+   "setting_download_save_as": {
+      "message": "Lưu dưới dạng"
+   },
+   "setting_download_save_as_info": {
+      "message": "Hiển thị hộp thoại \"Lưu dưới dạng\" tự động khi tải ảnh chụp màn hình của bạn."
+   },
+   "setting_more": {
+      "message": "Cài đặt thêm"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Lề trang"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Chỉ định lề trang, đơn vị là pt, phạm vi được chỉ định (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Kích thước giấy"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Chỉ định kích thước giấy cho các tệp PDF khi xuất ra PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Hiển thị hộp thoại lưu vào YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Hiển thị hộp thoại lưu vào YesKeeper khi lưu dưới dạng ảnh chụp trang web"
+   },
+   "setting_theme_mode": {
+      "message": "Chế độ"
+   },
+   "setting_theme_mode_info": {
+      "message": "Chọn chủ đề hiển thị cho các trang OpenCapture."
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "signInWithApple": {
+      "message": "Đăng nhập với Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Đăng nhập với Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Đăng nhập với Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Bằng cách đăng ký, bạn đồng ý với <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Thỏa thuận dịch vụ người dùng</a> và <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Chính sách bảo mật</a> của YesKeeper"
+   },
+   "site_item1": {
+      "message": "Ảnh chụp trang web"
+   },
+   "site_item2": {
+      "message": "Dấu trang đám mây"
+   },
+   "site_item3": {
+      "message": "Đọc sau"
+   },
+   "site_language": {
+      "message": "Ngôn ngữ"
+   },
+   "site_login": {
+      "message": "Đăng nhập"
+   },
+   "site_reg": {
+      "message": "Đăng ký"
+   },
+   "snap_shot_prepare": {
+      "message": "Đang chuẩn bị cuộn màn hình và tải ảnh chụp lên"
+   },
+   "snap_shot_uploading": {
+      "message": "Đang tải ảnh chụp lên..."
+   },
+   "splitMultiImages": {
+      "message": "Lưu ý: Trang này quá lớn để trình duyệt có thể chụp dưới dạng hình ảnh. Nó sẽ được chia thành nhiều hình ảnh."
+   },
+   "stop_scrolling": {
+      "message": "Dừng cuộn"
+   },
+   "submitFalse": {
+      "message": "Gửi không thành công!"
+   },
+   "tags_no": {
+      "message": "Không có thẻ"
+   },
+   "theme_dark": {
+      "message": "Tối"
+   },
+   "theme_follow_system": {
+      "message": "Theo hệ thống"
+   },
+   "theme_light": {
+      "message": "Sáng"
+   },
+   "tryAgainLater": {
+      "message": "Đang tải, vui lòng thử lại sau"
+   },
+   "uploadToCloudDrive": {
+      "message": "Tải lên bộ nhớ đám mây"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Tải lên thất bại"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Tải lên thành công"
+   },
+   "viewMyCollections": {
+      "message": "Xem bộ sưu tập của tôi"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

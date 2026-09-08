@@ -1,0 +1,169 @@
+html[data-opencapture-theme="dark"],
+html[data-opencapture-theme="dark"] body {
+  background-color: #111827 !important;
+  color: #e5e7eb !important;
+  color-scheme: dark;
+}
+
+html[data-opencapture-theme="dark"] .container-fluid,
+html[data-opencapture-theme="dark"] #user_page,
+html[data-opencapture-theme="dark"] .menus,
+html[data-opencapture-theme="dark"] #progress_lay,
+html[data-opencapture-theme="dark"] #not_ready_lay,
+html[data-opencapture-theme="dark"] #scrollable_select_lay {
+  background-color: #111827 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-opencapture-theme="dark"] .card,
+html[data-opencapture-theme="dark"] .save-card,
+html[data-opencapture-theme="dark"] .plan-card,
+html[data-opencapture-theme="dark"] .restore-card,
+html[data-opencapture-theme="dark"] .history-item,
+html[data-opencapture-theme="dark"] .history-dialog,
+html[data-opencapture-theme="dark"] .empty-state,
+html[data-opencapture-theme="dark"] .notice,
+html[data-opencapture-theme="dark"] .whats-new,
+html[data-opencapture-theme="dark"] .setContent {
+  background-color: #1f2937 !important;
+  border-color: #374151 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-opencapture-theme="dark"] .card-header,
+html[data-opencapture-theme="dark"] .card-body,
+html[data-opencapture-theme="dark"] .dropdown-menu,
+html[data-opencapture-theme="dark"] .modal-content,
+html[data-opencapture-theme="dark"] .list-group-item {
+  background-color: #1f2937 !important;
+  border-color: #374151 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-opencapture-theme="dark"] .list-group-item-action:hover,
+html[data-opencapture-theme="dark"] .list-group-item-action:focus,
+html[data-opencapture-theme="dark"] .dropdown-item:hover,
+html[data-opencapture-theme="dark"] .dropdown-item:focus {
+  background-color: #273449 !important;
+  color: #f9fafb !important;
+}
+
+html[data-opencapture-theme="dark"] .dropdown-item,
+html[data-opencapture-theme="dark"] .history-title,
+html[data-opencapture-theme="dark"] .history-dialog-title,
+html[data-opencapture-theme="dark"] .premium-title,
+html[data-opencapture-theme="dark"] .plan-name,
+html[data-opencapture-theme="dark"] .restore-title,
+html[data-opencapture-theme="dark"] .whats-new-title {
+  color: #f9fafb !important;
+}
+
+html[data-opencapture-theme="dark"] .text-muted,
+html[data-opencapture-theme="dark"] .history-meta,
+html[data-opencapture-theme="dark"] .history-extra,
+html[data-opencapture-theme="dark"] .premium-subtitle,
+html[data-opencapture-theme="dark"] .plan-price,
+html[data-opencapture-theme="dark"] .restore-subtitle,
+html[data-opencapture-theme="dark"] .restore-note,
+html[data-opencapture-theme="dark"] .feature-list .muted,
+html[data-opencapture-theme="dark"] .whats-new ul {
+  color: #a7b0bf !important;
+}
+
+html[data-opencapture-theme="dark"] .form-control,
+html[data-opencapture-theme="dark"] .custom-select,
+html[data-opencapture-theme="dark"] .input-group-text {
+  background-color: #111827 !important;
+  border-color: #4b5563 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-opencapture-theme="dark"] .form-control::placeholder {
+  color: #8b95a5 !important;
+}
+
+html[data-opencapture-theme="dark"] .btn-light,
+html[data-opencapture-theme="dark"] .history-clear-btn,
+html[data-opencapture-theme="dark"] .history-dialog-actions .btn,
+html[data-opencapture-theme="dark"] .premium-upgrade-mini {
+  background-color: #253044 !important;
+  border-color: #4b5563 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-opencapture-theme="dark"] .btn-light:hover,
+html[data-opencapture-theme="dark"] .history-clear-btn:hover,
+html[data-opencapture-theme="dark"] .history-dialog-actions .btn:hover,
+html[data-opencapture-theme="dark"] .premium-upgrade-mini:hover {
+  background-color: #374151 !important;
+  color: #ffffff !important;
+}
+
+html[data-opencapture-theme="dark"] .content-disabled,
+html[data-opencapture-theme="dark"] .premium-menu-item.premium-locked {
+  background-color: #182133 !important;
+  color: #7f8a9b !important;
+}
+
+html[data-opencapture-theme="dark"] .btn-icon {
+  color: #60a5fa !important;
+}
+
+html[data-opencapture-theme="dark"] #progress_lay > div:first-child {
+  background-color: #1f2937 !important;
+}
+
+html[data-opencapture-theme="dark"] .progress {
+  background-color: #253044 !important;
+  border: 1px solid #374151 !important;
+}
+
+html[data-opencapture-theme="dark"] .progress-bar {
+  background-color: #3b82f6 !important;
+}
+
+html[data-opencapture-theme="dark"] #btn_stop {
+  background-color: #2563eb !important;
+  border-color: #3b82f6 !important;
+  color: #ffffff !important;
+}
+
+html[data-opencapture-theme="dark"] #btn_stop:hover,
+html[data-opencapture-theme="dark"] #btn_stop:focus {
+  background-color: #1d4ed8 !important;
+  border-color: #60a5fa !important;
+}
+
+html[data-opencapture-theme="dark"] hr,
+html[data-opencapture-theme="dark"] .nav-tabs,
+html[data-opencapture-theme="dark"] .or-container .line-separator {
+  border-color: #374151 !important;
+  background-color: #374151 !important;
+}
+
+html[data-opencapture-theme="dark"] #progress_lay .progress-icon-wrap,
+html[data-opencapture-theme="dark"] #not_ready_lay .progress-icon-wrap {
+  background-color: #1e293b !important;
+}
+
+html[data-opencapture-theme="dark"] #saveFavErrorMsg {
+  background-color: #3b2f16 !important;
+  color: #fde68a !important;
+}
+
+html[data-opencapture-theme="dark"] .content .shot-image,
+html[data-opencapture-theme="dark"] #help_pin,
+html[data-opencapture-theme="dark"] #videoPlayer,
+html[data-opencapture-theme="dark"] .history-thumb {
+  background-color: #0b1220 !important;
+  border-color: #374151 !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.55) !important;
+}
+
+html[data-opencapture-theme="dark"] a:not(.btn):not(.list-group-item) {
+  color: #7db7ff !important;
+}
+
+html[data-opencapture-theme="dark"] .setting-premium-link {
+  color: #facc15 !important;
+}

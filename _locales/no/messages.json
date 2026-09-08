@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Bekreftelseskode"
+   },
+   "accountLogin": {
+      "message": "Logg inn med konto og passord"
+   },
+   "add": {
+      "message": "Legg til"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Vennligst gi tillatelse til nedlastingsadministrasjon først"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Gi tillatelse til nedlastingsadministrasjon"
+   },
+   "auto_clase": {
+      "message": "Lukk vinduet automatisk"
+   },
+   "bar_copy": {
+      "message": "Kopier"
+   },
+   "bar_save": {
+      "message": "Lagre"
+   },
+   "btn_cancel": {
+      "message": "Avbryt"
+   },
+   "btn_lock": {
+      "message": "Privat"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Fjern"
+   },
+   "btn_snap": {
+      "message": "Øyeblikksbilde"
+   },
+   "btn_submit": {
+      "message": "Send inn"
+   },
+   "btn_view": {
+      "message": "Vis"
+   },
+   "capture2pdfDownload": {
+      "message": "Lagre som PDF"
+   },
+   "captureAllPage": {
+      "message": "Ta skjermbilde av hele siden"
+   },
+   "captureAnnotate": {
+      "message": "Legg til merknader"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Last opp dette skjermbildet"
+   },
+   "captureClickAnnotate": {
+      "message": "Klikk på skjermbildet for å legge til merknader"
+   },
+   "captureDownload": {
+      "message": "Lagre bilde"
+   },
+   "captureHighResAllPage": {
+      "message": "HD-skjermbilde av hele siden"
+   },
+   "capturePage": {
+      "message": "Ta skjermbilde av synlig del"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Ta skjermbilde fra gjeldende posisjon"
+   },
+   "captureScrollable": {
+      "message": "Fang rullbart område"
+   },
+   "captureSelection": {
+      "message": "Ta skjermbilde av valgt område"
+   },
+   "capture_interrupted": {
+      "message": "Fanen er byttet, skjermbilde stoppet!"
+   },
+   "capture_scroll": {
+      "message": "Fang dette"
+   },
+   "clickSel": {
+      "message": "Klikk for å velge"
+   },
+   "clickUnfold": {
+      "message": "Klikk for å utfolde"
+   },
+   "close": {
+      "message": "Lukk"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Kan ikke kopiere bilde"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Bilde kopiert til utklippstavlen"
+   },
+   "copyNotSupport": {
+      "message": "Nettleseren din støtter ikke kopiering av bilder!"
+   },
+   "copyToClipBoard": {
+      "message": "Kopier til utklippstavlen"
+   },
+   "copy_false": {
+      "message": "Kopiering mislyktes!"
+   },
+   "copy_success": {
+      "message": "Kopiert til utklippstavlen!"
+   },
+   "crop": {
+      "message": "Beskjær"
+   },
+   "default_set": {
+      "message": "Standardinnstilling"
+   },
+   "delete": {
+      "message": "Fjern"
+   },
+   "deleteAlert": {
+      "message": "Er du sikker på at du vil fjerne?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Ukjent feil oppstod!"
+   },
+   "error_upload_snap": {
+      "message": "Feil ved opplasting av øyeblikksbilde!"
+   },
+   "exist_info": {
+      "message": "Nettsiden er lagret!"
+   },
+   "exitUploading": {
+      "message": "Opplasting pågår, er du sikker på at du vil forlate?"
+   },
+   "favMyTags": {
+      "message": "Mine tagger"
+   },
+   "favOption": {
+      "message": "Alternativ"
+   },
+   "favSuggestTag": {
+      "message": "Foreslå tagger"
+   },
+   "favTag": {
+      "message": "Tag"
+   },
+   "favTagLengthOver": {
+      "message": "Taggen er for lang"
+   },
+   "favTagNumOver": {
+      "message": "Antall tagger overstiger grensen!"
+   },
+   "favTagPlaceholder": {
+      "message": "Tagger"
+   },
+   "favTitle": {
+      "message": "Tittel"
+   },
+   "favUrl": {
+      "message": "Lenke"
+   },
+   "fav_edit": {
+      "message": "Rediger samling"
+   },
+   "fav_success": {
+      "message": "Lagring vellykket!"
+   },
+   "fav_success_edit": {
+      "message": "Lagring vellykket - Redigert"
+   },
+   "forgetPsw": {
+      "message": "Glemt passord?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD-skjermbilde)"
+   },
+   "history": {
+      "message": "Historikk"
+   },
+   "historyClear": {
+      "message": "Tøm"
+   },
+   "historyClearAll": {
+      "message": "Tøm alle oppføringer"
+   },
+   "historyClearConfirm": {
+      "message": "Tømme all skjermbildehistorikk?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Tøm historikk"
+   },
+   "historyClearOlder1Month": {
+      "message": "Tøm oppføringer eldre enn 1 måned"
+   },
+   "historyClearOlder3Months": {
+      "message": "Tøm oppføringer eldre enn 3 måneder"
+   },
+   "historyDelete": {
+      "message": "Slett"
+   },
+   "historyEmpty": {
+      "message": "Ingen skjermbildehistorikk ennå."
+   },
+   "historyUnknownDomain": {
+      "message": "Ukjent domene"
+   },
+   "iframe_capture": {
+      "message": "Fant innebygd ramme! Vennligst ta et nytt skjermbilde på den automatisk åpnede siden."
+   },
+   "img": {
+      "message": "Bilde"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Skriv inn bilde-verifikasjonskoden!"
+   },
+   "issueContentAdd": {
+      "message": "En kort beskrivelse av problemet"
+   },
+   "issueEmail": {
+      "message": "E-post"
+   },
+   "issueTitleAdd": {
+      "message": "Legg til en tittel"
+   },
+   "issueUrl": {
+      "message": "Lenke"
+   },
+   "like_body": {
+      "message": "Å utvikle et nyttig program krever mye innsats, og vi er glade for at du liker det!<br /><br />Kan du ta et minutt for å gi oss en femstjerners vurdering? Det vil være til stor hjelp for oss. :)"
+   },
+   "like_no_thanks": {
+      "message": "Nei, takk"
+   },
+   "like_title": {
+      "message": "Liker du dette verktøyet?"
+   },
+   "like_yes": {
+      "message": "Ja"
+   },
+   "loading": {
+      "message": "Laster inn"
+   },
+   "loginCodeResend": {
+      "message": "Send på nytt"
+   },
+   "loginCodeSent": {
+      "message": "Sendt"
+   },
+   "loginSignUp": {
+      "message": "Logg inn / Registrer deg"
+   },
+   "login_refresh": {
+      "message": "Oppdater etter innlogging"
+   },
+   "msg_title": {
+      "message": "Tips - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Flere områder funnet, velg ett."
+   },
+   "my_collections": {
+      "message": "Mine samlinger"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Nettverksforespørselfeil!"
+   },
+   "noSupportMultiPic": {
+      "message": "Beskjæring av flere bilder støttes ikke"
+   },
+   "not_support": {
+      "message": "Velkommen til OpenCapture-utvidelsen. Du kan bruke den på alle nettsider, bortsett fra sider der nettleseren begrenser utvidelser fra å kjøre skript. Dette inkluderer utvidelsesbutikken, nettleserinnstillinger og andre utvidelser.<br /><br />Prøv en annen nettside, for eksempel <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">denne</a>. Ha det gøy! <br /><br />Nettleseren tillater ikke tilgang til enkelte nettadresser av sikkerhetsgrunner. Dette inkluderer nettbutikkens galleri, andre utvidelser og chrome://, extension:// URL-er. <b>Den gjeldende siden ser ut til å være en begrenset URL.</b><br /><br />For ytterligere spørsmål, kontakt oss.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Valgfritt"
+   },
+   "page_not_ready": {
+      "message": "Laster, prøv igjen senere."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Du har nektet tillatelse til nedlastingsadministrasjon"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium er aktiv."
+   },
+   "premium_active_price": {
+      "message": "Årsabonnement aktivt"
+   },
+   "premium_active_subtitle": {
+      "message": "Alle Premium-moduser er låst opp i denne nettleserinstallasjonen."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium er aktiv"
+   },
+   "premium_all_free": {
+      "message": "Alt i Free"
+   },
+   "premium_back": {
+      "message": "Tilbake"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Tilbake til OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Last opp til Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Denne Premium-funksjonen"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD-helsidebilder"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Delte lange sidebilder"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Bilder av rullbare områder"
+   },
+   "premium_free_edit": {
+      "message": "Kommenter, beskjær, kopier, skriv ut, eksporter PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Fang hel side med rulling"
+   },
+   "premium_free_hd": {
+      "message": "HD-helsidebilder: 5 gratisprøver"
+   },
+   "premium_free_long_page_split": {
+      "message": "Delte lange sidebilder"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "For daglige skjermbilder"
+   },
+   "premium_free_scrollable": {
+      "message": "Bilder av rullbare områder: 5 gratisprøver"
+   },
+   "premium_free_visible": {
+      "message": "Fang synlig del"
+   },
+   "premium_future": {
+      "message": "Tilgang til fremtidige Premium-funksjoner"
+   },
+   "premium_hd": {
+      "message": "Ubegrensede HD-helsidebilder"
+   },
+   "premium_long_page_split": {
+      "message": "Mer historikkplass"
+   },
+   "premium_manage": {
+      "message": "Administrer"
+   },
+   "premium_manage_subscription": {
+      "message": "Administrer abonnement"
+   },
+   "premium_mode_switching": {
+      "message": "Bytte lys/mørk modus"
+   },
+   "premium_notice_low": {
+      "message": "Dine gratisprøver for {feature} er nesten brukt opp. Gjenstår: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Oppgrader til Premium for å låse opp flere avanserte funksjoner."
+   },
+   "premium_notice_used_up": {
+      "message": "Dine gratisprøver for {feature} er brukt opp."
+   },
+   "premium_opening_portal": {
+      "message": "Åpner..."
+   },
+   "premium_opening_stripe": {
+      "message": "Åpner Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Kunne ikke åpne abonnementsadministrasjon."
+   },
+   "premium_portal_error_full": {
+      "message": "Kunne ikke åpne abonnementsadministrasjon. Prøv igjen senere."
+   },
+   "premium_portal_opening": {
+      "message": "Åpner..."
+   },
+   "premium_price": {
+      "message": "Årsabonnement"
+   },
+   "premium_restore_guide": {
+      "message": "Allerede kjøpt eller installert på nytt?"
+   },
+   "premium_restore_link": {
+      "message": "Gjenopprett Premium"
+   },
+   "premium_scrollable": {
+      "message": "Ubegrensede bilder av rullbare områder"
+   },
+   "premium_stripe_error": {
+      "message": "Kunne ikke åpne Stripe-betalingslenken. Prøv igjen senere."
+   },
+   "premium_subtitle": {
+      "message": "Premium låser opp alle moduser, inkludert HD-helsidebilder og rullbare områder."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Oppgrader til Premium for å endre modus."
+   },
+   "premium_title": {
+      "message": "Støtt oss og oppgrader til OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Ukjent"
+   },
+   "premium_upgrade": {
+      "message": "Oppgrader til Premium"
+   },
+   "premium_valid_until": {
+      "message": "Gyldig til"
+   },
+   "print": {
+      "message": "Skriv ut"
+   },
+   "privacy": {
+      "message": "Personvern"
+   },
+   "privateBeizhu": {
+      "message": "Private merknader"
+   },
+   "refresh_effective": {
+      "message": "Effektivt etter oppdatering"
+   },
+   "reportIssue": {
+      "message": "Rapporter problem"
+   },
+   "saveUrl2Private": {
+      "message": "Privat"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Angi som privat, kun synlig for deg selv"
+   },
+   "saveUrl2Public": {
+      "message": "Offentlig"
+   },
+   "saveUrl2Snap": {
+      "message": "Øyeblikksbilde"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Lagre nettside-øyeblikksbilde"
+   },
+   "savedFileNameByTile": {
+      "message": "Etter tittel"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "f.eks.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Etter tid"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "f.eks.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Filnavn"
+   },
+   "scrollable_area_no": {
+      "message": "Fant ingen rullbart område."
+   },
+   "sendMailCode": {
+      "message": "Send"
+   },
+   "setting_appearance": {
+      "message": "Utseende"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format for skyopplasting"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Angi filformatet når skjermbilder lastes opp til skylagring."
+   },
+   "setting_default_private": {
+      "message": "Standard privat"
+   },
+   "setting_default_private_info": {
+      "message": "Angi standard privat når du lagrer til YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Lagre bilde"
+   },
+   "setting_down_image_format_info": {
+      "message": "Angi bildeformat for nedlasting av skjermbilder."
+   },
+   "setting_download": {
+      "message": "Nedlasting"
+   },
+   "setting_download_save_as": {
+      "message": "Lagre som"
+   },
+   "setting_download_save_as_info": {
+      "message": "Vis en \"lagre som\"-dialogboks når du laster ned skjermbilder."
+   },
+   "setting_more": {
+      "message": "Flere innstillinger"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Sidestørrelse"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Angi sidemarger, enhet pt, gyldig verdi (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Papirstørrelse"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Angi papirstørrelse for eksport til PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Vis 'Lagre til YesKeeper'-dialog"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Vis 'Lagre til YesKeeper'-dialog for å lagre som nettside-øyeblikksbilde"
+   },
+   "setting_theme_mode": {
+      "message": "Modus"
+   },
+   "setting_theme_mode_info": {
+      "message": "Velg visningstema for OpenCapture-sider."
+   },
+   "settings": {
+      "message": "Innstillinger"
+   },
+   "signInWithApple": {
+      "message": "Logg inn med Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Logg inn med Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Logg inn med Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Ved å registrere deg, godtar du YesKeepers <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Brukervilkår</a> og <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Personvernerklæring</a>"
+   },
+   "site_item1": {
+      "message": "Nettside øyeblikksbilde"
+   },
+   "site_item2": {
+      "message": "Sky-bokmerker"
+   },
+   "site_item3": {
+      "message": "Les senere"
+   },
+   "site_language": {
+      "message": "Språk"
+   },
+   "site_login": {
+      "message": "Logg inn"
+   },
+   "site_reg": {
+      "message": "Registrer deg"
+   },
+   "snap_shot_prepare": {
+      "message": "Forbereder å bla gjennom skjermen og laste opp øyeblikksbilde"
+   },
+   "snap_shot_uploading": {
+      "message": "Laster opp øyeblikksbilde..."
+   },
+   "splitMultiImages": {
+      "message": "Merk: Denne siden er for stor for nettleseren til å fange som ett bilde. Den vil bli delt opp i flere bilder."
+   },
+   "stop_scrolling": {
+      "message": "Stopp rulling"
+   },
+   "submitFalse": {
+      "message": "Innsending mislyktes!"
+   },
+   "tags_no": {
+      "message": "Ingen tagger"
+   },
+   "theme_dark": {
+      "message": "Mørk"
+   },
+   "theme_follow_system": {
+      "message": "Følg systemet"
+   },
+   "theme_light": {
+      "message": "Lys"
+   },
+   "tryAgainLater": {
+      "message": "Laster inn, prøv igjen senere"
+   },
+   "uploadToCloudDrive": {
+      "message": "Last opp til skylagring"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Opplasting mislyktes"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Opplasting fullført"
+   },
+   "viewMyCollections": {
+      "message": "Se mine samlinger"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "인증 코드"
+   },
+   "accountLogin": {
+      "message": "계정 비밀번호 로그인"
+   },
+   "add": {
+      "message": "추가"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "먼저 다운로드 관리 권한을 허용해 주세요"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "다운로드 관리 권한을 허용합니다"
+   },
+   "auto_clase": {
+      "message": "자동 창 닫기"
+   },
+   "bar_copy": {
+      "message": "복사"
+   },
+   "bar_save": {
+      "message": "저장"
+   },
+   "btn_cancel": {
+      "message": "취소"
+   },
+   "btn_lock": {
+      "message": "비공개"
+   },
+   "btn_ok": {
+      "message": "확인"
+   },
+   "btn_remove": {
+      "message": "제거"
+   },
+   "btn_snap": {
+      "message": "스냅샷"
+   },
+   "btn_submit": {
+      "message": "제출"
+   },
+   "btn_view": {
+      "message": "보기"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF로 저장"
+   },
+   "captureAllPage": {
+      "message": "전체 페이지 캡처"
+   },
+   "captureAnnotate": {
+      "message": "주석 달기"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "이 스크린샷 업로드"
+   },
+   "captureClickAnnotate": {
+      "message": "스크린샷을 클릭하여 주석을 달기"
+   },
+   "captureDownload": {
+      "message": "이미지 저장"
+   },
+   "captureHighResAllPage": {
+      "message": "전체 페이지 HD 캡처"
+   },
+   "capturePage": {
+      "message": "보이는 부분 캡처"
+   },
+   "capturePageCurrentPosition": {
+      "message": "현재 위치에서 캡처"
+   },
+   "captureScrollable": {
+      "message": "스크롤 가능한 영역 캡처"
+   },
+   "captureSelection": {
+      "message": "선택 영역 캡처"
+   },
+   "capture_interrupted": {
+      "message": "탭 전환 감지됨, 스크린샷 중지!"
+   },
+   "capture_scroll": {
+      "message": "이것을 캡처"
+   },
+   "clickSel": {
+      "message": "클릭하여 선택"
+   },
+   "clickUnfold": {
+      "message": "클릭하여 펼치기"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "이미지를 복사할 수 없습니다."
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "이미지가 클립보드에 복사되었습니다."
+   },
+   "copyNotSupport": {
+      "message": "브라우저에서 이미지 복사를 지원하지 않습니다!"
+   },
+   "copyToClipBoard": {
+      "message": "클립보드에 복사"
+   },
+   "copy_false": {
+      "message": "복사 실패!"
+   },
+   "copy_success": {
+      "message": "클립보드에 복사되었습니다!"
+   },
+   "crop": {
+      "message": "사진 자르기"
+   },
+   "default_set": {
+      "message": "기본 설정"
+   },
+   "delete": {
+      "message": "제거"
+   },
+   "deleteAlert": {
+      "message": "정말로 제거하시겠습니까?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "알 수 없는 오류가 발생했습니다!"
+   },
+   "error_upload_snap": {
+      "message": "스냅샷 업로드 오류!"
+   },
+   "exist_info": {
+      "message": "웹페이지가 이미 저장되었습니다!"
+   },
+   "exitUploading": {
+      "message": "업로드 중입니다. 나가시겠습니까?"
+   },
+   "favMyTags": {
+      "message": "내 태그"
+   },
+   "favOption": {
+      "message": "옵션"
+   },
+   "favSuggestTag": {
+      "message": "제안 태그"
+   },
+   "favTag": {
+      "message": "태그"
+   },
+   "favTagLengthOver": {
+      "message": "태그가 너무 깁니다."
+   },
+   "favTagNumOver": {
+      "message": "태그 수가 제한을 초과했습니다!"
+   },
+   "favTagPlaceholder": {
+      "message": "태그"
+   },
+   "favTitle": {
+      "message": "제목"
+   },
+   "favUrl": {
+      "message": "주소"
+   },
+   "fav_edit": {
+      "message": "컬렉션 편집"
+   },
+   "fav_success": {
+      "message": "저장 성공!"
+   },
+   "fav_success_edit": {
+      "message": "저장 성공 - 편집"
+   },
+   "forgetPsw": {
+      "message": "비밀번호를 잊었습니까?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2배 HD 스크린샷)"
+   },
+   "history": {
+      "message": "기록"
+   },
+   "historyClear": {
+      "message": "지우기"
+   },
+   "historyClearAll": {
+      "message": "모든 기록 삭제"
+   },
+   "historyClearConfirm": {
+      "message": "모든 스크린샷 기록을 삭제하시겠습니까?"
+   },
+   "historyClearDialogTitle": {
+      "message": "기록 삭제"
+   },
+   "historyClearOlder1Month": {
+      "message": "1개월이 지난 기록 삭제"
+   },
+   "historyClearOlder3Months": {
+      "message": "3개월이 지난 기록 삭제"
+   },
+   "historyDelete": {
+      "message": "삭제"
+   },
+   "historyEmpty": {
+      "message": "아직 스크린샷 기록이 없습니다."
+   },
+   "historyUnknownDomain": {
+      "message": "알 수 없는 도메인"
+   },
+   "iframe_capture": {
+      "message": "iframe 중첩이 발견되었습니다! 자동으로 열린 페이지에서 전체 스크린샷을 다시 찍어주세요"
+   },
+   "img": {
+      "message": "이미지"
+   },
+   "imgCaptcha": {
+      "message": "캡챠"
+   },
+   "imgCodeInput": {
+      "message": "이미지 인증 코드를 입력하세요!"
+   },
+   "issueContentAdd": {
+      "message": "문제에 대한 간략한 설명"
+   },
+   "issueEmail": {
+      "message": "이메일"
+   },
+   "issueTitleAdd": {
+      "message": "제목 추가"
+   },
+   "issueUrl": {
+      "message": "링크"
+   },
+   "like_body": {
+      "message": "유용한 프로그램을 개발하는 데는 많은 노력이 필요합니다. 이 도구가 마음에 드셔서 기쁩니다!<br /><br />1분만 시간을 내셔서 별 5개의 리뷰를 남겨 주실 수 있나요? 저희에게 큰 도움이 됩니다. :)"
+   },
+   "like_no_thanks": {
+      "message": "아니요, 괜찮아요"
+   },
+   "like_title": {
+      "message": "이 도구가 마음에 드시나요?"
+   },
+   "like_yes": {
+      "message": "네"
+   },
+   "loading": {
+      "message": "로딩 중"
+   },
+   "loginCodeResend": {
+      "message": "재전송"
+   },
+   "loginCodeSent": {
+      "message": "전송됨"
+   },
+   "loginSignUp": {
+      "message": "로그인 / 회원 가입"
+   },
+   "login_refresh": {
+      "message": "로그인 후 새로 고침"
+   },
+   "msg_title": {
+      "message": "팁 - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "여러 영역이 발견되었습니다. 하나를 선택하세요."
+   },
+   "my_collections": {
+      "message": "내 컬렉션"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "네트워크 요청 오류!"
+   },
+   "noSupportMultiPic": {
+      "message": "다중 이미지 자르기는 지원하지 않습니다."
+   },
+   "not_support": {
+      "message": "OpenCapture 확장 프로그램에 오신 것을 환영합니다. 브라우저가 확장 프로그램에서 스크립트를 실행하지 못하도록 제한하는 페이지를 제외하면 어떤 웹 페이지에서든 이를 실행할 수 있습니다. 여기에는 확장 프로그램 웹 스토어, 브라우저 설정 페이지 및 기타 확장 프로그램이 포함됩니다.<br /><br />보안상의 이유로 브라우저가 일부 URL에 액세스를 허용하지 않습니다. 여기에는 웹 스토어 갤러리, 기타 확장 프로그램 및 chrome://, extension:// URL이 포함됩니다. <b>현재 페이지는 제한된 URL인 것 같습니다.</b><br /><br />다른 웹 페이지를 시도해 보세요. 예를 들어 <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">이 페이지</a>입니다. 즐겨 보세요! <br /><br />추가 질문이 있으면 연락하세요.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "선택 사항"
+   },
+   "page_not_ready": {
+      "message": "로딩 중, 나중에 다시 시도하세요."
+   },
+   "permissionDownloadsDenied": {
+      "message": "다운로드 관리 권한 허용을 거부했습니다"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium이 활성화되었습니다."
+   },
+   "premium_active_price": {
+      "message": "연간 구독 활성화"
+   },
+   "premium_active_subtitle": {
+      "message": "이 브라우저 설치에서 모든 Premium 모드가 잠금 해제되었습니다."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium 활성화됨"
+   },
+   "premium_all_free": {
+      "message": "Free의 모든 기능"
+   },
+   "premium_back": {
+      "message": "뒤로"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture로 돌아가기"
+   },
+   "premium_cloud": {
+      "message": "Google Drive에 업로드"
+   },
+   "premium_feature_title_default": {
+      "message": "이 Premium 기능"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD 전체 페이지 캡처"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "긴 페이지 분할 캡처"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "스크롤 영역 캡처"
+   },
+   "premium_free_edit": {
+      "message": "주석, 자르기, 복사, 인쇄, PDF/JPG/PNG 내보내기"
+   },
+   "premium_free_full": {
+      "message": "스크롤로 전체 페이지 캡처"
+   },
+   "premium_free_hd": {
+      "message": "HD 전체 페이지 캡처: 무료 체험 5회"
+   },
+   "premium_free_long_page_split": {
+      "message": "긴 페이지 분할 캡처"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "일상적인 스크린샷용"
+   },
+   "premium_free_scrollable": {
+      "message": "스크롤 영역 캡처: 무료 체험 5회"
+   },
+   "premium_free_visible": {
+      "message": "보이는 영역 캡처"
+   },
+   "premium_future": {
+      "message": "향후 Premium 기능 이용"
+   },
+   "premium_hd": {
+      "message": "HD 전체 페이지 캡처 무제한"
+   },
+   "premium_long_page_split": {
+      "message": "더 많은 기록 공간"
+   },
+   "premium_manage": {
+      "message": "관리"
+   },
+   "premium_manage_subscription": {
+      "message": "구독 관리"
+   },
+   "premium_mode_switching": {
+      "message": "라이트/다크 모드 전환"
+   },
+   "premium_notice_low": {
+      "message": "{feature} 무료 체험 횟수가 거의 끝났습니다. 남은 횟수: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Premium으로 업그레이드하여 더 많은 고급 기능을 잠금 해제하세요."
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} 무료 체험 횟수를 모두 사용했습니다."
+   },
+   "premium_opening_portal": {
+      "message": "여는 중..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe 여는 중..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "구독 관리 페이지를 열 수 없습니다."
+   },
+   "premium_portal_error_full": {
+      "message": "구독 관리를 열 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "premium_portal_opening": {
+      "message": "여는 중..."
+   },
+   "premium_price": {
+      "message": "연간 구독"
+   },
+   "premium_restore_guide": {
+      "message": "이미 구매했거나 다시 설치했나요?"
+   },
+   "premium_restore_link": {
+      "message": "Premium 복원"
+   },
+   "premium_scrollable": {
+      "message": "스크롤 영역 캡처 무제한"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe 결제 링크를 열 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "premium_subtitle": {
+      "message": "Premium은 HD 전체 페이지 캡처와 스크롤 영역 캡처를 포함한 모든 모드를 엽니다."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "모드를 변경하려면 Premium으로 업그레이드하세요."
+   },
+   "premium_title": {
+      "message": "OpenCapture Premium으로 업그레이드하고 지원하기"
+   },
+   "premium_unknown_date": {
+      "message": "알 수 없음"
+   },
+   "premium_upgrade": {
+      "message": "Premium으로 업그레이드"
+   },
+   "premium_valid_until": {
+      "message": "유효 기간"
+   },
+   "print": {
+      "message": "인쇄"
+   },
+   "privacy": {
+      "message": "개인 정보 보호"
+   },
+   "privateBeizhu": {
+      "message": "비공개 메모"
+   },
+   "refresh_effective": {
+      "message": "새로 고침 후 적용됩니다."
+   },
+   "reportIssue": {
+      "message": "문제 보고"
+   },
+   "saveUrl2Private": {
+      "message": "비공개"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "비공개로 설정하여 자신만 볼 수 있도록 합니다."
+   },
+   "saveUrl2Public": {
+      "message": "공개"
+   },
+   "saveUrl2Snap": {
+      "message": "스냅샷"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "웹페이지 스냅샷 저장"
+   },
+   "savedFileNameByTile": {
+      "message": "제목별"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "예: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "시간별"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "예: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "파일 이름 설정"
+   },
+   "scrollable_area_no": {
+      "message": "스크롤 가능한 영역을 찾을 수 없습니다."
+   },
+   "sendMailCode": {
+      "message": "보내기"
+   },
+   "setting_appearance": {
+      "message": "모양"
+   },
+   "setting_cloud_upload_format": {
+      "message": "클라우드 업로드 형식"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "스크린샷을 클라우드 드라이브에 업로드할 때 파일 형식을 지정합니다."
+   },
+   "setting_default_private": {
+      "message": "기본 비공개"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper에 저장할 때 기본 비공개를 지정합니다."
+   },
+   "setting_down_image_format": {
+      "message": "이미지 저장"
+   },
+   "setting_down_image_format_info": {
+      "message": "스크린샷을 다운로드할 이미지 형식을 지정합니다."
+   },
+   "setting_download": {
+      "message": "다운로드"
+   },
+   "setting_download_save_as": {
+      "message": "다른 이름으로 저장"
+   },
+   "setting_download_save_as_info": {
+      "message": "스크린샷을 다운로드할 때 '다른 이름으로 저장' 대화 상자를 표시합니다."
+   },
+   "setting_more": {
+      "message": "更多 설정"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "페이지 여백"
+   },
+   "setting_pdf_margin_info": {
+      "message": "페이지 여백을 지정합니다. 단위는 pt이며 지정 범위는 (0-40) pt입니다."
+   },
+   "setting_pdf_papersize": {
+      "message": "종이 크기"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF로 내보낼 때 PDF의 종이 크기를 지정합니다."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper 저장 대화 상자 표시"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "웹페이지 스냅샷으로 저장할 때 YesKeeper 저장 대화 상자를 표시합니다."
+   },
+   "setting_theme_mode": {
+      "message": "테마"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture 페이지의 표시 테마를 선택하세요."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "signInWithApple": {
+      "message": "Apple로 로그인"
+   },
+   "signInWithGoogle": {
+      "message": "Google로 로그인"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoft로 로그인"
+   },
+   "signUpAgreement": {
+      "message": "회원 가입을 하시면 YesKeeper의 <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">사용자 서비스 약관</a> 및 <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">개인 정보 보호 정책</a>에 동의하게 됩니다."
+   },
+   "site_item1": {
+      "message": "웹페이지 스냅샷"
+   },
+   "site_item2": {
+      "message": "클라우드 북마크"
+   },
+   "site_item3": {
+      "message": "나중에 읽기"
+   },
+   "site_language": {
+      "message": "언어"
+   },
+   "site_login": {
+      "message": "로그인"
+   },
+   "site_reg": {
+      "message": "회원 가입"
+   },
+   "snap_shot_prepare": {
+      "message": "화면 스크롤을 준비하고 스냅샷 업로드 중입니다."
+   },
+   "snap_shot_uploading": {
+      "message": "스냅샷 업로드 중..."
+   },
+   "splitMultiImages": {
+      "message": "참고: 이 페이지는 브라우저가 이미지로 캡처하기에 너무 큽니다. 여러 이미지로 분할됩니다."
+   },
+   "stop_scrolling": {
+      "message": "스크롤 멈추기"
+   },
+   "submitFalse": {
+      "message": "제출 실패!"
+   },
+   "tags_no": {
+      "message": "태그 없음"
+   },
+   "theme_dark": {
+      "message": "다크"
+   },
+   "theme_follow_system": {
+      "message": "시스템 설정 따르기"
+   },
+   "theme_light": {
+      "message": "라이트"
+   },
+   "tryAgainLater": {
+      "message": "로딩 중입니다. 나중에 다시 시도해 주세요"
+   },
+   "uploadToCloudDrive": {
+      "message": "클라우드 드라이브에 업로드"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "업로드 실패"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "업로드 성공"
+   },
+   "viewMyCollections": {
+      "message": "내 컬렉션 보기"
+   },
+   "vip": {
+      "message": "VIP"
+   }
+}

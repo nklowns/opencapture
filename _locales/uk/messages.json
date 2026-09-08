@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Код підтвердження"
+   },
+   "accountLogin": {
+      "message": "Вхід за паролем"
+   },
+   "add": {
+      "message": "Додати"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Будь ласка, спочатку авторизуйте дозволи на управління завантаженнями"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Авторизувати дозволи на управління завантаженнями"
+   },
+   "auto_clase": {
+      "message": "Автоматичне закриття вікна"
+   },
+   "bar_copy": {
+      "message": "Копіювати"
+   },
+   "bar_save": {
+      "message": "Зберегти"
+   },
+   "btn_cancel": {
+      "message": "Скасувати"
+   },
+   "btn_lock": {
+      "message": "Приватно"
+   },
+   "btn_ok": {
+      "message": "ОК"
+   },
+   "btn_remove": {
+      "message": "Видалити"
+   },
+   "btn_snap": {
+      "message": "Знімок"
+   },
+   "btn_submit": {
+      "message": "Надіслати"
+   },
+   "btn_view": {
+      "message": "Переглянути"
+   },
+   "capture2pdfDownload": {
+      "message": "Зберегти як PDF"
+   },
+   "captureAllPage": {
+      "message": "Захопити всю сторінку"
+   },
+   "captureAnnotate": {
+      "message": "Анотувати"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Завантажити цей знімок екрана"
+   },
+   "captureClickAnnotate": {
+      "message": "Натисніть на знімок екрана для анотації"
+   },
+   "captureDownload": {
+      "message": "Зберегти зображення"
+   },
+   "captureHighResAllPage": {
+      "message": "Захопити всю сторінку HD"
+   },
+   "capturePage": {
+      "message": "Захопити видиму частину"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Захопити з поточної позиції"
+   },
+   "captureScrollable": {
+      "message": "Захопити прокручувану область"
+   },
+   "captureSelection": {
+      "message": "Захопити вибір"
+   },
+   "capture_interrupted": {
+      "message": "Виявлено зміну вкладки, знімок екрана зупинено!"
+   },
+   "capture_scroll": {
+      "message": "Захопити це"
+   },
+   "clickSel": {
+      "message": "Натисніть для вибору"
+   },
+   "clickUnfold": {
+      "message": "Натисніть для розгортання"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Не вдалося скопіювати зображення"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Зображення скопійовано в буфер обміну"
+   },
+   "copyNotSupport": {
+      "message": "Ваш браузер не підтримує копіювання зображень!"
+   },
+   "copyToClipBoard": {
+      "message": "Копіювати в буфер обміну"
+   },
+   "copy_false": {
+      "message": "Помилка копіювання!"
+   },
+   "copy_success": {
+      "message": "Скопійовано в буфер обміну!"
+   },
+   "crop": {
+      "message": "Обрізати"
+   },
+   "default_set": {
+      "message": "За замовчуванням"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "deleteAlert": {
+      "message": "Ви впевнені, що хочете видалити?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Сталася невідома помилка!"
+   },
+   "error_upload_snap": {
+      "message": "Помилка завантаження знімка!"
+   },
+   "exist_info": {
+      "message": "Веб-сторінку збережено!"
+   },
+   "exitUploading": {
+      "message": "Завантаження триває, ви впевнені, що хочете вийти?"
+   },
+   "favMyTags": {
+      "message": "Мої теги"
+   },
+   "favOption": {
+      "message": "Опція"
+   },
+   "favSuggestTag": {
+      "message": "Запропоновані теги"
+   },
+   "favTag": {
+      "message": "Тег"
+   },
+   "favTagLengthOver": {
+      "message": "Тег занадто довгий"
+   },
+   "favTagNumOver": {
+      "message": "Кількість тегів перевищує ліміт!"
+   },
+   "favTagPlaceholder": {
+      "message": "Теги"
+   },
+   "favTitle": {
+      "message": "Заголовок"
+   },
+   "favUrl": {
+      "message": "Посилання"
+   },
+   "fav_edit": {
+      "message": "Редагувати колекцію"
+   },
+   "fav_success": {
+      "message": "Збережено успішно!"
+   },
+   "fav_success_edit": {
+      "message": "Збережено успішно - Редагування"
+   },
+   "forgetPsw": {
+      "message": "Забули пароль?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(HD-знімок екрана 2x)"
+   },
+   "history": {
+      "message": "Історія"
+   },
+   "historyClear": {
+      "message": "Очистити"
+   },
+   "historyClearAll": {
+      "message": "Видалити всі записи"
+   },
+   "historyClearConfirm": {
+      "message": "Очистити всю історію знімків екрана?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Очищення історії"
+   },
+   "historyClearOlder1Month": {
+      "message": "Видалити записи старші за 1 місяць"
+   },
+   "historyClearOlder3Months": {
+      "message": "Видалити записи старші за 3 місяці"
+   },
+   "historyDelete": {
+      "message": "Видалити"
+   },
+   "historyEmpty": {
+      "message": "Історія знімків екрана поки що порожня."
+   },
+   "historyUnknownDomain": {
+      "message": "Невідомий домен"
+   },
+   "iframe_capture": {
+      "message": "Знайдено вкладені iframe! Будь ласка, зробіть повний знімок екрана на автоматично відкритій сторінці."
+   },
+   "img": {
+      "message": "Зображення"
+   },
+   "imgCaptcha": {
+      "message": "Капча"
+   },
+   "imgCodeInput": {
+      "message": "Введіть код підтвердження зображення!"
+   },
+   "issueContentAdd": {
+      "message": "Короткий опис проблеми"
+   },
+   "issueEmail": {
+      "message": "емейл"
+   },
+   "issueTitleAdd": {
+      "message": "Додати заголовок"
+   },
+   "issueUrl": {
+      "message": "Посилання"
+   },
+   "like_body": {
+      "message": "Розробка корисної програми вимагає багато зусиль, і ми раді, що вам сподобалось!<br /><br />Чи можете ви витратити хвилину, щоб залишити нам п'ятизірковий відгук? Це буде дуже корисно для нас. :)"
+   },
+   "like_no_thanks": {
+      "message": "Ні, дякую"
+   },
+   "like_title": {
+      "message": "Вам подобається цей інструмент?"
+   },
+   "like_yes": {
+      "message": "Так"
+   },
+   "loading": {
+      "message": "Завантаження"
+   },
+   "loginCodeResend": {
+      "message": "Надіслати знову"
+   },
+   "loginCodeSent": {
+      "message": "Надіслано"
+   },
+   "loginSignUp": {
+      "message": "Увійти / Зареєструватися"
+   },
+   "login_refresh": {
+      "message": "Оновіть після входу"
+   },
+   "msg_title": {
+      "message": "Підказка - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Знайдено кілька областей, виберіть одну."
+   },
+   "my_collections": {
+      "message": "Мої колекції"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Помилка мережевого запиту!"
+   },
+   "noSupportMultiPic": {
+      "message": "Обрізка кількох зображень не підтримується"
+   },
+   "not_support": {
+      "message": "Ласкаво просимо в розширення OpenCapture. Ви можете використовувати це на будь-якій веб-сторінці, за винятком тих, де браузер обмежує виконання розширень. Це включає веб-магазин розширень, сторінки налаштувань браузера та інші розширення.<br /><br />Спробуйте іншу веб-сторінку, наприклад, <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">цю</a>. Бажаємо приємного користування! <br /><br />Браузер не дозволяє доступ до деяких URL через міркування безпеки. Це включає веб-магазин розширень, інші розширення та URL-адреси chrome://, extension://. <b>Поточна сторінка, ймовірно, є обмеженою URL-адресою.</b><br /><br />Для додаткових питань звертайтесь до нас.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Необов'язково"
+   },
+   "page_not_ready": {
+      "message": "Завантажується, спробуйте пізніше."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Ви відмовили в авторизації дозволів на управління завантаженнями"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium активний."
+   },
+   "premium_active_price": {
+      "message": "Річна підписка активна"
+   },
+   "premium_active_subtitle": {
+      "message": "Усі Premium-режими відкрито для цієї інсталяції браузера."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium активний"
+   },
+   "premium_all_free": {
+      "message": "Усе з Free"
+   },
+   "premium_back": {
+      "message": "Назад"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Повернутися до OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Завантаження в Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Ця функція Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD-знімки всієї сторінки"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Довгі знімки частинами"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Знімки прокручуваних областей"
+   },
+   "premium_free_edit": {
+      "message": "Анотації, обрізання, копіювання, друк, експорт PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Знімок усієї сторінки з прокруткою"
+   },
+   "premium_free_hd": {
+      "message": "HD-знімки всієї сторінки: 5 безкоштовних спроб"
+   },
+   "premium_free_long_page_split": {
+      "message": "Довгі знімки частинами"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Для щоденних знімків"
+   },
+   "premium_free_scrollable": {
+      "message": "Знімки прокручуваних областей: 5 безкоштовних спроб"
+   },
+   "premium_free_visible": {
+      "message": "Знімок видимої області"
+   },
+   "premium_future": {
+      "message": "Доступ до майбутніх функцій Premium"
+   },
+   "premium_hd": {
+      "message": "Необмежені HD-знімки всієї сторінки"
+   },
+   "premium_long_page_split": {
+      "message": "Більше місця для історії"
+   },
+   "premium_manage": {
+      "message": "Керувати"
+   },
+   "premium_manage_subscription": {
+      "message": "Керування підпискою"
+   },
+   "premium_mode_switching": {
+      "message": "Перемикання світлого/темного режиму"
+   },
+   "premium_notice_low": {
+      "message": "Безкоштовні спроби для {feature} майже вичерпано. Залишилось: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Перейдіть на Premium, щоб відкрити більше розширених функцій."
+   },
+   "premium_notice_used_up": {
+      "message": "Безкоштовні спроби для {feature} вичерпано."
+   },
+   "premium_opening_portal": {
+      "message": "Відкриття..."
+   },
+   "premium_opening_stripe": {
+      "message": "Відкриття Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Не вдалося відкрити керування підпискою."
+   },
+   "premium_portal_error_full": {
+      "message": "Не вдалося відкрити керування підпискою. Спробуйте пізніше."
+   },
+   "premium_portal_opening": {
+      "message": "Відкриття..."
+   },
+   "premium_price": {
+      "message": "Річна підписка"
+   },
+   "premium_restore_guide": {
+      "message": "Уже купили або перевстановили?"
+   },
+   "premium_restore_link": {
+      "message": "Відновити Premium"
+   },
+   "premium_scrollable": {
+      "message": "Необмежені знімки прокручуваних областей"
+   },
+   "premium_stripe_error": {
+      "message": "Не вдалося відкрити посилання оплати Stripe. Спробуйте пізніше."
+   },
+   "premium_subtitle": {
+      "message": "Premium відкриває всі режими, зокрема HD-знімки всієї сторінки та прокручуваних областей."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Перейдіть на Premium, щоб змінити режим."
+   },
+   "premium_title": {
+      "message": "Підтримайте нас і перейдіть на OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Невідомо"
+   },
+   "premium_upgrade": {
+      "message": "Перейти на Premium"
+   },
+   "premium_valid_until": {
+      "message": "Дійсно до"
+   },
+   "print": {
+      "message": "Друк"
+   },
+   "privacy": {
+      "message": "Конфіденційність"
+   },
+   "privateBeizhu": {
+      "message": "Приватні примітки"
+   },
+   "refresh_effective": {
+      "message": "Діє після оновлення"
+   },
+   "reportIssue": {
+      "message": "Повідомити про проблему"
+   },
+   "saveUrl2Private": {
+      "message": "Приватно"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Встановити як приватне, видно лише вам"
+   },
+   "saveUrl2Public": {
+      "message": "Публічно"
+   },
+   "saveUrl2Snap": {
+      "message": "Знімок"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Зберегти знімок веб-сторінки"
+   },
+   "savedFileNameByTile": {
+      "message": "За заголовком"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "наприклад: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "За часом"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "наприклад: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Ім'я файлу"
+   },
+   "scrollable_area_no": {
+      "message": "Область для прокручування не знайдено."
+   },
+   "sendMailCode": {
+      "message": "Надіслати"
+   },
+   "setting_appearance": {
+      "message": "Зовнішній вигляд"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Формат завантаження в хмару"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Укажіть формат файлу під час завантаження знімків екрана на хмарний диск."
+   },
+   "setting_default_private": {
+      "message": "За замовчуванням приватно"
+   },
+   "setting_default_private_info": {
+      "message": "Вказати за замовчуванням приватний доступ при збереженні в YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Зберегти зображення"
+   },
+   "setting_down_image_format_info": {
+      "message": "Виберіть формат зображення для завантаження знімків екрана."
+   },
+   "setting_download": {
+      "message": "Завантажити"
+   },
+   "setting_download_save_as": {
+      "message": "Зберегти як"
+   },
+   "setting_download_save_as_info": {
+      "message": "Автоматично показувати діалогове вікно \"Зберегти як\" при завантаженні знімків екрана."
+   },
+   "setting_more": {
+      "message": "Більше налаштувань"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Поле сторінки"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Вказати поле сторінки, одиниця виміру pt, діапазон (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Розмір паперу"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Вказати розмір паперу для PDF при експорті в PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Показати діалог збереження в YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Показати діалог збереження в YesKeeper для збереження як знімок веб-сторінки"
+   },
+   "setting_theme_mode": {
+      "message": "Тема"
+   },
+   "setting_theme_mode_info": {
+      "message": "Виберіть тему оформлення для сторінок OpenCapture."
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "signInWithApple": {
+      "message": "Увійти за допомогою Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Увійти за допомогою Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Увійти за допомогою Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Реєструючись, ви погоджуєтесь з <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Угодою користувача</a> та <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Політикою конфіденційності</a> YesKeeper"
+   },
+   "site_item1": {
+      "message": "Знімок веб-сторінки"
+   },
+   "site_item2": {
+      "message": "Хмарні закладки"
+   },
+   "site_item3": {
+      "message": "Прочитати пізніше"
+   },
+   "site_language": {
+      "message": "Мова"
+   },
+   "site_login": {
+      "message": "Увійти"
+   },
+   "site_reg": {
+      "message": "Реєстрація"
+   },
+   "snap_shot_prepare": {
+      "message": "Підготовка до прокручування екрана та завантаження знімка"
+   },
+   "snap_shot_uploading": {
+      "message": "Завантаження знімка..."
+   },
+   "splitMultiImages": {
+      "message": "Увага: ця сторінка занадто велика, щоб браузер міг захопити її як зображення. Вона буде поділена на кілька зображень."
+   },
+   "stop_scrolling": {
+      "message": "Зупинити прокручування"
+   },
+   "submitFalse": {
+      "message": "Не вдалося надіслати!"
+   },
+   "tags_no": {
+      "message": "Немає тегів"
+   },
+   "theme_dark": {
+      "message": "Темна"
+   },
+   "theme_follow_system": {
+      "message": "Використовувати системну"
+   },
+   "theme_light": {
+      "message": "Світла"
+   },
+   "tryAgainLater": {
+      "message": "Завантаження, спробуйте пізніше"
+   },
+   "uploadToCloudDrive": {
+      "message": "Завантажити в хмарне сховище"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Не вдалося завантажити"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Успішно завантажено"
+   },
+   "viewMyCollections": {
+      "message": "Переглянути мої колекції"
+   },
+   "vip": {
+      "message": "VIP"
+   }
+}

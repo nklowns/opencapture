@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Code de vérification"
+   },
+   "accountLogin": {
+      "message": "Connexion par compte et mot de passe"
+   },
+   "add": {
+      "message": "Ajouter"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Veuillez autoriser les permissions de gestion du téléchargement en premier"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Autoriser les permissions de gestion du téléchargement"
+   },
+   "auto_clase": {
+      "message": "Fermer automatiquement la fenêtre"
+   },
+   "bar_copy": {
+      "message": "Copier"
+   },
+   "bar_save": {
+      "message": "Enregistrer"
+   },
+   "btn_cancel": {
+      "message": "Annuler"
+   },
+   "btn_lock": {
+      "message": "Privé"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Supprimer"
+   },
+   "btn_snap": {
+      "message": "Instantané"
+   },
+   "btn_submit": {
+      "message": "Soumettre"
+   },
+   "btn_view": {
+      "message": "Voir"
+   },
+   "capture2pdfDownload": {
+      "message": "Enregistrer au format PDF"
+   },
+   "captureAllPage": {
+      "message": "Capture de toute la page"
+   },
+   "captureAnnotate": {
+      "message": "Annoter"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Télécharger cette capture d'écran"
+   },
+   "captureClickAnnotate": {
+      "message": "Cliquez sur la capture d'écran pour ajouter des annotations"
+   },
+   "captureDownload": {
+      "message": "Enregistrer l'image"
+   },
+   "captureHighResAllPage": {
+      "message": "Capture pleine page HD"
+   },
+   "capturePage": {
+      "message": "Capture de la partie visible"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Capture de la position actuelle"
+   },
+   "captureScrollable": {
+      "message": "Capturer zone défilable"
+   },
+   "captureSelection": {
+      "message": "Capture de la sélection"
+   },
+   "capture_interrupted": {
+      "message": "Changement d'onglet détecté, capture interrompue !"
+   },
+   "capture_scroll": {
+      "message": "Capturer ceci"
+   },
+   "clickSel": {
+      "message": "Cliquez pour sélectionner"
+   },
+   "clickUnfold": {
+      "message": "Cliquez pour déplier"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Impossible de copier l'image"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Image copiée dans le presse-papiers"
+   },
+   "copyNotSupport": {
+      "message": "Votre navigateur ne prend pas en charge la copie d'images!"
+   },
+   "copyToClipBoard": {
+      "message": "Copier dans le presse-papiers"
+   },
+   "copy_false": {
+      "message": "Échec de la copie!"
+   },
+   "copy_success": {
+      "message": "Copié dans le presse-papiers!"
+   },
+   "crop": {
+      "message": "Recadrer"
+   },
+   "default_set": {
+      "message": "Paramètres par défaut"
+   },
+   "delete": {
+      "message": "Supprimer"
+   },
+   "deleteAlert": {
+      "message": "Êtes-vous sûr de vouloir supprimer?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Une erreur inconnue s'est produite!"
+   },
+   "error_upload_snap": {
+      "message": "Erreur de téléversement de la capture d'écran!"
+   },
+   "exist_info": {
+      "message": "La page web a été enregistrée!"
+   },
+   "exitUploading": {
+      "message": "Téléversement en cours, êtes-vous sûr de vouloir quitter?"
+   },
+   "favMyTags": {
+      "message": "Mes étiquettes"
+   },
+   "favOption": {
+      "message": "Option"
+   },
+   "favSuggestTag": {
+      "message": "Étiquettes suggérées"
+   },
+   "favTag": {
+      "message": "Étiquette"
+   },
+   "favTagLengthOver": {
+      "message": "L'étiquette est trop longue"
+   },
+   "favTagNumOver": {
+      "message": "Le nombre d'étiquettes dépasse la limite!"
+   },
+   "favTagPlaceholder": {
+      "message": "Étiquettes"
+   },
+   "favTitle": {
+      "message": "Titre"
+   },
+   "favUrl": {
+      "message": "Lien"
+   },
+   "fav_edit": {
+      "message": "Modifier la collection"
+   },
+   "fav_success": {
+      "message": "Enregistrement réussi!"
+   },
+   "fav_success_edit": {
+      "message": "Enregistrement réussi - Modifier"
+   },
+   "forgetPsw": {
+      "message": "Mot de passe oublié?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(capture d’écran HD 2x)"
+   },
+   "history": {
+      "message": "Historique"
+   },
+   "historyClear": {
+      "message": "Effacer"
+   },
+   "historyClearAll": {
+      "message": "Effacer tous les enregistrements"
+   },
+   "historyClearConfirm": {
+      "message": "Effacer tout l’historique des captures d’écran ?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Effacer l’historique"
+   },
+   "historyClearOlder1Month": {
+      "message": "Effacer les enregistrements datant de plus de 1 mois"
+   },
+   "historyClearOlder3Months": {
+      "message": "Effacer les enregistrements datant de plus de 3 mois"
+   },
+   "historyDelete": {
+      "message": "Supprimer"
+   },
+   "historyEmpty": {
+      "message": "Aucun historique de captures d’écran pour le moment."
+   },
+   "historyUnknownDomain": {
+      "message": "Domaine inconnu"
+   },
+   "iframe_capture": {
+      "message": "Iframe imbriqué a été trouvé! Veuillez prendre à nouveau la capture d'écran complète sur la page qui s'ouvre automatiquement"
+   },
+   "img": {
+      "message": "Image"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Entrez le code de vérification d'image!"
+   },
+   "issueContentAdd": {
+      "message": "Une brève description du problème"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "issueTitleAdd": {
+      "message": "Ajouter un titre"
+   },
+   "issueUrl": {
+      "message": "Lien"
+   },
+   "like_body": {
+      "message": "Développer une excellente application demande beaucoup d'efforts, et nous sommes ravis qu'elle te plaise !<br /><br />Pourrais-tu prendre une minute pour nous donner une note de cinq étoiles ? Cela nous aiderait vraiment :)"
+   },
+   "like_no_thanks": {
+      "message": "Non, merci"
+   },
+   "like_title": {
+      "message": "Aimes-tu cette application ?"
+   },
+   "like_yes": {
+      "message": "Bien sûr"
+   },
+   "loading": {
+      "message": "Chargement en cours"
+   },
+   "loginCodeResend": {
+      "message": "Renvoyer"
+   },
+   "loginCodeSent": {
+      "message": "Envoyé"
+   },
+   "loginSignUp": {
+      "message": "Se connecter / S'inscrire"
+   },
+   "login_refresh": {
+      "message": "Actualiser après la connexion"
+   },
+   "msg_title": {
+      "message": "Notification - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Plusieurs zones, choisis-en une."
+   },
+   "my_collections": {
+      "message": "Mes collections"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Erreur de requête réseau!"
+   },
+   "noSupportMultiPic": {
+      "message": "Le recadrage de plusieurs images n'est pas pris en charge"
+   },
+   "not_support": {
+      "message": "Bienvenue dans l'extension OpenCapture. Vous pouvez l'exécuter sur n'importe quelle page web, sauf sur celles où le navigateur empêche les extensions d'exécuter des scripts. Cela inclut le magasin d'extensions, les pages de paramètres du navigateur et d'autres extensions.<br /><br />Pour des raisons de sécurité, le navigateur ne permet pas l'accès à certaines URL. Cela inclut la galerie du magasin d'extensions, d'autres extensions et les URL chrome://, extension://. <b>La page actuelle semble être une URL restreinte.</b><br /><br />Essayez une autre page web, par exemple <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">celle-ci</a>. Amusez-vous bien! <br /><br />Pour des questions supplémentaires, contactez-nous.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Facultatif"
+   },
+   "page_not_ready": {
+      "message": "Chargement... réessaie plus tard."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Vous avez refusé l'autorisation pour les permissions de gestion du téléchargement"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium est actif."
+   },
+   "premium_active_price": {
+      "message": "Abonnement annuel actif"
+   },
+   "premium_active_subtitle": {
+      "message": "Tous les modes Premium sont débloqués pour cette installation du navigateur."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium est actif"
+   },
+   "premium_all_free": {
+      "message": "Tout Free"
+   },
+   "premium_back": {
+      "message": "Retour"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Retour à OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Import vers Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Cette fonction Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Captures HD pleine page"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Captures longues découpées"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Captures de zones défilantes"
+   },
+   "premium_free_edit": {
+      "message": "Annoter, recadrer, copier, imprimer, exporter PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Capture pleine page avec défilement"
+   },
+   "premium_free_hd": {
+      "message": "Captures HD pleine page : 5 essais gratuits"
+   },
+   "premium_free_long_page_split": {
+      "message": "Captures longues découpées"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Pour les captures du quotidien"
+   },
+   "premium_free_scrollable": {
+      "message": "Captures de zones défilantes : 5 essais gratuits"
+   },
+   "premium_free_visible": {
+      "message": "Capturer la partie visible"
+   },
+   "premium_future": {
+      "message": "Accès aux futures fonctions Premium"
+   },
+   "premium_hd": {
+      "message": "Captures HD pleine page illimitées"
+   },
+   "premium_long_page_split": {
+      "message": "Plus d’espace d’historique"
+   },
+   "premium_manage": {
+      "message": "Gérer"
+   },
+   "premium_manage_subscription": {
+      "message": "Gérer l'abonnement"
+   },
+   "premium_mode_switching": {
+      "message": "Bascule mode clair/sombre"
+   },
+   "premium_notice_low": {
+      "message": "Vos essais gratuits pour {feature} sont presque épuisés. Restant : {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Passez à Premium pour débloquer plus de fonctions avancées."
+   },
+   "premium_notice_used_up": {
+      "message": "Vos essais gratuits pour {feature} sont épuisés."
+   },
+   "premium_opening_portal": {
+      "message": "Ouverture..."
+   },
+   "premium_opening_stripe": {
+      "message": "Ouverture de Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Impossible d'ouvrir la gestion de l'abonnement."
+   },
+   "premium_portal_error_full": {
+      "message": "Impossible d’ouvrir la gestion de l’abonnement. Réessayez plus tard."
+   },
+   "premium_portal_opening": {
+      "message": "Ouverture..."
+   },
+   "premium_price": {
+      "message": "Abonnement annuel"
+   },
+   "premium_restore_guide": {
+      "message": "Déjà acheté ou réinstallé ?"
+   },
+   "premium_restore_link": {
+      "message": "Restaurer Premium"
+   },
+   "premium_scrollable": {
+      "message": "Captures illimitées de zones défilantes"
+   },
+   "premium_stripe_error": {
+      "message": "Impossible d’ouvrir le lien de paiement Stripe. Réessayez plus tard."
+   },
+   "premium_subtitle": {
+      "message": "Premium débloque tous les modes, dont les captures HD pleine page et les zones défilantes."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Passez à Premium pour changer de mode."
+   },
+   "premium_title": {
+      "message": "Soutenez-nous et passez à OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Inconnu"
+   },
+   "premium_upgrade": {
+      "message": "Passer à Premium"
+   },
+   "premium_valid_until": {
+      "message": "Valide jusqu’au"
+   },
+   "print": {
+      "message": "Imprimer"
+   },
+   "privacy": {
+      "message": "Confidentialité"
+   },
+   "privateBeizhu": {
+      "message": "Remarques privées"
+   },
+   "refresh_effective": {
+      "message": "Efficace après actualisation"
+   },
+   "reportIssue": {
+      "message": "Signaler un problème"
+   },
+   "saveUrl2Private": {
+      "message": "Privé"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Définir en tant que privé, visible seulement pour soi-même"
+   },
+   "saveUrl2Public": {
+      "message": "Public"
+   },
+   "saveUrl2Snap": {
+      "message": "Capture d'écran"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Enregistrer la capture d'écran de la page web"
+   },
+   "savedFileNameByTile": {
+      "message": "Par titre"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ex. : Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Par date"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ex. : OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Nom du fichier"
+   },
+   "scrollable_area_no": {
+      "message": "Aucune zone défilable trouvée."
+   },
+   "sendMailCode": {
+      "message": "Envoyer"
+   },
+   "setting_appearance": {
+      "message": "Apparence"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format d’envoi cloud"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Spécifiez le format du fichier lors de l’envoi des captures d’écran vers le disque cloud."
+   },
+   "setting_default_private": {
+      "message": "Privé par défaut"
+   },
+   "setting_default_private_info": {
+      "message": "Spécifiez le paramètre privé par défaut lors de l'enregistrement sur YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Enregistrer l'image"
+   },
+   "setting_down_image_format_info": {
+      "message": "Spécifiez le format d'image pour le téléchargement de vos captures d'écran."
+   },
+   "setting_download": {
+      "message": "Télécharger"
+   },
+   "setting_download_save_as": {
+      "message": "Enregistrer sous"
+   },
+   "setting_download_save_as_info": {
+      "message": "Afficher automatiquement une boîte de dialogue \"Enregistrer sous\" lors du téléchargement de vos captures d'écran."
+   },
+   "setting_more": {
+      "message": "Plus de paramètres"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Marge de page"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Spécifiez la marge de page, unité pt, plage de spécification (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Taille de papier"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Spécifiez la taille de papier des PDF lors de l'exportation au format PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Afficher la boîte de dialogue d'enregistrement sur YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Afficher la boîte de dialogue d'enregistrement sur YesKeeper pour l'enregistrement d'une capture d'écran de page web"
+   },
+   "setting_theme_mode": {
+      "message": "Mode"
+   },
+   "setting_theme_mode_info": {
+      "message": "Choisissez le thème d'affichage des pages OpenCapture."
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "signInWithApple": {
+      "message": "Se connecter avec Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Se connecter avec Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Se connecter avec Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "En vous inscrivant, vous acceptez la <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Contrat de service utilisateur</a> et la <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Politique de confidentialité</a> de YesKeeper"
+   },
+   "site_item1": {
+      "message": "Capture d'écran de page web"
+   },
+   "site_item2": {
+      "message": "Signets cloud"
+   },
+   "site_item3": {
+      "message": "Lire ultérieurement"
+   },
+   "site_language": {
+      "message": "Langue"
+   },
+   "site_login": {
+      "message": "Connectez-vous"
+   },
+   "site_reg": {
+      "message": "S'inscrire"
+   },
+   "snap_shot_prepare": {
+      "message": "Préparation du défilement de l'écran et téléversement de la capture d'écran"
+   },
+   "snap_shot_uploading": {
+      "message": "Téléversement de la capture d'écran..."
+   },
+   "splitMultiImages": {
+      "message": "Remarque : cette page est trop volumineuse pour que le navigateur puisse la capturer sous forme d'image. Elle sera divisée en plusieurs images."
+   },
+   "stop_scrolling": {
+      "message": "Arrête de défiler"
+   },
+   "submitFalse": {
+      "message": "Échec de la soumission!"
+   },
+   "tags_no": {
+      "message": "Aucune étiquette"
+   },
+   "theme_dark": {
+      "message": "Sombre"
+   },
+   "theme_follow_system": {
+      "message": "Suivre le système"
+   },
+   "theme_light": {
+      "message": "Clair"
+   },
+   "tryAgainLater": {
+      "message": "En cours de chargement, veuillez réessayer ultérieurement"
+   },
+   "uploadToCloudDrive": {
+      "message": "Téléverser vers le stockage cloud"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Échec du téléversement"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Téléversement réussi"
+   },
+   "viewMyCollections": {
+      "message": "Voir mes collections"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Verifieringskod"
+   },
+   "accountLogin": {
+      "message": "Kontoinloggning"
+   },
+   "add": {
+      "message": "Lägg till"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Vänligen auktorisera nedladdningshanteringsbehörigheter först"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Autorisera nedladdningshanteringsbehörigheter"
+   },
+   "auto_clase": {
+      "message": "Stäng automatiskt fönstret"
+   },
+   "bar_copy": {
+      "message": "Kopiera"
+   },
+   "bar_save": {
+      "message": "Spara"
+   },
+   "btn_cancel": {
+      "message": "Avbryt"
+   },
+   "btn_lock": {
+      "message": "Privat"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Ta bort"
+   },
+   "btn_snap": {
+      "message": "Skärmdump"
+   },
+   "btn_submit": {
+      "message": "Skicka"
+   },
+   "btn_view": {
+      "message": "Visa"
+   },
+   "capture2pdfDownload": {
+      "message": "Spara som PDF"
+   },
+   "captureAllPage": {
+      "message": "Fånga hela sidan"
+   },
+   "captureAnnotate": {
+      "message": "Annotera"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Ladda upp denna skärmdump"
+   },
+   "captureClickAnnotate": {
+      "message": "Klicka på skärmdumpen för att annotera"
+   },
+   "captureDownload": {
+      "message": "Spara bild"
+   },
+   "captureHighResAllPage": {
+      "message": "Fånga hela sidan i HD"
+   },
+   "capturePage": {
+      "message": "Fånga synligt område"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Fånga från aktuell position"
+   },
+   "captureScrollable": {
+      "message": "Fånga rullbar zon"
+   },
+   "captureSelection": {
+      "message": "Fånga urval"
+   },
+   "capture_interrupted": {
+      "message": "Flikbyte upptäckt, skärmdump avbruten!"
+   },
+   "capture_scroll": {
+      "message": "Fånga detta"
+   },
+   "clickSel": {
+      "message": "Klicka för att välja"
+   },
+   "clickUnfold": {
+      "message": "Klicka för att utveckla"
+   },
+   "close": {
+      "message": "Stäng"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Kunde inte kopiera bilden"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Bild kopierad till urklipp"
+   },
+   "copyNotSupport": {
+      "message": "Din webbläsare stödjer inte kopiering av bilder!"
+   },
+   "copyToClipBoard": {
+      "message": "Kopiera till urklipp"
+   },
+   "copy_false": {
+      "message": "Kopiering misslyckades!"
+   },
+   "copy_success": {
+      "message": "Kopierad till urklipp!"
+   },
+   "crop": {
+      "message": "Beskär"
+   },
+   "default_set": {
+      "message": "Standardinställning"
+   },
+   "delete": {
+      "message": "Ta bort"
+   },
+   "deleteAlert": {
+      "message": "Är du säker på att du vill ta bort?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Okänt fel inträffade!"
+   },
+   "error_upload_snap": {
+      "message": "Fel vid uppladdning av skärmdump!"
+   },
+   "exist_info": {
+      "message": "Webbsidan har sparats!"
+   },
+   "exitUploading": {
+      "message": "Laddar upp, är du säker på att du vill lämna?"
+   },
+   "favMyTags": {
+      "message": "Mina taggar"
+   },
+   "favOption": {
+      "message": "Alternativ"
+   },
+   "favSuggestTag": {
+      "message": "Föreslå taggar"
+   },
+   "favTag": {
+      "message": "Tagg"
+   },
+   "favTagLengthOver": {
+      "message": "Taggen är för lång"
+   },
+   "favTagNumOver": {
+      "message": "Antalet taggar överskrider gränsen!"
+   },
+   "favTagPlaceholder": {
+      "message": "Taggar"
+   },
+   "favTitle": {
+      "message": "Titel"
+   },
+   "favUrl": {
+      "message": "Länk"
+   },
+   "fav_edit": {
+      "message": "Redigera samling"
+   },
+   "fav_success": {
+      "message": "Sparande lyckades!"
+   },
+   "fav_success_edit": {
+      "message": "Spara lyckades - Redigera"
+   },
+   "forgetPsw": {
+      "message": "Glömt lösenord?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD-skärmbild)"
+   },
+   "history": {
+      "message": "Historik"
+   },
+   "historyClear": {
+      "message": "Rensa"
+   },
+   "historyClearAll": {
+      "message": "Rensa alla poster"
+   },
+   "historyClearConfirm": {
+      "message": "Rensa all skärmbildshistorik?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Rensa historik"
+   },
+   "historyClearOlder1Month": {
+      "message": "Rensa poster äldre än 1 månad"
+   },
+   "historyClearOlder3Months": {
+      "message": "Rensa poster äldre än 3 månader"
+   },
+   "historyDelete": {
+      "message": "Ta bort"
+   },
+   "historyEmpty": {
+      "message": "Ingen skärmbildshistorik ännu."
+   },
+   "historyUnknownDomain": {
+      "message": "Okänd domän"
+   },
+   "iframe_capture": {
+      "message": "Hittade iframe-nästen! Vänligen ta en ny helskärmsbild på den automatiskt öppnade sidan"
+   },
+   "img": {
+      "message": "Bild"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Skriv in bildverifieringskoden!"
+   },
+   "issueContentAdd": {
+      "message": "En kort beskrivning av problemet"
+   },
+   "issueEmail": {
+      "message": "E-post"
+   },
+   "issueTitleAdd": {
+      "message": "Lägg till en titel"
+   },
+   "issueUrl": {
+      "message": "Länk"
+   },
+   "like_body": {
+      "message": "Att utveckla ett användbart program tar mycket tid och ansträngning, och vi är glada att du gillar det!<br /><br />Kan du ta ett ögonblick att ge oss en femstjärnig recension? Det skulle vara mycket hjälpsamt för oss. :)"
+   },
+   "like_no_thanks": {
+      "message": "Nej, tack"
+   },
+   "like_title": {
+      "message": "Gillar du det här verktyget?"
+   },
+   "like_yes": {
+      "message": "Ja"
+   },
+   "loading": {
+      "message": "Laddar"
+   },
+   "loginCodeResend": {
+      "message": "Skicka igen"
+   },
+   "loginCodeSent": {
+      "message": "Skickad"
+   },
+   "loginSignUp": {
+      "message": "Logga in / Registrera"
+   },
+   "login_refresh": {
+      "message": "Uppdatera efter inloggning"
+   },
+   "msg_title": {
+      "message": "Tips - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Flera områden hittades, välj ett."
+   },
+   "my_collections": {
+      "message": "Mina samlingar"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Nätverksbegäran fel!"
+   },
+   "noSupportMultiPic": {
+      "message": "Flera bildbeskärningar stöds inte"
+   },
+   "not_support": {
+      "message": "Välkommen till OpenCapture-tillägget. Du kan köra det på alla webbsidor, utom på sådana där webbläsaren begränsar tillägg från att köra skript. Detta inkluderar webbutiken, webbläsarens inställningssidor och andra tillägg.<br /><br />Prova en annan sida på webben, som <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">den här</a>. Ha kul! <br /><br />Webbläsaren tillåter inte åtkomst till vissa URL:er av säkerhetsskäl. Detta inkluderar webbutikens galleri, andra tillägg och chrome://, extension:// URL:er. <b>Den aktuella sidan verkar vara en begränsad URL.</b><br /><br />För ytterligare frågor, kontakta oss.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Valfritt"
+   },
+   "page_not_ready": {
+      "message": "Laddar, försök igen senare."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Du har nekat auktorisation för nedladdningshanteringsbehörigheter"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium är aktivt."
+   },
+   "premium_active_price": {
+      "message": "Årsabonnemang aktivt"
+   },
+   "premium_active_subtitle": {
+      "message": "Alla Premium-lägen är upplåsta i denna webbläsarinstallation."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium är aktivt"
+   },
+   "premium_all_free": {
+      "message": "Allt i Free"
+   },
+   "premium_back": {
+      "message": "Tillbaka"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Tillbaka till OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Ladda upp till Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Denna Premium-funktion"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD-helsidebilder"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Delade långa sidbilder"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Bilder av rullbara områden"
+   },
+   "premium_free_edit": {
+      "message": "Kommentera, beskär, kopiera, skriv ut, exportera PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Fånga hel sida med rullning"
+   },
+   "premium_free_hd": {
+      "message": "HD-helsidebilder: 5 gratisprov"
+   },
+   "premium_free_long_page_split": {
+      "message": "Delade långa sidbilder"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "För vardagliga skärmbilder"
+   },
+   "premium_free_scrollable": {
+      "message": "Bilder av rullbara områden: 5 gratisprov"
+   },
+   "premium_free_visible": {
+      "message": "Fånga synlig del"
+   },
+   "premium_future": {
+      "message": "Tillgång till framtida Premium-funktioner"
+   },
+   "premium_hd": {
+      "message": "Obegränsade HD-helsidebilder"
+   },
+   "premium_long_page_split": {
+      "message": "Mer historikutrymme"
+   },
+   "premium_manage": {
+      "message": "Hantera"
+   },
+   "premium_manage_subscription": {
+      "message": "Hantera prenumeration"
+   },
+   "premium_mode_switching": {
+      "message": "Växla ljust/mörkt läge"
+   },
+   "premium_notice_low": {
+      "message": "Dina gratisprov för {feature} är nästan slut. Kvar: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Uppgradera till Premium för att låsa upp fler avancerade funktioner."
+   },
+   "premium_notice_used_up": {
+      "message": "Dina gratisprov för {feature} är slut."
+   },
+   "premium_opening_portal": {
+      "message": "Öppnar..."
+   },
+   "premium_opening_stripe": {
+      "message": "Öppnar Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Det gick inte att öppna prenumerationshanteringen."
+   },
+   "premium_portal_error_full": {
+      "message": "Kunde inte öppna abonnemangshanteringen. Försök senare."
+   },
+   "premium_portal_opening": {
+      "message": "Öppnar..."
+   },
+   "premium_price": {
+      "message": "Årsabonnemang"
+   },
+   "premium_restore_guide": {
+      "message": "Redan köpt eller ominstallerat?"
+   },
+   "premium_restore_link": {
+      "message": "Återställ Premium"
+   },
+   "premium_scrollable": {
+      "message": "Obegränsade bilder av rullbara områden"
+   },
+   "premium_stripe_error": {
+      "message": "Kunde inte öppna Stripe-betalningslänken. Försök senare."
+   },
+   "premium_subtitle": {
+      "message": "Premium låser upp alla lägen, inklusive HD-helsidebilder och rullbara områden."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Uppgradera till Premium för att byta läge."
+   },
+   "premium_title": {
+      "message": "Stöd oss och uppgradera till OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Okänt"
+   },
+   "premium_upgrade": {
+      "message": "Uppgradera till Premium"
+   },
+   "premium_valid_until": {
+      "message": "Giltigt till"
+   },
+   "print": {
+      "message": "Skriv ut"
+   },
+   "privacy": {
+      "message": "Integritet"
+   },
+   "privateBeizhu": {
+      "message": "Privata anteckningar"
+   },
+   "refresh_effective": {
+      "message": "Effektiv efter uppdatering"
+   },
+   "reportIssue": {
+      "message": "Rapportera problem"
+   },
+   "saveUrl2Private": {
+      "message": "Privat"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Sätt som privat, synligt endast för dig själv"
+   },
+   "saveUrl2Public": {
+      "message": "Offentlig"
+   },
+   "saveUrl2Snap": {
+      "message": "Skärmdump"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Spara webbsidans skärmdump"
+   },
+   "savedFileNameByTile": {
+      "message": "Efter titel"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "t.ex.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Efter tid"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "t.ex.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Filnamn"
+   },
+   "scrollable_area_no": {
+      "message": "Inget rullningsbart område hittades."
+   },
+   "sendMailCode": {
+      "message": "Skicka"
+   },
+   "setting_appearance": {
+      "message": "Utseende"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format för molnuppladdning"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Ange filformatet när skärmbilder laddas upp till molnlagring."
+   },
+   "setting_default_private": {
+      "message": "Standard privat"
+   },
+   "setting_default_private_info": {
+      "message": "Specificera standard privat när du sparar till YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Spara bild"
+   },
+   "setting_down_image_format_info": {
+      "message": "Ange bildformat för nedladdning av dina skärmdumpar."
+   },
+   "setting_download": {
+      "message": "Nedladdning"
+   },
+   "setting_download_save_as": {
+      "message": "Spara som"
+   },
+   "setting_download_save_as_info": {
+      "message": "Visa en \"spara som\"-dialogruta när du laddar ner dina skärmdumpar."
+   },
+   "setting_more": {
+      "message": "Fler inställningar"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Sidmarginal"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Ange sidmarginalen, enhet pt, angivet intervall (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Papirstorlek"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Ange papperstorlek för PDF när du exporterar till PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Visa spara till yeskeeper-dialog"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Visa Spara till YesKeeper-dialog för att spara som en webbsidans skärmdump"
+   },
+   "setting_theme_mode": {
+      "message": "Läge"
+   },
+   "setting_theme_mode_info": {
+      "message": "Välj visningstema för OpenCapture-sidor."
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "signInWithApple": {
+      "message": "Logga in med Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Logga in med Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Logga in med Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Genom att registrera dig godkänner du YesKeeper's <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Användaravtal</a> och <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Integritetspolicy</a>"
+   },
+   "site_item1": {
+      "message": "Webbsidans Skärmdump"
+   },
+   "site_item2": {
+      "message": "Cloud Bokmärken"
+   },
+   "site_item3": {
+      "message": "Läs senare"
+   },
+   "site_language": {
+      "message": "Språk"
+   },
+   "site_login": {
+      "message": "Logga in"
+   },
+   "site_reg": {
+      "message": "Registrera dig"
+   },
+   "snap_shot_prepare": {
+      "message": "Förbereder för att rulla skärmen och ladda upp skärmdump"
+   },
+   "snap_shot_uploading": {
+      "message": "Laddar upp skärmdump..."
+   },
+   "splitMultiImages": {
+      "message": "Obs: Den här sidan är för stor för att webbläsaren ska kunna fånga den som en bild. Den kommer att delas upp i flera bilder."
+   },
+   "stop_scrolling": {
+      "message": "Stanna rulla"
+   },
+   "submitFalse": {
+      "message": "Inlämning misslyckades!"
+   },
+   "tags_no": {
+      "message": "Inga taggar"
+   },
+   "theme_dark": {
+      "message": "Mörkt"
+   },
+   "theme_follow_system": {
+      "message": "Följ systemet"
+   },
+   "theme_light": {
+      "message": "Ljust"
+   },
+   "tryAgainLater": {
+      "message": "Laddar, vänligen försök igen senare"
+   },
+   "uploadToCloudDrive": {
+      "message": "Ladda upp till molnlagring"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Uppladdningen misslyckades"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Uppladdningen lyckades"
+   },
+   "viewMyCollections": {
+      "message": "Visa mina samlingar"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

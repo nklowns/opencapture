@@ -1,0 +1,17 @@
+html,body {
+    font-family: -apple-system, BlinkMacSystemFont, 
+             "Segoe UI", Roboto, "Helvetica Neue", Arial, 
+             "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK TC", 
+             "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", 
+             "Noto Sans JP", "Meiryo", 
+             "Noto Sans KR", "Malgun Gothic", 
+             "Noto Sans Thai", "Tahoma", "Verdana", "Georgia", 
+             "Noto Sans Cyrillic", "Noto Sans Polish",
+             "Noto Sans Hebrew", "Noto Sans Arabic",
+             "Noto Sans Devanagari",
+             "Liberation Sans",
+             sans-serif, 
+             "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    line-height: 1.5;
+}

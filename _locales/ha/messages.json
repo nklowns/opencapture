@@ -1,0 +1,626 @@
+{
+   "captureAllPage": {
+      "message": "Kama cikakken shafin"
+   },
+   "captureHighResAllPage": {
+      "message": "Kama cikakken shafin HD"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Kamawa daga Matsayin Yanzu"
+   },
+   "capturePage": {
+      "message": "Kama ɓangaren da ake gani"
+   },
+   "captureSelection": {
+      "message": "Kama zaɓi"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "msg_title": {
+      "message": "Tukwici - OpenCapture"
+   },
+   "error_no": {
+      "message": "An sami kuskure da ba a sani ba!"
+   },
+   "net_error": {
+      "message": "Kuskuren buƙatar cibiyar sadarwa!"
+   },
+   "capture_interrupted": {
+      "message": "An gano canjin shafin, an dakatar da hoton allo!"
+   },
+   "page_not_ready": {
+      "message": "Ana lodin, gwada daga baya."
+   },
+   "captureScrollable": {
+      "message": "Dauki wurin gungura"
+   },
+   "multi_scrollable": {
+      "message": "An sami wurare da yawa, zaɓi ɗaya."
+   },
+   "scrollable_area_no": {
+      "message": "Babu wurin da za a iya gungurawa da aka samu."
+   },
+   "capture_scroll": {
+      "message": "Dauki wannan"
+   },
+   "img": {
+      "message": "Hoto"
+   },
+   "copy_success": {
+      "message": "An kwafi zuwa allo!"
+   },
+   "copy_false": {
+      "message": "Kwafi ya gaza!"
+   },
+   "site_language": {
+      "message": "Harshe"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_cancel": {
+      "message": "Soke"
+   },
+   "btn_remove": {
+      "message": "Cire"
+   },
+   "btn_view": {
+      "message": "Duba"
+   },
+   "captureClickAnnotate": {
+      "message": "Danna hoton don yin bayani"
+   },
+   "captureAnnotate": {
+      "message": "Yi bayani"
+   },
+   "copyToClipBoard": {
+      "message": "Kwafi zuwa allo"
+   },
+   "captureDownload": {
+      "message": "Ajiye hoto"
+   },
+   "capture2pdfDownload": {
+      "message": "Ajiye azaman PDF"
+   },
+   "print": {
+      "message": "Buga"
+   },
+   "copyNotSupport": {
+      "message": "Burauzan ku baya goyan bayan kwafa hotuna!"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "An kwafi hoton zuwa allo"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "An kasa kwafa hoton"
+   },
+   "splitMultiImages": {
+      "message": "Lura: Wannan shafin yana da girma sosai don burauza ya kama shi azaman hoto ɗaya. Za a raba shi zuwa hotuna da yawa."
+   },
+   "settings": {
+      "message": "Saituna"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_papersize": {
+      "message": "Girman takarda"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Sanya girman takarda don fitar da PDF."
+   },
+   "setting_pdf_margin": {
+      "message": "Gefen shafi"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Sanya gefen shafi, ma'auni pt, iyakar da aka kayyade (0-40) pt"
+   },
+   "setting_download": {
+      "message": "Zazzagewa"
+   },
+   "setting_download_save_as": {
+      "message": "Ajiye azaman"
+   },
+   "setting_download_save_as_info": {
+      "message": "Nuna akwatin zaɓi na \"ajiye azaman\" lokacin da kake sauke hotuna."
+   },
+   "setting_down_image_format": {
+      "message": "Ajiye hoto"
+   },
+   "setting_down_image_format_info": {
+      "message": "Sanya nau'in hoton da za a sauke."
+   },
+   "setting_cloud_upload_format": {
+      "message": "Tsarin loda zuwa cloud"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Zaɓi tsarin fayil lokacin loda hotunan allo zuwa cloud drive."
+   },
+   "privacy": {
+      "message": "Sirri"
+   },
+   "delete": {
+      "message": "Cire"
+   },
+   "deleteAlert": {
+      "message": "Tabbatar da cirewa?"
+   },
+   "crop": {
+      "message": "Yanke"
+   },
+   "not_support": {
+      "message": "Barka da zuwa OpenCapture. Kuna iya amfani da wannan a duk shafukan yanar gizo, sai dai shafukan da burauza ke hana kari aiki. Wannan ya haɗa da shagon kari, shafukan saitunan burauza, da wasu kari.<br /><br />Gwada wani shafi a yanar gizo, kamar <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">wannan</a>. Yi amfani da shi cikin jin daɗi!<br /><br />Burauzan baya bada damar shiga wasu adireshi saboda dalilai na tsaro. Wannan ya haɗa da shagon kari, wasu kari, da chrome://, extension:// URLs. <b>Shafin da kake kan sa yanzu yana cikin jerin da ba za a iya shiga ba.</b><br /><br />Don ƙarin tambayoyi, tuntuɓe mu.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "close": {
+      "message": "Rufe"
+   },
+   "tryAgainLater": {
+      "message": "Ana loda, da fatan za a sake gwadawa daga baya"
+   },
+   "login_refresh": {
+      "message": "Sabunta bayan shiga"
+   },
+   "iframe_capture": {
+      "message": "An samo iframe mai haɗawa! Da fatan za a sake kama cikakken hoto akan shafin da aka buɗe ta atomatik"
+   },
+   "noSupportMultiPic": {
+      "message": "Ba a goyan bayan yankewa da yawa"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Bada izinin gudanar da saukewa"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Da fatan za a bada izini na gudanar da saukewa da fari"
+   },
+   "permissionDownloadsDenied": {
+      "message": "Kun hana izini na gudanar da saukewa"
+   },
+   "reportIssue": {
+      "message": "Bayar da rahoton matsala"
+   },
+   "issueTitleAdd": {
+      "message": "Ƙara take"
+   },
+   "issueContentAdd": {
+      "message": "Bayani mai sauƙi game da matsalar"
+   },
+   "issueUrl": {
+      "message": "Hanya"
+   },
+   "issueEmail": {
+      "message": "Imel"
+   },
+   "btn_submit": {
+      "message": "Aika"
+   },
+   "like_title": {
+      "message": "Kana ka son wannan manhaja?"
+   },
+   "like_body": {
+      "message": "Kirkirar manhaja mai kyau yana bukatar kokari mai yawa, kuma muna farin ciki da cewa kana son ta!<br /><br />Za ka iya ɗaukar minti guda ka ba mu tauraro biyar? Zai taimaka mana matuka :)"
+   },
+   "like_yes": {
+      "message": "Tabbas"
+   },
+   "like_no_thanks": {
+      "message": "A'a, na gode"
+   },
+   "stop_scrolling": {
+      "message": "Daina gungura"
+   },
+   "fav_edit": {
+      "message": "Gyara Tarin"
+   },
+   "fav_success_edit": {
+      "message": "Ajiya ya yi nasara - Gyara"
+   },
+   "exist_info": {
+      "message": "Shafin yanar gizo ya riga an ajiye!"
+   },
+   "btn_snap": {
+      "message": "Hoton allo"
+   },
+   "btn_lock": {
+      "message": "Sirri"
+   },
+   "snap_shot_prepare": {
+      "message": "Shirya don yin hoton allo da ɗora shi"
+   },
+   "snap_shot_uploading": {
+      "message": "Ana ɗora hoton allo..."
+   },
+   "auto_clase": {
+      "message": "Rufewa ta atomatik"
+   },
+   "error_upload_snap": {
+      "message": "Kuskuren ɗora hoton allo!"
+   },
+   "default_set": {
+      "message": "Saitin tsoho"
+   },
+   "add": {
+      "message": "Ƙara"
+   },
+   "vip": {
+      "message": "Pro"
+   },
+   "tags_no": {
+      "message": "Babu alamar lakabi"
+   },
+   "loading": {
+      "message": "Ana loda"
+   },
+   "setting_more": {
+      "message": "Saituna masu yawa"
+   },
+   "site_item1": {
+      "message": "Hoton Shafin Yanar Gizo"
+   },
+   "site_item2": {
+      "message": "Alamomin Girgije"
+   },
+   "site_item3": {
+      "message": "Karanta Daga Baya"
+   },
+   "site_login": {
+      "message": "Shiga"
+   },
+   "site_reg": {
+      "message": "Yi Rijista"
+   },
+   "refresh_effective": {
+      "message": "Zai yi aiki bayan sabuntawa"
+   },
+   "my_collections": {
+      "message": "Tarin Na"
+   },
+   "favUrl": {
+      "message": "Hanya"
+   },
+   "favTitle": {
+      "message": "Suna"
+   },
+   "favTag": {
+      "message": "Lakabi"
+   },
+   "favTagPlaceholder": {
+      "message": "Lakabi"
+   },
+   "favMyTags": {
+      "message": "Lakabina"
+   },
+   "clickSel": {
+      "message": "Danna don zaɓa"
+   },
+   "favSuggestTag": {
+      "message": "Shawarar Lakabi"
+   },
+   "privateBeizhu": {
+      "message": "Bayanan sirri"
+   },
+   "clickUnfold": {
+      "message": "Danna don buɗewa"
+   },
+   "favOption": {
+      "message": "Zaɓi"
+   },
+   "saveUrl2Snap": {
+      "message": "Hoton allo"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Ajiye hoton allo na shafin yanar gizo"
+   },
+   "saveUrl2Private": {
+      "message": "Sirri"
+   },
+   "saveUrl2Public": {
+      "message": "Na Jama'a"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Saita a matsayin sirri, bayyane gare ka kawai"
+   },
+   "optional": {
+      "message": "Zababbun"
+   },
+   "favTagLengthOver": {
+      "message": "Lakabin ya yi tsawo sosai"
+   },
+   "favTagNumOver": {
+      "message": "Yawan lakabi ya wuce iyaka!"
+   },
+   "MailVerificationCode": {
+      "message": "Lambar Tabbatarwa"
+   },
+   "imgCaptcha": {
+      "message": "Kalmar Tantancewa"
+   },
+   "sendMailCode": {
+      "message": "Aika"
+   },
+   "loginSignUp": {
+      "message": "Shiga / Yi Rijista"
+   },
+   "accountLogin": {
+      "message": "Shiga da Kalmar wucewa"
+   },
+   "signUpAgreement": {
+      "message": "Ta hanyar yin rijista, kuna yarda da <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Yarjejeniyar Sabis na Mai Amfani</a> da <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Manufofin Sirri</a> na YesKeeper"
+   },
+   "submitFalse": {
+      "message": "Aika ta gaza!"
+   },
+   "imgCodeInput": {
+      "message": "Shigar da lambar tantance hoton!"
+   },
+   "loginCodeSent": {
+      "message": "An aika"
+   },
+   "loginCodeResend": {
+      "message": "Sake Aika"
+   },
+   "bar_copy": {
+      "message": "Kwafi"
+   },
+   "bar_save": {
+      "message": "Ajiye"
+   },
+   "fav_success": {
+      "message": "Ajiya ta yi nasara!"
+   },
+   "viewMyCollections": {
+      "message": "Duba Tarina"
+   },
+   "forgetPsw": {
+      "message": "Manta Kalmar Wucewa?"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Ɗora wannan hoton allo"
+   },
+   "exitUploading": {
+      "message": "Ana ɗora fayil, ka tabbata kana son barin shafin?"
+   },
+   "setting_default_private": {
+      "message": "Tsohon Saiti na Sirri"
+   },
+   "setting_default_private_info": {
+      "message": "Saita tsoho a matsayin sirri yayin ajiye zuwa YesKeeper."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Nuna tattaunawar ajiye zuwa YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Nuna tattaunawar Ajiye zuwa YesKeeper don ajiye a matsayin hoton allo na shafin yanar gizo"
+   },
+   "signInWithGoogle": {
+      "message": "Shiga da Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Shiga da Microsoft"
+   },
+   "signInWithApple": {
+      "message": "Shiga da Apple"
+   },
+   "savedFileNameSet": {
+      "message": "Sunan fayil"
+   },
+   "savedFileNameByTime": {
+      "message": "Ta lokaci"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "misali: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameByTile": {
+      "message": "Ta take"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "misali: Google.png"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(hoton allo na HD sau 2)"
+   },
+   "history": {
+      "message": "Tarihi"
+   },
+   "historyEmpty": {
+      "message": "Har yanzu babu tarihin hotunan allo."
+   },
+   "historyUnknownDomain": {
+      "message": "Yanki (domain) da ba a sani ba"
+   },
+   "historyClear": {
+      "message": "Share"
+   },
+   "historyClearConfirm": {
+      "message": "A share duk tarihin hotunan allo?"
+   },
+   "historyDelete": {
+      "message": "Goge"
+   },
+   "historyClearDialogTitle": {
+      "message": "Share tarihi"
+   },
+   "historyClearOlder3Months": {
+      "message": "Share bayanan da suka wuce watanni 3"
+   },
+   "historyClearOlder1Month": {
+      "message": "Share bayanan da suka wuce wata 1"
+   },
+   "historyClearAll": {
+      "message": "Share duk bayanai"
+   },
+   "uploadToCloudDrive": {
+      "message": "Loda zuwa ma'ajiyar girgije"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "An yi lodawa cikin nasara"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Lodawa ta gaza"
+   },
+   "setting_appearance": {
+      "message": "Bayyanar"
+   },
+   "setting_theme_mode": {
+      "message": "Yanayi"
+   },
+   "setting_theme_mode_info": {
+      "message": "Zaɓi jigon nunawa don shafukan OpenCapture."
+   },
+   "theme_follow_system": {
+      "message": "Bi tsarin na'ura"
+   },
+   "theme_light": {
+      "message": "Haske"
+   },
+   "theme_dark": {
+      "message": "Duhu"
+   },
+   "premium_manage_subscription": {
+      "message": "Sarrafa biyan kuɗi"
+   },
+   "premium_portal_opening": {
+      "message": "Ana buɗewa..."
+   },
+   "premium_portal_error": {
+      "message": "An kasa buɗe shafin sarrafa biyan kuɗi."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Haɓaka zuwa Premium don canza yanayi."
+   },
+   "premium_notice_used_up": {
+      "message": "Gwajin kyauta na {feature} ya ƙare."
+   },
+   "premium_notice_low": {
+      "message": "Gwajin kyauta na {feature} na dab da ƙarewa. Ya rage: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Haɓaka zuwa Premium don buɗe ƙarin fasalolin ci gaba."
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium yana aiki."
+   },
+   "premium_title": {
+      "message": "Tallafa mana kuma haɓaka zuwa OpenCapture Premium"
+   },
+   "premium_subtitle": {
+      "message": "Premium yana buɗe duk yanayi, ciki har da hoton HD cikakken shafi da wuraren da ake gungurawa."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium yana aiki"
+   },
+   "premium_active_subtitle": {
+      "message": "An buɗe duk yanayin Premium a wannan shigarwar burauza."
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Don hotunan allo na yau da kullum"
+   },
+   "premium_free_visible": {
+      "message": "Ɗauki ɓangaren da ake gani"
+   },
+   "premium_free_full": {
+      "message": "Ɗauki cikakken shafi da gungurawa"
+   },
+   "premium_free_edit": {
+      "message": "Yi bayani, yanke, kwafi, bugawa, fitar PDF/JPG/PNG"
+   },
+   "premium_free_hd": {
+      "message": "Hoton HD cikakken shafi: gwaji kyauta 5"
+   },
+   "premium_free_scrollable": {
+      "message": "Hoton wurin gungurawa: gwaji kyauta 5"
+   },
+   "premium_free_long_page_split": {
+      "message": "Hoton dogon shafi a rabe"
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_price": {
+      "message": "Biyan kuɗi na shekara"
+   },
+   "premium_active_price": {
+      "message": "Biyan kuɗi na shekara yana aiki"
+   },
+   "premium_all_free": {
+      "message": "Duk abin da ke Free"
+   },
+   "premium_hd": {
+      "message": "Hoton HD cikakken shafi mara iyaka"
+   },
+   "premium_scrollable": {
+      "message": "Hoton wurin gungurawa mara iyaka"
+   },
+   "premium_long_page_split": {
+      "message": "Ƙarin sararin tarihi"
+   },
+   "premium_cloud": {
+      "message": "Loda zuwa Google Drive"
+   },
+   "premium_mode_switching": {
+      "message": "Sauya haske/duhu"
+   },
+   "premium_future": {
+      "message": "Samun fasalolin Premium na gaba"
+   },
+   "premium_back": {
+      "message": "Baya"
+   },
+   "premium_upgrade": {
+      "message": "Haɓaka zuwa Premium"
+   },
+   "premium_valid_until": {
+      "message": "Yana aiki har zuwa"
+   },
+   "premium_unknown_date": {
+      "message": "Ba a sani ba"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Koma zuwa OpenCapture"
+   },
+   "premium_opening_stripe": {
+      "message": "Ana buɗe Stripe..."
+   },
+   "premium_stripe_error": {
+      "message": "Ba a iya buɗe hanyar biyan Stripe ba. A sake gwadawa daga baya."
+   },
+   "premium_manage": {
+      "message": "Sarrafa"
+   },
+   "premium_opening_portal": {
+      "message": "Ana buɗewa..."
+   },
+   "premium_portal_error_full": {
+      "message": "Ba a iya buɗe sarrafa biyan kuɗi ba. A sake gwadawa daga baya."
+   },
+   "premium_restore_guide": {
+      "message": "An riga an saya ko an sake shigarwa?"
+   },
+   "premium_restore_link": {
+      "message": "Mayar da Premium"
+   },
+   "premium_feature_title_default": {
+      "message": "Wannan fasalin Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Hoton HD cikakken shafi"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Hoton wurin gungurawa"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Hoton dogon shafi a rabe"
+   }
+}

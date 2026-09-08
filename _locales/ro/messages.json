@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Cod de verificare"
+   },
+   "accountLogin": {
+      "message": "Autentificare cu cont"
+   },
+   "add": {
+      "message": "Adaugă"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Primul lucru este să autorizezi permisiunile de gestionare descărcărilor"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Autorizează permisiunile de gestionare descărcărilor"
+   },
+   "auto_clase": {
+      "message": "Închide automat fereastra"
+   },
+   "bar_copy": {
+      "message": "Copiează"
+   },
+   "bar_save": {
+      "message": "Salvează"
+   },
+   "btn_cancel": {
+      "message": "Anulează"
+   },
+   "btn_lock": {
+      "message": "Privat"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Elimină"
+   },
+   "btn_snap": {
+      "message": "Snimpează"
+   },
+   "btn_submit": {
+      "message": "Trimite"
+   },
+   "btn_view": {
+      "message": "Vezi"
+   },
+   "capture2pdfDownload": {
+      "message": "Salvează ca PDF"
+   },
+   "captureAllPage": {
+      "message": "Capțurează întreaga pagină"
+   },
+   "captureAnnotate": {
+      "message": "Anotează"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Upload acest screenshot"
+   },
+   "captureClickAnnotate": {
+      "message": "Clic pe snimpeul pentru a face anotații"
+   },
+   "captureDownload": {
+      "message": "Salvează imaginea"
+   },
+   "captureHighResAllPage": {
+      "message": "Capțurează întreaga pagină în HD"
+   },
+   "capturePage": {
+      "message": "Capțurează parte vizibilă"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Capțurează din poziția curentă"
+   },
+   "captureScrollable": {
+      "message": "Capturați zona derulabilă"
+   },
+   "captureSelection": {
+      "message": "Capțurează selecția"
+   },
+   "capture_interrupted": {
+      "message": "Schimbare de tab detectată, captura de ecran oprită!"
+   },
+   "capture_scroll": {
+      "message": "Capturați aceasta"
+   },
+   "clickSel": {
+      "message": "Clic pentru selecție"
+   },
+   "clickUnfold": {
+      "message": "Clic pentru desfereală"
+   },
+   "close": {
+      "message": "Închide"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Nu s-a putut copia imaginea"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Imaginea a fost copiată în clipboard"
+   },
+   "copyNotSupport": {
+      "message": "Brauzerul tău nu suportă copierea imaginilor!"
+   },
+   "copyToClipBoard": {
+      "message": "Copiează în clipboard"
+   },
+   "copy_false": {
+      "message": "Copiere eșuată!"
+   },
+   "copy_success": {
+      "message": "Copiat în clipboard!"
+   },
+   "crop": {
+      "message": "Decapăt"
+   },
+   "default_set": {
+      "message": "Setări default"
+   },
+   "delete": {
+      "message": "Elimină"
+   },
+   "deleteAlert": {
+      "message": "Ei deoarece să elimini?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Eroare necunoscută!"
+   },
+   "error_upload_snap": {
+      "message": "Eroare de upload al snimpei!"
+   },
+   "exist_info": {
+      "message": "Pagina web a fost salvată!"
+   },
+   "exitUploading": {
+      "message": "Se încarcă, ești sigur că vrei să ieși?"
+   },
+   "favMyTags": {
+      "message": "Etichetele mele"
+   },
+   "favOption": {
+      "message": "Opțiuni"
+   },
+   "favSuggestTag": {
+      "message": "Sugerează etichete"
+   },
+   "favTag": {
+      "message": "Etichetă"
+   },
+   "favTagLengthOver": {
+      "message": "Eticheta este prea lungă"
+   },
+   "favTagNumOver": {
+      "message": "Numărul de etichete depășește limita!"
+   },
+   "favTagPlaceholder": {
+      "message": "Etichete"
+   },
+   "favTitle": {
+      "message": "Titlu"
+   },
+   "favUrl": {
+      "message": "Link"
+   },
+   "fav_edit": {
+      "message": "Editează colecție"
+   },
+   "fav_success": {
+      "message": "Salvat cu succes!"
+   },
+   "fav_success_edit": {
+      "message": "Salvat cu succes - Editare"
+   },
+   "forgetPsw": {
+      "message": "Am uitat parola?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(captură de ecran HD 2x)"
+   },
+   "history": {
+      "message": "Istoric"
+   },
+   "historyClear": {
+      "message": "Șterge"
+   },
+   "historyClearAll": {
+      "message": "Șterge toate înregistrările"
+   },
+   "historyClearConfirm": {
+      "message": "Ștergeți tot istoricul capturilor de ecran?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Ștergere istoric"
+   },
+   "historyClearOlder1Month": {
+      "message": "Șterge înregistrările mai vechi de 1 lună"
+   },
+   "historyClearOlder3Months": {
+      "message": "Șterge înregistrările mai vechi de 3 luni"
+   },
+   "historyDelete": {
+      "message": "Elimină"
+   },
+   "historyEmpty": {
+      "message": "Nu există încă istoric al capturilor de ecran."
+   },
+   "historyUnknownDomain": {
+      "message": "Domeniu necunoscut"
+   },
+   "iframe_capture": {
+      "message": "Găsit îmbriccare de iframe! Reia captura completă pe pagina deschisă automat"
+   },
+   "img": {
+      "message": "Imagine"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Introduce codul de verificare!"
+   },
+   "issueContentAdd": {
+      "message": "O scurtă descriere a problemei"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "issueTitleAdd": {
+      "message": "Adaugă titlu"
+   },
+   "issueUrl": {
+      "message": "Link"
+   },
+   "like_body": {
+      "message": "Dezvoltarea unui program util necesită mult efort, iar noi suntem fericiți că îți place!<br /><br />Poți să îți acorzi un minut pentru a ne lăsa un review de cinci stele? Ar fi de mare ajutor pentru noi. :)"
+   },
+   "like_no_thanks": {
+      "message": "Nu, mulțumesc"
+   },
+   "like_title": {
+      "message": "Îți place acest instrument?"
+   },
+   "like_yes": {
+      "message": "Da"
+   },
+   "loading": {
+      "message": "Se încarcă"
+   },
+   "loginCodeResend": {
+      "message": "Retrimite"
+   },
+   "loginCodeSent": {
+      "message": "Trimis"
+   },
+   "loginSignUp": {
+      "message": "Intră / Registrează-te"
+   },
+   "login_refresh": {
+      "message": "Actualizează după autentificare"
+   },
+   "msg_title": {
+      "message": "Sugestie - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Mai multe zone găsite, alegeți una."
+   },
+   "my_collections": {
+      "message": "Colecțiile mele"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Eroare de cerere de rețea!"
+   },
+   "noSupportMultiPic": {
+      "message": "Decaparea multi-imaginilor nu este suportată"
+   },
+   "not_support": {
+      "message": "Binevenit la extensia OpenCapture. Poți rula aceasta pe orice pagină web, cu excepția celor unde browserul restricționează extensiile de a rula scripturi. Acest lucru include galeria de extensii, paginile de setări ale browserului și alte extensii<br /><br />Încearcă o altă pagină web, cum ar fi <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">asta</a>. Divertire<br /><br />Browserul nu permite accesul la unele URL-uri din motive de securitate. Acest lucru include galeria de extensii, alte extensii și URL-uri de tip chrome://, extension://. <b>URL-ul curent pare a fi restricționat.</b<br /><br />Pentru întrebări suplimentare, contactează-ne.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Opțional"
+   },
+   "page_not_ready": {
+      "message": "Se încarcă, încercați mai târziu."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Ai refuzat autorizarea pentru permisiunile de gestionare descărcărilor"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium este activ."
+   },
+   "premium_active_price": {
+      "message": "Abonament anual activ"
+   },
+   "premium_active_subtitle": {
+      "message": "Toate modurile Premium sunt deblocate în această instalare a browserului."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium este activ"
+   },
+   "premium_all_free": {
+      "message": "Tot ce include Free"
+   },
+   "premium_back": {
+      "message": "Înapoi"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Înapoi la OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Încărcare în Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Această funcție Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Capturi HD pe pagină completă"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Capturi lungi împărțite"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Capturi de zone derulabile"
+   },
+   "premium_free_edit": {
+      "message": "Adnotare, decupare, copiere, imprimare, export PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Captură pagină completă cu derulare"
+   },
+   "premium_free_hd": {
+      "message": "Capturi HD pe pagină completă: 5 încercări gratuite"
+   },
+   "premium_free_long_page_split": {
+      "message": "Capturi lungi împărțite"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Pentru capturi zilnice"
+   },
+   "premium_free_scrollable": {
+      "message": "Capturi de zone derulabile: 5 încercări gratuite"
+   },
+   "premium_free_visible": {
+      "message": "Captură zonă vizibilă"
+   },
+   "premium_future": {
+      "message": "Acces la funcții Premium viitoare"
+   },
+   "premium_hd": {
+      "message": "Capturi HD nelimitate pe pagină completă"
+   },
+   "premium_long_page_split": {
+      "message": "Mai mult spațiu pentru istoric"
+   },
+   "premium_manage": {
+      "message": "Gestionare"
+   },
+   "premium_manage_subscription": {
+      "message": "Gestionează abonamentul"
+   },
+   "premium_mode_switching": {
+      "message": "Comutare mod luminos/întunecat"
+   },
+   "premium_notice_low": {
+      "message": "Încercările gratuite pentru {feature} sunt aproape terminate. Rămase: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Treceți la Premium pentru a debloca mai multe funcții avansate."
+   },
+   "premium_notice_used_up": {
+      "message": "Încercările gratuite pentru {feature} s-au terminat."
+   },
+   "premium_opening_portal": {
+      "message": "Se deschide..."
+   },
+   "premium_opening_stripe": {
+      "message": "Se deschide Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Nu s-a putut deschide gestionarea abonamentului."
+   },
+   "premium_portal_error_full": {
+      "message": "Nu s-a putut deschide gestionarea abonamentului. Încercați mai târziu."
+   },
+   "premium_portal_opening": {
+      "message": "Se deschide..."
+   },
+   "premium_price": {
+      "message": "Abonament anual"
+   },
+   "premium_restore_guide": {
+      "message": "Ați cumpărat deja sau ați reinstalat?"
+   },
+   "premium_restore_link": {
+      "message": "Restaurare Premium"
+   },
+   "premium_scrollable": {
+      "message": "Capturi nelimitate de zone derulabile"
+   },
+   "premium_stripe_error": {
+      "message": "Nu s-a putut deschide linkul de plată Stripe. Încercați mai târziu."
+   },
+   "premium_subtitle": {
+      "message": "Premium deblochează toate modurile, inclusiv capturi HD pe pagină completă și zone derulabile."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Treceți la Premium pentru a schimba modul."
+   },
+   "premium_title": {
+      "message": "Susțineți-ne și treceți la OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Necunoscut"
+   },
+   "premium_upgrade": {
+      "message": "Treceți la Premium"
+   },
+   "premium_valid_until": {
+      "message": "Valabil până la"
+   },
+   "print": {
+      "message": "Imprimează"
+   },
+   "privacy": {
+      "message": "Confidențialitate"
+   },
+   "privateBeizhu": {
+      "message": "Notă privată"
+   },
+   "refresh_effective": {
+      "message": "Valează după reîncărcare"
+   },
+   "reportIssue": {
+      "message": "Raportează problema"
+   },
+   "saveUrl2Private": {
+      "message": "Privat"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Setează ca privat, vizibil doar pentru tine"
+   },
+   "saveUrl2Public": {
+      "message": "Public"
+   },
+   "saveUrl2Snap": {
+      "message": "Snimpează"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Salvează snimpeul paginii web"
+   },
+   "savedFileNameByTile": {
+      "message": "După titlu"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ex.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "După timp"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ex.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Nume fișier"
+   },
+   "scrollable_area_no": {
+      "message": "Nu a fost găsită nicio zonă de derulare."
+   },
+   "sendMailCode": {
+      "message": "Trimite"
+   },
+   "setting_appearance": {
+      "message": "Aspect"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format încărcare în cloud"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Specificați formatul fișierului când încărcați capturi de ecran în drive-ul cloud."
+   },
+   "setting_default_private": {
+      "message": "Privat implicit"
+   },
+   "setting_default_private_info": {
+      "message": "Specifică implicitul mod privat atunci când salvezi în YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Format de imagine"
+   },
+   "setting_down_image_format_info": {
+      "message": "Specifică formatul de imagine pentru descărcare."
+   },
+   "setting_download": {
+      "message": "Descărcare"
+   },
+   "setting_download_save_as": {
+      "message": "Salvează cu numele"
+   },
+   "setting_download_save_as_info": {
+      "message": "Afișează dialogul \"salvează cu numele\" când descarți snimpele."
+   },
+   "setting_more": {
+      "message": "Alte setări"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Margine pagină"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Specifică marginea paginii, unitate pt, interval (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Mărime hârtie"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Specifică mărimea hârtiei pentru PDF-uri când exportezi."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Afișează dialogul de salvare în YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Afișează dialogul de salvare în YesKeeper pentru snimpele salvate ca pagini web."
+   },
+   "setting_theme_mode": {
+      "message": "Mod"
+   },
+   "setting_theme_mode_info": {
+      "message": "Alege tema de afișare pentru paginile OpenCapture."
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "signInWithApple": {
+      "message": "Intră cu Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Intră cu Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Intră cu Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Prin registrare, acordi cu <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Acordul de Utilizare al YesKeeper</a> și <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Politica de Confidențialitate</a>."
+   },
+   "site_item1": {
+      "message": "Snimpe网页"
+   },
+   "site_item2": {
+      "message": "Bookmarks în cloud"
+   },
+   "site_item3": {
+      "message": "Citesc mai târziu"
+   },
+   "site_language": {
+      "message": "Limba"
+   },
+   "site_login": {
+      "message": "Intră"
+   },
+   "site_reg": {
+      "message": "Registrează-te"
+   },
+   "snap_shot_prepare": {
+      "message": "Se pregosește pentru parcurgere și upload al snimpei"
+   },
+   "snap_shot_uploading": {
+      "message": "Uploading..."
+   },
+   "splitMultiImages": {
+      "message": "Nota: Această pagină este prea mare pentru a fi capturată ca o singură imagine. Va fi divizată în mai multe imagini."
+   },
+   "stop_scrolling": {
+      "message": "Oprește derularea"
+   },
+   "submitFalse": {
+      "message": "Submissie eșuată!"
+   },
+   "tags_no": {
+      "message": "Fără etichete"
+   },
+   "theme_dark": {
+      "message": "Închis"
+   },
+   "theme_follow_system": {
+      "message": "Urmează sistemul"
+   },
+   "theme_light": {
+      "message": "Deschis"
+   },
+   "tryAgainLater": {
+      "message": "Se încarcă, încearcă mai târziu"
+   },
+   "uploadToCloudDrive": {
+      "message": "Încarcă în stocarea cloud"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Încărcarea a eșuat"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Încărcare reușită"
+   },
+   "viewMyCollections": {
+      "message": "Vezi colecțiile mele"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

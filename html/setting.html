@@ -1,0 +1,181 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Settings - OpenCapture</title>
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/icons/icon32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/icons/icon16.png" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover" />
+<link href="../assets/lib/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/lib/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/css/base.css" type="text/css" rel="stylesheet" />
+<script src="../assets/lib/jquery.js" type="text/javascript"></script>
+<script src="../assets/lib/popper.js" type="text/javascript"></script>
+<script src="../assets/lib/bootstrap.js" type="text/javascript"></script>
+<style type="text/css">
+html,body {
+	width:100%;
+	height:100%;
+	background-color: #f2f2f2;
+	color: #333;
+}
+a { cursor:pointer; color: #007bff; text-decoration: none; }
+h1 { font-size:1.6rem !important; }
+h2 { font-size:1.2rem !important; }
+.header {
+	line-height: 50px;
+	color: white;
+	border-bottom: 1px solid #717f8c;
+}
+.header-content {
+	display: flex;
+	align-items: center;
+}
+.card { color:#333; }
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+}
+.switch input { opacity: 0; width: 0; height: 0; }
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 20px;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px; width: 16px;
+    left: 2px; bottom: 2px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+input:checked + .slider { background-color: #2196F3; }
+input:checked + .slider:before { transform: translateX(20px); }
+.setContent { background-color:#f3f3f3; }
+</style>
+<link href="../assets/css/theme.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+	<div class="container-fluid">
+		<!-- Header -->
+		<div class="row header page-header bg-dark">
+			<div class="col-12 text-left p-2">
+				<div class="header-content">
+					<img src="../assets/icons/icon48.png" style="width:32px;height:32px;" />
+					<span id="name_site" style="font-size: 22px;margin-left: 8px;margin-right: 8px;">OpenCapture</span>
+					<span class="badge badge-success ml-2">FOSS Edition</span>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-2 p-4">
+			<div class="col-12 p-2">
+				<div class="card">
+					<div class="card-body text-left">
+						<h1 class="p-3" id="settings">Settings</h1>
+
+						<h2 id="setting_appearance" class="mt-2 p-3">Appearance</h2>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_theme_mode" style="display: inline-block; min-width: 160px;">Mode</div>
+								<div style="display: inline-block; min-width: 160px;">
+									<select class="form-control" id="openCaptureThemeMode">
+										<option value="system">Follow system</option>
+										<option value="light">Light</option>
+										<option value="dark">Dark</option>
+									</select>
+								</div>
+							</div>
+							<div style="display: inline-block;" id="setting_theme_mode_info">Choose the display theme for OpenCapture pages.</div>
+						</div>
+						
+						<h2 class="mt-2 p-3">PDF</h2>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_pdf_papersize" style="display: inline-block; min-width: 160px;">Paper Size</div>
+								<div style="display: inline-block; min-width: 160px;">
+									<select class="form-control" id="pdfPageSize">
+										<option value="letter">US letter</option>
+										<option value="legal">US legal</option>
+										<option value="a4">A4</option>
+										<option value="full">Full image</option>
+									</select>
+								</div>
+							</div>
+							<div style="display: inline-block;" id="setting_pdf_papersize_info">Specify the format size of PDFs for when exporting to PDF.</div>
+						</div>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_pdf_margin" style="display: inline-block; min-width: 160px;">Page margin</div>
+								<div style="display: inline-block; min-width: 160px;">
+									<select class="form-control" id="pdfPageMargin">
+										<option value="0">0</option>
+										<option value="5">5</option>
+										<option value="10">10</option>
+										<option value="20">20</option>
+										<option value="25">25</option>
+										<option value="30">30</option>
+										<option value="35">35</option>
+										<option value="40">40</option>
+									</select>
+								</div>
+							</div>
+							<div style="display: inline-block;" id="setting_pdf_margin_info">Specify the page margin, unit pt, specified range (0-40) pt</div>
+						</div>
+
+						<h2 class="mt-2 p-3">Download</h2>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_download_save_as" style="display: inline-block; min-width: 160px;">Save as</div>
+								<label class="switch">
+									<input type="checkbox" id="mySwitch_save_as">
+									<span class="slider"></span>
+								</label>
+							</div>
+							<div style="display: inline-block;" id="setting_download_save_as_info">Automatically show a "save as" dialog when downloading your screenshots.</div>
+						</div>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_down_image_format" style="display: inline-block; min-width: 160px;">Save Image</div>
+								<div style="display: inline-block; min-width: 160px;">
+									<select class="form-control" id="downloadImageFormat">
+										<option value="image/png">PNG</option>
+										<option value="image/jpeg">JPEG</option>
+									</select>
+								</div>
+							</div>
+							<div style="display: inline-block;" id="setting_down_image_format_info">Specify the image format for downloading your screenshots.</div>
+						</div>
+						<div class="p-3 setContent">
+							<div style="display: inline-block; min-width: 400px;">
+								<div id="setting_filename_set" style="display: inline-block; min-width: 160px;">File Naming</div>
+								<div style="display: inline-block; min-width: 160px;">
+									<select class="form-control" id="fileNameSet">
+										<option value="By Time">By Time</option>
+										<option value="By Title">By Title</option>
+									</select>
+								</div>
+							</div>
+							<div style="display: inline-block;" id="setting_filename_set_info"></div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer -->
+		<div class="row mt-4">
+			<div class="col-12 text-center p-3">
+				<p class="mb-0">OpenCapture &bull; Free & Open Source <span id="version"></span></p>
+			</div>
+		</div>
+	</div>
+	<script src="../assets/js/setting.js" type="text/javascript"></script>
+</body>
+</html>

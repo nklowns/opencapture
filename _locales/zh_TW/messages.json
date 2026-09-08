@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "郵件驗證碼"
+   },
+   "accountLogin": {
+      "message": "帳號密碼登入"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "請先授權管理下載權限"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "授權管理下載權限"
+   },
+   "auto_clase": {
+      "message": "自動關閉"
+   },
+   "bar_copy": {
+      "message": "複製"
+   },
+   "bar_save": {
+      "message": "儲存"
+   },
+   "btn_cancel": {
+      "message": "取消"
+   },
+   "btn_lock": {
+      "message": "私有"
+   },
+   "btn_ok": {
+      "message": "確定"
+   },
+   "btn_remove": {
+      "message": "移除"
+   },
+   "btn_snap": {
+      "message": "快照"
+   },
+   "btn_submit": {
+      "message": "提交"
+   },
+   "btn_view": {
+      "message": "查看"
+   },
+   "capture2pdfDownload": {
+      "message": "轉PDF下載"
+   },
+   "captureAllPage": {
+      "message": "截圖整個頁面"
+   },
+   "captureAnnotate": {
+      "message": "註釋截圖"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "此截圖作為快照上傳"
+   },
+   "captureClickAnnotate": {
+      "message": "點擊以下截圖，可添加註釋"
+   },
+   "captureDownload": {
+      "message": "下載截圖"
+   },
+   "captureHighResAllPage": {
+      "message": "高清整頁截圖"
+   },
+   "capturePage": {
+      "message": "截圖可見部分"
+   },
+   "capturePageCurrentPosition": {
+      "message": "當前位置滾動截圖"
+   },
+   "captureScrollable": {
+      "message": "截圖可滾動區域"
+   },
+   "captureSelection": {
+      "message": "截圖選定區域"
+   },
+   "capture_interrupted": {
+      "message": "偵測到您切換了分頁，截圖已中斷！"
+   },
+   "capture_scroll": {
+      "message": "擷取此區域"
+   },
+   "clickSel": {
+      "message": "點擊選擇"
+   },
+   "clickUnfold": {
+      "message": "點擊展開"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "無法複製圖片到剪貼板"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "圖片已複製到剪貼板"
+   },
+   "copyNotSupport": {
+      "message": "您的瀏覽器不支持複製圖片到剪貼板"
+   },
+   "copyToClipBoard": {
+      "message": "複製到剪貼板"
+   },
+   "copy_false": {
+      "message": "複製失敗！"
+   },
+   "copy_success": {
+      "message": "已複製到剪貼簿！"
+   },
+   "crop": {
+      "message": "裁剪"
+   },
+   "default_set": {
+      "message": "預設設定"
+   },
+   "delete": {
+      "message": "刪除"
+   },
+   "deleteAlert": {
+      "message": "真的要刪除嗎?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "發生未知錯誤！"
+   },
+   "error_upload_snap": {
+      "message": "快照上傳錯誤！"
+   },
+   "exist_info": {
+      "message": "已保存過該網頁！"
+   },
+   "exitUploading": {
+      "message": "檔案正在上傳，確定要離開嗎？"
+   },
+   "favMyTags": {
+      "message": "我的標簽"
+   },
+   "favOption": {
+      "message": "選項"
+   },
+   "favSuggestTag": {
+      "message": "推薦標簽"
+   },
+   "favTag": {
+      "message": "標簽"
+   },
+   "favTagLengthOver": {
+      "message": "該標簽過長"
+   },
+   "favTagNumOver": {
+      "message": "超過標簽數量上限！"
+   },
+   "favTagPlaceholder": {
+      "message": "多標簽空格隔開"
+   },
+   "favTitle": {
+      "message": "標題"
+   },
+   "favUrl": {
+      "message": "鏈接"
+   },
+   "fav_edit": {
+      "message": "修改"
+   },
+   "fav_success": {
+      "message": "儲存成功！"
+   },
+   "fav_success_edit": {
+      "message": "保存成功 - 編輯"
+   },
+   "forgetPsw": {
+      "message": "忘記密碼？"
+   },
+   "highResCaptureEditLabel": {
+      "message": "（2倍高清截圖）"
+   },
+   "history": {
+      "message": "歷史記錄"
+   },
+   "historyClear": {
+      "message": "清空"
+   },
+   "historyClearAll": {
+      "message": "清空全部記錄"
+   },
+   "historyClearConfirm": {
+      "message": "確定清空所有截圖歷史記錄嗎？"
+   },
+   "historyClearDialogTitle": {
+      "message": "清空歷史記錄"
+   },
+   "historyClearOlder1Month": {
+      "message": "清空1個月前記錄"
+   },
+   "historyClearOlder3Months": {
+      "message": "清空3個月前記錄"
+   },
+   "historyDelete": {
+      "message": "刪除"
+   },
+   "historyEmpty": {
+      "message": "暫無截圖歷史記錄。"
+   },
+   "historyUnknownDomain": {
+      "message": "未知網域"
+   },
+   "iframe_capture": {
+      "message": "發現頁面嵌套，請在自動打開的頁面裏重新完整截圖"
+   },
+   "img": {
+      "message": "圖片"
+   },
+   "imgCaptcha": {
+      "message": "圖片驗證碼"
+   },
+   "imgCodeInput": {
+      "message": "輸入圖片驗證碼！"
+   },
+   "issueContentAdd": {
+      "message": "問題描述"
+   },
+   "issueEmail": {
+      "message": "您的郵箱"
+   },
+   "issueTitleAdd": {
+      "message": "問題標題"
+   },
+   "issueUrl": {
+      "message": "問題連結"
+   },
+   "like_body": {
+      "message": "開發一個好用的程式需要花費大量精力，很高興你喜歡它<br /><br />你能花一分鐘給我們一個五星好評嗎？這將對我們非常有幫助 :)"
+   },
+   "like_no_thanks": {
+      "message": "不，謝謝"
+   },
+   "like_title": {
+      "message": "你喜歡這個小工具嗎？"
+   },
+   "like_yes": {
+      "message": "好的"
+   },
+   "loading": {
+      "message": "載入中..."
+   },
+   "loginCodeResend": {
+      "message": "再次發送"
+   },
+   "loginCodeSent": {
+      "message": "已發送"
+   },
+   "loginSignUp": {
+      "message": "登入 / 註冊"
+   },
+   "login_refresh": {
+      "message": "登入後重繪"
+   },
+   "msg_title": {
+      "message": "提示訊息 - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "找到多個區域，請選擇一個。"
+   },
+   "my_collections": {
+      "message": "我的收藏"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "滾動整頁截圖 - OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "網路請求錯誤！"
+   },
+   "noSupportMultiPic": {
+      "message": "不支持多圖片裁剪"
+   },
+   "not_support": {
+      "message": "歡迎使用 OpenCapture 擴展。您可以在任何網頁上運行此擴展，除了瀏覽器限制腳本運行的網頁。這包括擴展商店、瀏覽器設置頁面和其他擴展。<br /><br />由於安全原因，瀏覽器不允許訪問某些 URL。這包括擴展商店畫廊、其他擴展以及 chrome://、extension:// URL。<b>目前頁面似乎是一個受限制的 URL。</b><br /><br />在網絡上的其他頁面嘗試一下，比如 <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">這個鏈接</a>。祝您玩得愉快！<br /><br />如有其他問題，請與我們聯繫。<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "選填"
+   },
+   "page_not_ready": {
+      "message": "載入中，請稍後再試。"
+   },
+   "permissionDownloadsDenied": {
+      "message": "您已拒絕授權管理下載權限"
+   },
+   "premium_active_notice": {
+      "message": "目前瀏覽器已啟用 OpenCapture Premium。"
+   },
+   "premium_active_price": {
+      "message": "目前年訂閱已生效"
+   },
+   "premium_active_subtitle": {
+      "message": "目前瀏覽器安裝的所有 Premium 截圖能力都已解鎖。"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium 已啟用"
+   },
+   "premium_all_free": {
+      "message": "包含 Free 的全部功能"
+   },
+   "premium_back": {
+      "message": "返回"
+   },
+   "premium_back_to_opencapture": {
+      "message": "返回 OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "支持上傳到 Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "該 Premium 功能"
+   },
+   "premium_feature_title_high_res": {
+      "message": "高清整頁截圖"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "超長分圖截圖"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "可滾動區域截圖"
+   },
+   "premium_free_edit": {
+      "message": "標註、裁剪、複製、列印、匯出 PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "整頁滾動截圖"
+   },
+   "premium_free_hd": {
+      "message": "高清整頁截圖：5 次免費體驗"
+   },
+   "premium_free_long_page_split": {
+      "message": "超長網頁分圖截圖"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "適合日常截圖使用"
+   },
+   "premium_free_scrollable": {
+      "message": "可滾動區域截圖：5 次免費體驗"
+   },
+   "premium_free_visible": {
+      "message": "可視區域截圖"
+   },
+   "premium_future": {
+      "message": "解鎖後續 Premium 新功能"
+   },
+   "premium_hd": {
+      "message": "不限次數高清整頁截圖"
+   },
+   "premium_long_page_split": {
+      "message": "更多歷史記錄空間"
+   },
+   "premium_manage": {
+      "message": "管理"
+   },
+   "premium_manage_subscription": {
+      "message": "管理訂閱"
+   },
+   "premium_mode_switching": {
+      "message": "Light/Dark 模式切換"
+   },
+   "premium_notice_low": {
+      "message": "{feature} 的免費體驗次數即將用完，還剩 {remaining} 次。"
+   },
+   "premium_notice_no_feature": {
+      "message": "立刻升級到 Premium，解鎖更多進階功能。"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} 的免費體驗次數已經用完。"
+   },
+   "premium_opening_portal": {
+      "message": "正在打開..."
+   },
+   "premium_opening_stripe": {
+      "message": "正在打開 Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "無法打開訂閱管理。"
+   },
+   "premium_portal_error_full": {
+      "message": "無法打開訂閱管理，請稍後再試。"
+   },
+   "premium_portal_opening": {
+      "message": "正在打開..."
+   },
+   "premium_price": {
+      "message": "按年訂閱"
+   },
+   "premium_restore_guide": {
+      "message": "已經購買或重新安裝？"
+   },
+   "premium_restore_link": {
+      "message": "恢復 Premium"
+   },
+   "premium_scrollable": {
+      "message": "不限次數可滾動區域截圖"
+   },
+   "premium_stripe_error": {
+      "message": "無法打開 Stripe 支付連結，請稍後再試。"
+   },
+   "premium_subtitle": {
+      "message": "Premium 解鎖全部截圖能力，包括高清整頁截圖和可滾動區域截圖。"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "升級到 Premium 後可切換模式。"
+   },
+   "premium_title": {
+      "message": "支持我們，升級到 OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "未知"
+   },
+   "premium_upgrade": {
+      "message": "升級到 Premium"
+   },
+   "premium_valid_until": {
+      "message": "有效期至"
+   },
+   "print": {
+      "message": "列印"
+   },
+   "privacy": {
+      "message": "隱私"
+   },
+   "privateBeizhu": {
+      "message": "私密備註"
+   },
+   "refresh_effective": {
+      "message": "頁面刷新後生效"
+   },
+   "reportIssue": {
+      "message": "反饋問題及建議"
+   },
+   "saveUrl2Private": {
+      "message": "私有"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "設為私有，僅自己可見"
+   },
+   "saveUrl2Public": {
+      "message": "公開"
+   },
+   "saveUrl2Snap": {
+      "message": "快照"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "保存網頁快照"
+   },
+   "savedFileNameByTile": {
+      "message": "依網頁標題命名"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "範例：Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "依時間命名"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "範例：OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "檔案命名方式"
+   },
+   "scrollable_area_no": {
+      "message": "沒有發現可滾動的子區域"
+   },
+   "sendMailCode": {
+      "message": "發送"
+   },
+   "setting_appearance": {
+      "message": "外觀"
+   },
+   "setting_cloud_upload_format": {
+      "message": "上傳雲端硬碟格式"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "指定上傳截圖到雲端硬碟時使用的檔案格式。"
+   },
+   "setting_default_private": {
+      "message": "收藏默認私有"
+   },
+   "setting_default_private_info": {
+      "message": "保存到YesKeeper時默認設置為私有。"
+   },
+   "setting_down_image_format": {
+      "message": "保存成圖片"
+   },
+   "setting_down_image_format_info": {
+      "message": "指定下載螢幕截圖的圖像格式。"
+   },
+   "setting_download": {
+      "message": "下載"
+   },
+   "setting_download_save_as": {
+      "message": "另存為"
+   },
+   "setting_download_save_as_info": {
+      "message": "下載匯出螢幕截圖時自動顯示“另存為”對話方塊。"
+   },
+   "setting_more": {
+      "message": "更多設定"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "頁面邊距"
+   },
+   "setting_pdf_margin_info": {
+      "message": "指定頁邊距、組織pt、指定範圍（0-40）pt。"
+   },
+   "setting_pdf_papersize": {
+      "message": "頁面尺寸"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "指定匯出為PDF檔案的頁面格式大小。"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "顯示保存到YesKeeper視窗"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "顯示保存到YesKeeper視窗，方便將截圖保存成私有網頁快照"
+   },
+   "setting_theme_mode": {
+      "message": "模式"
+   },
+   "setting_theme_mode_info": {
+      "message": "選擇 OpenCapture 頁面的顯示主題。"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "signInWithApple": {
+      "message": "通過蘋果帳戶登入"
+   },
+   "signInWithGoogle": {
+      "message": "通過Google登入"
+   },
+   "signInWithMicrosoft": {
+      "message": "通過微軟帳戶登入"
+   },
+   "signUpAgreement": {
+      "message": "註冊視為同意<a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">用戶服務協議</a>和<a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">隱私協議</a>"
+   },
+   "site_item1": {
+      "message": "雲快照"
+   },
+   "site_item2": {
+      "message": "雲書簽"
+   },
+   "site_item3": {
+      "message": "跨平臺"
+   },
+   "site_language": {
+      "message": "語言"
+   },
+   "site_login": {
+      "message": "登錄"
+   },
+   "site_reg": {
+      "message": "註冊"
+   },
+   "snap_shot_prepare": {
+      "message": "即將準備滾動截圖上傳快照..."
+   },
+   "snap_shot_uploading": {
+      "message": "快照上傳中..."
+   },
+   "splitMultiImages": {
+      "message": "提示：此頁面太大，瀏覽器無法將其捕獲為一個影像。 它將被分成多張圖片。"
+   },
+   "stop_scrolling": {
+      "message": "停止滾動"
+   },
+   "submitFalse": {
+      "message": "提交失敗！"
+   },
+   "tags_no": {
+      "message": "暫無標簽"
+   },
+   "theme_dark": {
+      "message": "黑夜模式"
+   },
+   "theme_follow_system": {
+      "message": "跟隨系統"
+   },
+   "theme_light": {
+      "message": "白天模式"
+   },
+   "tryAgainLater": {
+      "message": "加載中，請稍後重試"
+   },
+   "uploadToCloudDrive": {
+      "message": "上傳到雲端硬碟"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "上傳失敗"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "上傳成功"
+   },
+   "viewMyCollections": {
+      "message": "查看我的收藏"
+   },
+   "vip": {
+      "message": "VIP會員"
+   }
+}

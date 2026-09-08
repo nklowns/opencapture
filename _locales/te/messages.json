@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "వెరిఫికేషన్ కోడ్"
+   },
+   "accountLogin": {
+      "message": "ఖాతా పాస్‌వర్డ్ లాగిన్"
+   },
+   "add": {
+      "message": "చేర్చు"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "దయచేసి ముందు డౌన్‌లోడ్ నిర్వహణ అనుమతులు ఆమోదించండి"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "డౌన్‌లోడ్ నిర్వహణ అనుమతులు ఆమోదించండి"
+   },
+   "auto_clase": {
+      "message": "ఆటో క్లోజ్ విండో"
+   },
+   "bar_copy": {
+      "message": "కాపీ"
+   },
+   "bar_save": {
+      "message": "సేవ్"
+   },
+   "btn_cancel": {
+      "message": "రద్దు"
+   },
+   "btn_lock": {
+      "message": "ప్రైవేట్"
+   },
+   "btn_ok": {
+      "message": "సరే"
+   },
+   "btn_remove": {
+      "message": "తొలగించు"
+   },
+   "btn_snap": {
+      "message": "స్నాప్‌షాట్"
+   },
+   "btn_submit": {
+      "message": "సమర్పించు"
+   },
+   "btn_view": {
+      "message": "చూడండి"
+   },
+   "capture2pdfDownload": {
+      "message": "PDFగా సేవ్ చేయండి"
+   },
+   "captureAllPage": {
+      "message": "మొత్తం పేజీని పట్టించు"
+   },
+   "captureAnnotate": {
+      "message": "వ్యాఖ్యానం చేయండి"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "ఈ స్క్రీన్‌షాట్‌ను అప్‌లోడ్ చేయండి"
+   },
+   "captureClickAnnotate": {
+      "message": "అధికారిక వ్యాఖ్యానం చేయడానికి స్క్రీన్‌షాట్‌పై క్లిక్ చేయండి"
+   },
+   "captureDownload": {
+      "message": "చిత్రాన్ని సేవ్ చేయండి"
+   },
+   "captureHighResAllPage": {
+      "message": "మొత్తం పేజీని HDలో"
+   },
+   "capturePage": {
+      "message": "దృశ్య భాగాన్ని పట్టించు"
+   },
+   "capturePageCurrentPosition": {
+      "message": "స్థానంనుంచి క్యాప్చర్"
+   },
+   "captureScrollable": {
+      "message": "స్క్రోలబుల్ ప్రాంతం పిక్చర్ చేయండి"
+   },
+   "captureSelection": {
+      "message": "ఎంపికను పట్టించు"
+   },
+   "capture_interrupted": {
+      "message": "టాబ్ మార్పు గుర్తించబడింది, స్క్రీన్‌షాట్ ఆపివేయబడింది!"
+   },
+   "capture_scroll": {
+      "message": "ఇదాన్ని పిక్చర్ చేయండి"
+   },
+   "clickSel": {
+      "message": "ఎంపిక చేయడానికి క్లిక్ చేయండి"
+   },
+   "clickUnfold": {
+      "message": "విశాలంగా విస్తరించడానికి క్లిక్ చేయండి"
+   },
+   "close": {
+      "message": "ఆలస్యం"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "చిత్రాన్ని నకిలీ చేయలేకపోయాం"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "చిత్రం క్లిప్‌బోర్డుకు నకిలీ చేయబడింది"
+   },
+   "copyNotSupport": {
+      "message": "మీ బ్రౌజర్ చిత్రాలను నకిలీ చేయడాన్ని మద్దతు ఇవ్వడం లేదు!"
+   },
+   "copyToClipBoard": {
+      "message": "క్లిప్‌బోర్డుకు నకిలీ చేయండి"
+   },
+   "copy_false": {
+      "message": "నకిలీ చేయడంలో విఫలమైంది!"
+   },
+   "copy_success": {
+      "message": "క్లిప్‌బోర్డుకు నకిలీ చేయబడింది!"
+   },
+   "crop": {
+      "message": "క్రాప్"
+   },
+   "default_set": {
+      "message": "డిఫాల్ట్ సెట్టింగ్"
+   },
+   "delete": {
+      "message": "తొలగించు"
+   },
+   "deleteAlert": {
+      "message": "తొలగించడానికి ధృవీకరించాలా?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "తెలియని పొరపాటు జరిగింది!"
+   },
+   "error_upload_snap": {
+      "message": "స్నాప్‌షాట్ అప్‌లోడ్ లోపం!"
+   },
+   "exist_info": {
+      "message": "వెబ్‌పేజీ సేవ్ చేయబడింది!"
+   },
+   "exitUploading": {
+      "message": "అప్‌లోడ్ జరుగుతోంది, మీరు వెళ్లిపోతే ఖచ్చితంగా అనుకుంటున్నారు?"
+   },
+   "favMyTags": {
+      "message": "నా ట్యాగులు"
+   },
+   "favOption": {
+      "message": "ఎంపిక"
+   },
+   "favSuggestTag": {
+      "message": "సూచనాత్మక ట్యాగులు"
+   },
+   "favTag": {
+      "message": "ట్యాగ్"
+   },
+   "favTagLengthOver": {
+      "message": "ట్యాగ్ చాలా పొడుగ్గా ఉంది"
+   },
+   "favTagNumOver": {
+      "message": "ట్యాగుల సంఖ్య పరిమితిని మించిపోవడం!"
+   },
+   "favTagPlaceholder": {
+      "message": "ట్యాగులు"
+   },
+   "favTitle": {
+      "message": "శీర్షిక"
+   },
+   "favUrl": {
+      "message": "లింక్"
+   },
+   "fav_edit": {
+      "message": "సంకలనం సవరించు"
+   },
+   "fav_success": {
+      "message": "సేవ్ విజయవంతం!"
+   },
+   "fav_success_edit": {
+      "message": "సేవ్ విజయవంతం - సవరించు"
+   },
+   "forgetPsw": {
+      "message": "పాస్‌వర్డ్ మరచిపోండి?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD స్క్రీన్‌షాట్)"
+   },
+   "history": {
+      "message": "చరిత్ర"
+   },
+   "historyClear": {
+      "message": "తొలగించు"
+   },
+   "historyClearAll": {
+      "message": "అన్ని రికార్డులను తొలగించు"
+   },
+   "historyClearConfirm": {
+      "message": "అన్ని స్క్రీన్‌షాట్ చరిత్రను తొలగించాలా?"
+   },
+   "historyClearDialogTitle": {
+      "message": "చరిత్రను తొలగించు"
+   },
+   "historyClearOlder1Month": {
+      "message": "1 నెల కంటే పాత రికార్డులను తొలగించు"
+   },
+   "historyClearOlder3Months": {
+      "message": "3 నెలల కంటే పాత రికార్డులను తొలగించు"
+   },
+   "historyDelete": {
+      "message": "తొలగించు"
+   },
+   "historyEmpty": {
+      "message": "ఇంకా స్క్రీన్‌షాట్ చరిత్ర లేదు."
+   },
+   "historyUnknownDomain": {
+      "message": "తెలియని డొమైన్"
+   },
+   "iframe_capture": {
+      "message": "Iframe నెస్టింగ్ కనుగొనబడింది! దయచేసి పేజీపై స్వయంచాలకంగా తెరుచుకున్న పేజీలో పూర్తి స్క్రీన్‌షాట్‌ని తీసుకోండి"
+   },
+   "img": {
+      "message": "చిత్రం"
+   },
+   "imgCaptcha": {
+      "message": "క్యాప్చా"
+   },
+   "imgCodeInput": {
+      "message": "చిత్ర వెరిఫికేషన్ కోడ్ ను ఎంటర్ చేయండి!"
+   },
+   "issueContentAdd": {
+      "message": "సమస్య యొక్క చిన్న వివరణ"
+   },
+   "issueEmail": {
+      "message": "ఈమెయిల్"
+   },
+   "issueTitleAdd": {
+      "message": "శీర్షికను జోడించండి"
+   },
+   "issueUrl": {
+      "message": "లింక్"
+   },
+   "like_body": {
+      "message": "ఉపయోగకరమైన ప్రోగ్రామ్‌ను అభివృద్ధి చేయడంలో ఎంతో ప్రయత్నం అవసరం, మీరు దీన్ని ఇష్టపడుతున్నందుకు మేము ఆనందిస్తున్నాము!<br /><br />మీరు ఒక నిమిషం సమయం కేటాయించి, మాకు ఐదు నక్షత్రాల సమీక్షను ఇవ్వగలరా? ఇది మా కోసం చాలా సహాయకరంగా ఉంటుంది. :)"
+   },
+   "like_no_thanks": {
+      "message": "లేదు, ధన్యవాదాలు"
+   },
+   "like_title": {
+      "message": "ఈ సాధనం మీకు నచ్చుతుందా?"
+   },
+   "like_yes": {
+      "message": "అవును"
+   },
+   "loading": {
+      "message": "లోడింగ్"
+   },
+   "loginCodeResend": {
+      "message": "మళ్ళీ పంపించు"
+   },
+   "loginCodeSent": {
+      "message": "సమర్పించబడింది"
+   },
+   "loginSignUp": {
+      "message": "లాగిన్ / సైన్ అప్"
+   },
+   "login_refresh": {
+      "message": "లాగిన్ చేసిన తర్వాత రిఫ్రెష్ చేయండి"
+   },
+   "msg_title": {
+      "message": "కూడిక - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "బహుళ ప్రాంతాలు కనిపించాయి, ఒకటిని ఎంచుకోండి."
+   },
+   "my_collections": {
+      "message": "నా సంకలనాలు"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "నెట్వర్క్ అభ్యర్థన పొరపాటు!"
+   },
+   "noSupportMultiPic": {
+      "message": "బహుళ చిత్ర క్రాపింగ్ మద్దతు ఇవ్వబడదు"
+   },
+   "not_support": {
+      "message": "OpenCapture ఎక్స్‌టెన్షన్‌కు స్వాగతం. మీరు దీన్ని ఏవైనా వెబ్‌పేజీలపై నడపవచ్చు, కాని బ్రౌజర్ స్క్రిప్ట్‌లను నడపడానికి ఎక్స్‌టెన్షన్‌లను నిరోధించే పేజీలపై కాదు. ఇది ఎక్స్‌టెన్షన్ వెబ్ స్టోర్, బ్రౌజర్ సెట్టింగ్ పేజీలు మరియు ఇతర ఎక్స్‌టెన్షన్లను కలిగి ఉంటుంది.<br /><br />ఇంకొక పేజీని ప్రయత్నించండి, ఉదాహరణకు <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">ఇది</a>. ఆనందించండి! <br /><br />బ్రౌజర్ భద్రత కారణంగా కొన్ని URL లకు యాక్సెస్‌ను అనుమతించడంలేదు. ఇది వెబ్ స్టోర్ గ్యాలరీ, ఇతర ఎక్స్‌టెన్షన్లు మరియు chrome://, extension:// URLలను కలిగి ఉంటుంది. <b>ప్రస్తుత పేజీ ఒక పరిమిత URLగా కనిపిస్తుంది.</b><br /><br />అదనపు ప్రశ్నలకు, దయచేసి మా సంప్రదించండి.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "ఐచ్ఛికం"
+   },
+   "page_not_ready": {
+      "message": "లోడ్ అవుతోంది, తర్వాత మరోసారి ప్రయత్నించండి."
+   },
+   "permissionDownloadsDenied": {
+      "message": "మీరు డౌన్‌లోడ్ నిర్వహణ అనుమతులను తిరస్కరించారు"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium సక్రియంగా ఉంది."
+   },
+   "premium_active_price": {
+      "message": "వార్షిక సభ్యత్వం సక్రియం"
+   },
+   "premium_active_subtitle": {
+      "message": "ఈ బ్రౌజర్ ఇన్‌స్టాల్‌లో అన్ని Premium మోడ్‌లు తెరవబడ్డాయి."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium సక్రియంగా ఉంది"
+   },
+   "premium_all_free": {
+      "message": "Freeలోని అన్నీ"
+   },
+   "premium_back": {
+      "message": "వెనక్కి"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCaptureకి తిరిగి వెళ్ళండి"
+   },
+   "premium_cloud": {
+      "message": "Google Driveకి అప్‌లోడ్"
+   },
+   "premium_feature_title_default": {
+      "message": "ఈ Premium ఫీచర్"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD పూర్తి పేజీ క్యాప్చర్"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "పొడవైన పేజీ విభజిత క్యాప్చర్లు"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "స్క్రోల్ ప్రాంత క్యాప్చర్"
+   },
+   "premium_free_edit": {
+      "message": "గమనిక, క్రాప్, కాపీ, ప్రింట్, PDF/JPG/PNG ఎక్స్‌పోర్ట్"
+   },
+   "premium_free_full": {
+      "message": "స్క్రోల్‌తో పూర్తి పేజీ క్యాప్చర్"
+   },
+   "premium_free_hd": {
+      "message": "HD పూర్తి పేజీ క్యాప్చర్: 5 ఉచిత ట్రయల్స్"
+   },
+   "premium_free_long_page_split": {
+      "message": "పొడవైన పేజీ విభజిత క్యాప్చర్లు"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "రోజువారీ స్క్రీన్‌షాట్‌ల కోసం"
+   },
+   "premium_free_scrollable": {
+      "message": "స్క్రోల్ ప్రాంత క్యాప్చర్: 5 ఉచిత ట్రయల్స్"
+   },
+   "premium_free_visible": {
+      "message": "కనిపించే భాగాన్ని క్యాప్చర్ చేయండి"
+   },
+   "premium_future": {
+      "message": "భవిష్యత్ Premium ఫీచర్లకు యాక్సెస్"
+   },
+   "premium_hd": {
+      "message": "అపరిమిత HD పూర్తి పేజీ క్యాప్చర్లు"
+   },
+   "premium_long_page_split": {
+      "message": "మరిన్ని చరిత్ర స్థలం"
+   },
+   "premium_manage": {
+      "message": "నిర్వహించు"
+   },
+   "premium_manage_subscription": {
+      "message": "సబ్‌స్క్రిప్షన్‌ను నిర్వహించండి"
+   },
+   "premium_mode_switching": {
+      "message": "లైట్/డార్క్ మోడ్ మార్పు"
+   },
+   "premium_notice_low": {
+      "message": "{feature} కోసం మీ ఉచిత ట్రయల్స్ దాదాపు ముగిశాయి. మిగిలినవి: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "మరిన్ని అధునాతన ఫీచర్లను తెరవడానికి Premiumకి అప్‌గ్రేడ్ చేయండి."
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} కోసం మీ ఉచిత ట్రయల్స్ ముగిశాయి."
+   },
+   "premium_opening_portal": {
+      "message": "తెరవబడుతోంది..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe తెరవబడుతోంది..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "సబ్‌స్క్రిప్షన్ నిర్వహణను తెరవలేకపోయాం."
+   },
+   "premium_portal_error_full": {
+      "message": "సభ్యత్వ నిర్వహణ తెరవలేకపోయాం. తరువాత ప్రయత్నించండి."
+   },
+   "premium_portal_opening": {
+      "message": "తెరవబడుతోంది..."
+   },
+   "premium_price": {
+      "message": "వార్షిక సభ్యత్వం"
+   },
+   "premium_restore_guide": {
+      "message": "ఇప్పటికే కొనుగోలు చేశారా లేదా మళ్లీ ఇన్‌స్టాల్ చేశారా?"
+   },
+   "premium_restore_link": {
+      "message": "Premium పునరుద్ధరించు"
+   },
+   "premium_scrollable": {
+      "message": "అపరిమిత స్క్రోల్ ప్రాంత క్యాప్చర్లు"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe చెల్లింపు లింక్ తెరవలేకపోయాం. తరువాత ప్రయత్నించండి."
+   },
+   "premium_subtitle": {
+      "message": "Premium అన్ని మోడ్‌లను తెరుస్తుంది, HD పూర్తి పేజీ మరియు స్క్రోల్ ప్రాంత క్యాప్చర్‌లతో సహా."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "మోడ్ మార్చడానికి Premiumకి అప్‌గ్రేడ్ చేయండి."
+   },
+   "premium_title": {
+      "message": "మాకు మద్దతు ఇవ్వండి మరియు OpenCapture Premiumకి అప్‌గ్రేడ్ చేయండి"
+   },
+   "premium_unknown_date": {
+      "message": "తెలియదు"
+   },
+   "premium_upgrade": {
+      "message": "Premiumకి అప్‌గ్రేడ్"
+   },
+   "premium_valid_until": {
+      "message": "వరకు చెల్లుతుంది"
+   },
+   "print": {
+      "message": "ముద్రణ"
+   },
+   "privacy": {
+      "message": "గోప్యత"
+   },
+   "privateBeizhu": {
+      "message": "ప్రైవేట్ గమనికలు"
+   },
+   "refresh_effective": {
+      "message": "రిఫ్రెష్ తర్వాత చెలామణీ అవుతుంది"
+   },
+   "reportIssue": {
+      "message": "సమస్యను నివేదించండి"
+   },
+   "saveUrl2Private": {
+      "message": "ప్రైవేట్"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "ప్రైవేట్‌గా సెట్ చేయండి, కేవలం వ్యక్తిగతంగా కనిపిస్తుంది"
+   },
+   "saveUrl2Public": {
+      "message": "ప్రజా"
+   },
+   "saveUrl2Snap": {
+      "message": "స్నాప్‌షాట్"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "వెబ్‌పేజీ స్నాప్‌షాట్‌ను సేవ్ చేయండి"
+   },
+   "savedFileNameByTile": {
+      "message": "శీర్షిక ప్రకారం"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ఉదా: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "సమయానుసారం"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ఉదా: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "ఫైల్ పేరు"
+   },
+   "scrollable_area_no": {
+      "message": "స్క్రోల్ చేయదగిన ప్రాంతం కనుగొనబడలేదు."
+   },
+   "sendMailCode": {
+      "message": "సేండ్"
+   },
+   "setting_appearance": {
+      "message": "రూపం"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Cloud అప్‌లోడ్ ఫార్మాట్"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "స్క్రీన్‌షాట్‌లను cloud driveకి అప్‌లోడ్ చేసే సమయంలో ఫైల్ ఫార్మాట్‌ను ఎంచుకోండి."
+   },
+   "setting_default_private": {
+      "message": "డిఫాల్ట్ ప్రైవేట్"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper కు సేవ్ చేసే సమయంలో డిఫాల్ట్ ప్రైవేట్ గా నిర్దేశించండి."
+   },
+   "setting_down_image_format": {
+      "message": "చిత్రాన్ని సేవ్ చేయండి"
+   },
+   "setting_down_image_format_info": {
+      "message": "మీ స్క్రీన్‌షాట్‌లను డౌన్‌లోడ్ చేసే చిత్రం రూపాన్ని నిర్దేశించండి."
+   },
+   "setting_download": {
+      "message": "డౌన్‌లోడ్"
+   },
+   "setting_download_save_as": {
+      "message": "పొడవైనది‌గా సేవ్ చేయండి"
+   },
+   "setting_download_save_as_info": {
+      "message": "మీ స్క్రీన్‌షాట్‌లను డౌన్‌లోడ్ చేసినప్పుడు \"సేవ్ ఆస్\" డైలాగ్ చూపించండి."
+   },
+   "setting_more": {
+      "message": "మరిన్ని సెట్టింగులు"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "పేజీ మార్జిన్"
+   },
+   "setting_pdf_margin_info": {
+      "message": "పేజీ మార్జిన్‌ని నిర్దేశించండి, యూనిట్ pt, నిర్దేశిత పరిధి (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "పేపర్ పరిమాణం"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDFలను ఎగుమతి చేయడానికి పేపర్ పరిమాణాన్ని నిర్దేశించండి."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper కు సేవ్ డైలాగ్ చూపించండి"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "వెబ్‌పేజీ స్నాప్‌షాట్‌ను సేవ్ చేస్తే YesKeeper కు సేవ్ డైలాగ్ చూపించండి"
+   },
+   "setting_theme_mode": {
+      "message": "మోడ్"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture పేజీల కోసం ప్రదర్శన థీమ్‌ను ఎంచుకోండి."
+   },
+   "settings": {
+      "message": "సెట్టింగ్‌లు"
+   },
+   "signInWithApple": {
+      "message": "Apple తో సైన్ ఇన్ చేయండి"
+   },
+   "signInWithGoogle": {
+      "message": "Google తో సైన్ ఇన్ చేయండి"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoft తో సైన్ ఇన్ చేయండి"
+   },
+   "signUpAgreement": {
+      "message": "సైన్ అప్ చేయడం ద్వారా, మీరు YesKeeper యొక్క <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">వాడుకరి సేవా ఒప్పందం</a> మరియు <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">గోప్యతా విధానం</a> ను అంగీకరిస్తారు"
+   },
+   "site_item1": {
+      "message": "వెబ్‌పేజీ స్నాప్‌షాట్"
+   },
+   "site_item2": {
+      "message": "క్లౌడ్ బుక్మార్క్స్"
+   },
+   "site_item3": {
+      "message": "తరువాత చదవండి"
+   },
+   "site_language": {
+      "message": "భాష"
+   },
+   "site_login": {
+      "message": "లాగిన్"
+   },
+   "site_reg": {
+      "message": "సైన్ అప్"
+   },
+   "snap_shot_prepare": {
+      "message": "స్క్రీన్‌ని స్క్రోల్ చేసి స్నాప్‌షాట్‌ను అప్‌లోడ్ చేయడానికి సిద్ధమవుతుంది"
+   },
+   "snap_shot_uploading": {
+      "message": "స్నాప్‌షాట్ అప్‌లోడ్ చేస్తున్నది..."
+   },
+   "splitMultiImages": {
+      "message": "గమనిక: ఈ పేజీని బ్రౌజర్ చిత్రంగా పట్టుకోవడం చాలా పెద్దది. ఇది బహుళ చిత్రాలుగా విడగొట్టబడుతుంది."
+   },
+   "stop_scrolling": {
+      "message": "రోలింగ్ ఆపి"
+   },
+   "submitFalse": {
+      "message": "సమర్పణ విఫలమైంది!"
+   },
+   "tags_no": {
+      "message": "ట్యాగులు లేవు"
+   },
+   "theme_dark": {
+      "message": "డార్క్"
+   },
+   "theme_follow_system": {
+      "message": "సిస్టమ్‌ను అనుసరించు"
+   },
+   "theme_light": {
+      "message": "లైట్"
+   },
+   "tryAgainLater": {
+      "message": "లోడింగ్ జరుగుతోంది, దయచేసి తర్వాత ప్రయత్నించండి"
+   },
+   "uploadToCloudDrive": {
+      "message": "క్లౌడ్ డ్రైవ్‌కు అప్‌లోడ్ చేయండి"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "అప్‌లోడ్ విఫలమైంది"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "విజయవంతంగా అప్‌లోడ్ చేయబడింది"
+   },
+   "viewMyCollections": {
+      "message": "నా సంకలనాలు చూడండి"
+   },
+   "vip": {
+      "message": "ప్రో"
+   }
+}

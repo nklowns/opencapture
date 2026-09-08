@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "சரிபார்க்கும் குறியீடு"
+   },
+   "accountLogin": {
+      "message": "கணக்குப் பாஸ்வேர்ட் உள்நுழைவு"
+   },
+   "add": {
+      "message": "இணைப்ப"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "முதலில் பதிவிறக்கம் மேலாண்மை அனுமதிகளை அனுமதிக்கவும்"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "பதிவிறக்கம் மேலாண்மை அனுமதிகளை அனுமதிக்கவும்"
+   },
+   "auto_clase": {
+      "message": "தானாக சாளரத்தை மூடு"
+   },
+   "bar_copy": {
+      "message": "பகிர்"
+   },
+   "bar_save": {
+      "message": "சேமிக்க"
+   },
+   "btn_cancel": {
+      "message": "ரத்துசெய்"
+   },
+   "btn_lock": {
+      "message": "தனியார்"
+   },
+   "btn_ok": {
+      "message": "சரி"
+   },
+   "btn_remove": {
+      "message": "அகற்றுக"
+   },
+   "btn_snap": {
+      "message": "படம் எடு"
+   },
+   "btn_submit": {
+      "message": "சமர்ப்பிக்க"
+   },
+   "btn_view": {
+      "message": "காண்க"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF ஆக சேமிக்கவும்"
+   },
+   "captureAllPage": {
+      "message": "முழு பக்கம் பிடிக்கவும்"
+   },
+   "captureAnnotate": {
+      "message": "குறிக்க"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "இந்த படத்தை பதிவேற்றுக"
+   },
+   "captureClickAnnotate": {
+      "message": "ஸ்கிரீன்ஷாட்டை குறிக்க குறிப்பிட்டு"
+   },
+   "captureDownload": {
+      "message": "படத்தை சேமிக்கவும்"
+   },
+   "captureHighResAllPage": {
+      "message": "முழு பக்கத்தை HD-யில்"
+   },
+   "capturePage": {
+      "message": "காட்சியளிக்கும் பகுதி பிடிக்கவும்"
+   },
+   "capturePageCurrentPosition": {
+      "message": "இடத்திலிருந்து பிடி"
+   },
+   "captureScrollable": {
+      "message": "சரிவரக்கூடிய பகுதியை பிடிக்கவும்"
+   },
+   "captureSelection": {
+      "message": "தேர்ந்தெடுக்கப்பட்டதை பிடிக்கவும்"
+   },
+   "capture_interrupted": {
+      "message": "தாப் மாறியது கண்டுபிடிக்கப்பட்டது, ஸ்கிரீன் ஷாட் நிறுத்தப்பட்டது!"
+   },
+   "capture_scroll": {
+      "message": "இதைக் கொடுக்கவும்"
+   },
+   "clickSel": {
+      "message": "தேர்வு செய்ய சொடுக்கவும்"
+   },
+   "clickUnfold": {
+      "message": "விரிவாக்க சொடுக்கவும்"
+   },
+   "close": {
+      "message": "மூடவும்"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "படத்தை நகலெடுக்க முடியவில்லை"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "படம் கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
+   },
+   "copyNotSupport": {
+      "message": "உங்கள் உலாவி படங்களை நகலெடுக்க ஆதரவு இல்லை!"
+   },
+   "copyToClipBoard": {
+      "message": "கிளிப்போர்டுக்கு நகலெடுக்கவும்"
+   },
+   "copy_false": {
+      "message": "நகலெடுக்க முடியவில்லை!"
+   },
+   "copy_success": {
+      "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது!"
+   },
+   "crop": {
+      "message": "வெட்டவும்"
+   },
+   "default_set": {
+      "message": "அடிப்படை அமைப்பு"
+   },
+   "delete": {
+      "message": "அகற்று"
+   },
+   "deleteAlert": {
+      "message": "நீங்கள் அகற்ற விரும்புகிறீர்களா?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "அறியப்படாத பிழை ஏற்பட்டது!"
+   },
+   "error_upload_snap": {
+      "message": "படம் பதிவேற்ற பிழை!"
+   },
+   "exist_info": {
+      "message": "இணையப்பக்கம் சேமிக்கப்பட்டது!"
+   },
+   "exitUploading": {
+      "message": "பதிவேற்றம் நடைபெற்று இருக்கிறது, நீங்கள் செல்ல விரும்புகிறீர்களா?"
+   },
+   "favMyTags": {
+      "message": "என் அறிகுறிகள்"
+   },
+   "favOption": {
+      "message": "விருப்பம்"
+   },
+   "favSuggestTag": {
+      "message": "அறிகுறிகள் பரிந்துரைகள்"
+   },
+   "favTag": {
+      "message": "அறிகுறி"
+   },
+   "favTagLengthOver": {
+      "message": "அறிகுறி நீளம் மிகவும் நீண்டது"
+   },
+   "favTagNumOver": {
+      "message": "அறிகுறிகள் எண் வரம்பை தாண்டுகிறது!"
+   },
+   "favTagPlaceholder": {
+      "message": "அறிகுறிகள்"
+   },
+   "favTitle": {
+      "message": "தலைப்பு"
+   },
+   "favUrl": {
+      "message": "இணைப்பு"
+   },
+   "fav_edit": {
+      "message": "சங்கிரகணையை தொகுக்க"
+   },
+   "fav_success": {
+      "message": "சேமிப்பு வெற்றிகரமாக!"
+   },
+   "fav_success_edit": {
+      "message": "சேமிப்பு வெற்றிகரமாக - தொகுப்பு"
+   },
+   "forgetPsw": {
+      "message": "பாஸ்வேர்ட் மறந்துவிட்டீர்களா?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD திரைப்பிடிப்பு)"
+   },
+   "history": {
+      "message": "வரலாறு"
+   },
+   "historyClear": {
+      "message": "அழி"
+   },
+   "historyClearAll": {
+      "message": "அனைத்து பதிவுகளையும் அழி"
+   },
+   "historyClearConfirm": {
+      "message": "அனைத்து திரைப்பிடிப்பு வரலாற்றையும் அழிக்கவா?"
+   },
+   "historyClearDialogTitle": {
+      "message": "வரலாற்றை அழி"
+   },
+   "historyClearOlder1Month": {
+      "message": "1 மாதத்திற்கு மேற்பட்ட பதிவுகளை அழி"
+   },
+   "historyClearOlder3Months": {
+      "message": "3 மாதங்களுக்கு மேற்பட்ட பதிவுகளை அழி"
+   },
+   "historyDelete": {
+      "message": "நீக்கு"
+   },
+   "historyEmpty": {
+      "message": "இன்னும் திரைப்பிடிப்பு வரலாறு இல்லை."
+   },
+   "historyUnknownDomain": {
+      "message": "அறியப்படாத டொமைன்"
+   },
+   "iframe_capture": {
+      "message": "iframe மேலிடுதல் கண்டறியப்பட்டது! தயவுசெய்து மீண்டும் முழு ஸ்கிரீன்ஷாட்டை எடுத்துக் கொள்ளவும்"
+   },
+   "img": {
+      "message": "படம்"
+   },
+   "imgCaptcha": {
+      "message": "கேப்சா"
+   },
+   "imgCodeInput": {
+      "message": "பட சரிபார்ப்பு குறியீட்டை உள்ளிடவும்!"
+   },
+   "issueContentAdd": {
+      "message": "பிழையின் ஒரு சுருக்கமான விளக்கம்"
+   },
+   "issueEmail": {
+      "message": "இமெயில்"
+   },
+   "issueTitleAdd": {
+      "message": "ஒரு தலைப்பு சேர்க்கவும்"
+   },
+   "issueUrl": {
+      "message": "இணைப்பு"
+   },
+   "like_body": {
+      "message": "ஒரு பயனுள்ள செயலி உருவாக்குவதற்கு பல முயற்சிகள் தேவை, மற்றும் இதை நீங்கள் விரும்புவது நாங்கள் மகிழ்ச்சியுடன் இருக்கின்றோம்!<br /><br />ஒரு நிமிடம் உங்கள் நேரத்தை செலவிட்டு, எங்களுக்கு ஐந்து நட்சத்திர மதிப்புரையை வழங்க முடியுமா? இது நமக்கு மிக உதவியாக இருக்கும். :)"
+   },
+   "like_no_thanks": {
+      "message": "இல்லை, நன்றி"
+   },
+   "like_title": {
+      "message": "இந்த கருவி உங்களுக்குப் பிடித்ததா?"
+   },
+   "like_yes": {
+      "message": "ஆம்"
+   },
+   "loading": {
+      "message": "பதிவு செய்யப்படுகிறது"
+   },
+   "loginCodeResend": {
+      "message": "மீண்டும் அனுப்பு"
+   },
+   "loginCodeSent": {
+      "message": "அனுப்பப்பட்டது"
+   },
+   "loginSignUp": {
+      "message": "உள்நுழையவும் / பதிவு செய்யவும்"
+   },
+   "login_refresh": {
+      "message": "உள்நுழைந்த பின் புதுப்பிக்கவும்"
+   },
+   "msg_title": {
+      "message": "குறிப்பு - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "பல பகுதிகள் கண்டுபிடிக்கப்பட்டுள்ளன, ஒன்று தேர்வு செய்யவும்."
+   },
+   "my_collections": {
+      "message": "என் சேகரிப்புகள்"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "பிணைய கோரிக்கைக் கோளாறு!"
+   },
+   "noSupportMultiPic": {
+      "message": "பல படங்களை வெட்டுதல் ஆதரிக்கப்படவில்லை"
+   },
+   "not_support": {
+      "message": "OpenCapture விரிவாக்கத்திற்கு வரவேற்கின்றோம். நீங்கள் இது போன்ற எந்த வலைப்பக்கத்தில் இயக்கலாம், உலாவி ஒரு விரிவாக்கத்தைக் குறைக்குவதற்கு முறைபடுத்தப்பட்ட பக்கங்கள் தவிர. இதில் விரிவாக்க வலைக்கடை, உலாவி அமைப்புகளின் பக்கங்கள் மற்றும் பிற விரிவாக்கங்கள் அடங்கும்.<br /><br />மற்றொரு பக்கத்தை முயற்சி செய்யவும், உதாரணமாக <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">இந்த பக்கம்</a>. மகிழ்ச்சி பெறுங்கள்! <br /><br />உலாவி சில URL களுக்கு அணுகலை அனுமதிப்பதில்லை, இது வலைக்கடை காட்சியகம், மற்ற விரிவாக்கங்கள் மற்றும் chrome://, extension:// URL களுக்கு அடங்கும். <b>தற்போதைய பக்கம் ஒரு கட்டுப்படுத்தப்பட்ட URL ஆக தெரிகிறது.</b><br /><br />மேலும் கேள்விகளுக்கு, எங்களை தொடர்பு கொள்ளவும்.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "விருப்ப"
+   },
+   "page_not_ready": {
+      "message": "ஊட்டப்படுகின்றது, பிறகு மீண்டும் முயற்சிக்கவும்."
+   },
+   "permissionDownloadsDenied": {
+      "message": "நீங்கள் பதிவிறக்கம் மேலாண்மை அனுமதிகளுக்கான அனுமதியை மறுக்கிறீர்கள்"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium செயலில் உள்ளது."
+   },
+   "premium_active_price": {
+      "message": "ஆண்டு சந்தா செயலில்"
+   },
+   "premium_active_subtitle": {
+      "message": "இந்த உலாவி நிறுவலில் அனைத்து Premium முறைகளும் திறக்கப்பட்டுள்ளன."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium செயலில் உள்ளது"
+   },
+   "premium_all_free": {
+      "message": "Free-இல் உள்ள அனைத்தும்"
+   },
+   "premium_back": {
+      "message": "பின்"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture-க்கு திரும்பு"
+   },
+   "premium_cloud": {
+      "message": "Google Drive-க்கு பதிவேற்றம்"
+   },
+   "premium_feature_title_default": {
+      "message": "இந்த Premium அம்சம்"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD முழுப் பக்கம் பிடிப்பு"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "நீண்ட பக்கம் பிரிக்கப்பட்ட பிடிப்புகள்"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "உருட்டக்கூடிய பகுதி பிடிப்பு"
+   },
+   "premium_free_edit": {
+      "message": "குறிப்பு, வெட்டு, நகல், அச்சு, PDF/JPG/PNG ஏற்றுமதி"
+   },
+   "premium_free_full": {
+      "message": "உருட்டி முழுப் பக்கம் பிடிக்கவும்"
+   },
+   "premium_free_hd": {
+      "message": "HD முழுப் பக்கம் பிடிப்பு: 5 இலவச முயற்சிகள்"
+   },
+   "premium_free_long_page_split": {
+      "message": "நீண்ட பக்கம் பிரிக்கப்பட்ட பிடிப்புகள்"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "தினசரி திரைப்பிடிப்புகளுக்கு"
+   },
+   "premium_free_scrollable": {
+      "message": "உருட்டக்கூடிய பகுதி பிடிப்பு: 5 இலவச முயற்சிகள்"
+   },
+   "premium_free_visible": {
+      "message": "தெரியும் பகுதியைப் பிடிக்கவும்"
+   },
+   "premium_future": {
+      "message": "எதிர்கால Premium அம்சங்களுக்கு அணுகல்"
+   },
+   "premium_hd": {
+      "message": "வரம்பற்ற HD முழுப் பக்கம் பிடிப்புகள்"
+   },
+   "premium_long_page_split": {
+      "message": "மேலும் வரலாறு இடம்"
+   },
+   "premium_manage": {
+      "message": "நிர்வகி"
+   },
+   "premium_manage_subscription": {
+      "message": "சந்தாவை நிர்வகி"
+   },
+   "premium_mode_switching": {
+      "message": "ஒளி/இருள் முறை மாற்றம்"
+   },
+   "premium_notice_low": {
+      "message": "{feature}க்கான இலவச முயற்சிகள் கிட்டத்தட்ட முடிகின்றன. மீதம்: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "மேலும் மேம்பட்ட அம்சங்களை திறக்க Premium-க்கு மேம்படுத்தவும்."
+   },
+   "premium_notice_used_up": {
+      "message": "{feature}க்கான இலவச முயற்சிகள் முடிந்துவிட்டன."
+   },
+   "premium_opening_portal": {
+      "message": "திறக்கிறது..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe திறக்கிறது..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "சந்தா நிர்வாகத்தைத் திறக்க முடியவில்லை."
+   },
+   "premium_portal_error_full": {
+      "message": "சந்தா நிர்வாகத்தை திறக்க முடியவில்லை. பிறகு முயற்சிக்கவும்."
+   },
+   "premium_portal_opening": {
+      "message": "திறக்கப்படுகிறது..."
+   },
+   "premium_price": {
+      "message": "ஆண்டு சந்தா"
+   },
+   "premium_restore_guide": {
+      "message": "ஏற்கனவே வாங்கியுள்ளீர்களா அல்லது மீண்டும் நிறுவியுள்ளீர்களா?"
+   },
+   "premium_restore_link": {
+      "message": "Premium மீட்டெடு"
+   },
+   "premium_scrollable": {
+      "message": "வரம்பற்ற உருட்டக்கூடிய பகுதி பிடிப்புகள்"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe கட்டண இணைப்பை திறக்க முடியவில்லை. பிறகு முயற்சிக்கவும்."
+   },
+   "premium_subtitle": {
+      "message": "Premium அனைத்து முறைகளையும் திறக்கும்; HD முழுப் பக்கம் மற்றும் உருட்டக்கூடிய பகுதி பிடிப்புகள் உட்பட."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "முறையை மாற்ற Premium-க்கு மேம்படுத்தவும்."
+   },
+   "premium_title": {
+      "message": "எங்களை ஆதரித்து OpenCapture Premium-க்கு மேம்படுத்தவும்"
+   },
+   "premium_unknown_date": {
+      "message": "தெரியவில்லை"
+   },
+   "premium_upgrade": {
+      "message": "Premium-க்கு மேம்படுத்து"
+   },
+   "premium_valid_until": {
+      "message": "செல்லுபடியாகும் தேதி"
+   },
+   "print": {
+      "message": "அச்சிடவும்"
+   },
+   "privacy": {
+      "message": "தனியுரிமை"
+   },
+   "privateBeizhu": {
+      "message": "தனியார் குறிப்புகள்"
+   },
+   "refresh_effective": {
+      "message": "மீண்டும் படிப்பதன் பின் செயல் படும்"
+   },
+   "reportIssue": {
+      "message": "பிழையை அறிவிக்கவும்"
+   },
+   "saveUrl2Private": {
+      "message": "தனியார்"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "தனியார் என அமைக்கவும், ஒருவருக்கு மட்டுமே காண்பிக்கவும்"
+   },
+   "saveUrl2Public": {
+      "message": "பொது"
+   },
+   "saveUrl2Snap": {
+      "message": "படம்"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "இணையப்பக்கம் படமாக சேமிக்க"
+   },
+   "savedFileNameByTile": {
+      "message": "தலைப்பின்படி"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "உதா: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "நேரப்படி"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "உதா: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "கோப்பு பெயர்"
+   },
+   "scrollable_area_no": {
+      "message": "உருளக்கூடிய பகுதி எதுவும் காணப்படவில்லை."
+   },
+   "sendMailCode": {
+      "message": "அனுப்பவும்"
+   },
+   "setting_appearance": {
+      "message": "தோற்றம்"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Cloud பதிவேற்ற வடிவம்"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "திரைப்பிடிப்புகளை cloud drive-க்கு பதிவேற்றும்போது கோப்பு வடிவத்தை குறிப்பிடவும்."
+   },
+   "setting_default_private": {
+      "message": "அடிப்படை தனியார்"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper இற்கு சேமிக்கும் போது அடிப்படை தனியாராக அமைக்கவும்."
+   },
+   "setting_down_image_format": {
+      "message": "படத்தை சேமிக்கவும்"
+   },
+   "setting_down_image_format_info": {
+      "message": "ஸ்கிரீன்ஷாட்டுகளை பதிவிறக்கும்போது பட வடிவத்தை குறிப்பிடவும்."
+   },
+   "setting_download": {
+      "message": "பதிவிறக்கம்"
+   },
+   "setting_download_save_as": {
+      "message": "சேமிக்கவும்"
+   },
+   "setting_download_save_as_info": {
+      "message": "ஸ்கிரீன்ஷாட்டுகளை பதிவிறக்கும்போது \"சேமிக்கவும்\" உரையை காட்டவும்."
+   },
+   "setting_more": {
+      "message": "மேலும் அமைப்புகள்"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "பக்கம் மார்ஜின்"
+   },
+   "setting_pdf_margin_info": {
+      "message": "பக்கம் மார்ஜினை குறிப்பிடவும், அலகு பி.டி., குறிப்பிடப்பட்ட வரம்பு (0-40) பி.டி."
+   },
+   "setting_pdf_papersize": {
+      "message": "காகித அளவு"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF க்கான காகித அளவை குறிப்பிடவும்."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper சேமிப்பு உரையாடலை காண்பிக்கவும்"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "இணையப்பக்கம் படமாக சேமிப்பதற்கான YesKeeper உரையாடலை காண்பிக்கவும்"
+   },
+   "setting_theme_mode": {
+      "message": "பயன்முறை"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture பக்கங்களுக்கான காட்சி தீமைத் தேர்ந்தெடுக்கவும்."
+   },
+   "settings": {
+      "message": "அமைப்புகள்"
+   },
+   "signInWithApple": {
+      "message": "Apple மூலம் உள்நுழைக"
+   },
+   "signInWithGoogle": {
+      "message": "Google மூலம் உள்நுழைக"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoft மூலம் உள்நுழைக"
+   },
+   "signUpAgreement": {
+      "message": "பதிவு செய்யும் போது, நீங்கள் YesKeeper இன் <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">பயனர் சேவை ஒப்பந்தம்</a> மற்றும் <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">புதிய கொள்கை</a> உடனடியாக ஒப்புக்கொள்கிறீர்கள்"
+   },
+   "site_item1": {
+      "message": "இணையப்பக்கம் படத்தில்"
+   },
+   "site_item2": {
+      "message": "மேக புத்தகங்களைச் சேமிக்க"
+   },
+   "site_item3": {
+      "message": "பிறகு படிக்க"
+   },
+   "site_language": {
+      "message": "மொழி"
+   },
+   "site_login": {
+      "message": "உள்நுழையவும்"
+   },
+   "site_reg": {
+      "message": "பதிவு செய்க"
+   },
+   "snap_shot_prepare": {
+      "message": "திரை பக்கம் உட்செலுத்துவதற்கும் படத்தைப் பதிவேற்றுவதற்கும் தயாராகிவிட்டது"
+   },
+   "snap_shot_uploading": {
+      "message": "படம் பதிவேற்றப்படுகிறது..."
+   },
+   "splitMultiImages": {
+      "message": "குறிப்பு: இந்த பக்கம் உலாவியில் படம் போல பிடிக்க முடியாத அளவுக்கு பெரியது. இது பல படங்களாக பிரிக்கப்படும்."
+   },
+   "stop_scrolling": {
+      "message": "எதிர்பார்க்கவும்"
+   },
+   "submitFalse": {
+      "message": "சமர்ப்பிப்பு தோல்வி!"
+   },
+   "tags_no": {
+      "message": "அறிகுறிகள் இல்லை"
+   },
+   "theme_dark": {
+      "message": "இருள்"
+   },
+   "theme_follow_system": {
+      "message": "கணினி அமைப்பைப் பின்பற்று"
+   },
+   "theme_light": {
+      "message": "ஒளிர்வு"
+   },
+   "tryAgainLater": {
+      "message": "ஏற்றுகிறேன், பிறகு மீண்டும் முயற்சி செய்யவும்"
+   },
+   "uploadToCloudDrive": {
+      "message": "கிளவுட் சேமிப்பகத்திற்கு பதிவேற்று"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "பதிவேற்றம் தோல்வியடைந்தது"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "வெற்றிகரமாக பதிவேற்றப்பட்டது"
+   },
+   "viewMyCollections": {
+      "message": "என் சேகரிப்புகளை காண்க"
+   },
+   "vip": {
+      "message": "ப்ரோ"
+   }
+}

@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "รหัสยืนยัน"
+   },
+   "accountLogin": {
+      "message": "เข้าสู่ระบบด้วยรหัสบัญชี"
+   },
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "กรุณาอนุญาตสิทธิการจัดการดาวน์โหลดก่อน"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "อนุญาตสิทธิการจัดการดาวน์โหลด"
+   },
+   "auto_clase": {
+      "message": "ปิดหน้าต่างอัตโนมัติ"
+   },
+   "bar_copy": {
+      "message": "คัดลอก"
+   },
+   "bar_save": {
+      "message": "บันทึก"
+   },
+   "btn_cancel": {
+      "message": "ยกเลิก"
+   },
+   "btn_lock": {
+      "message": "ส่วนตัว"
+   },
+   "btn_ok": {
+      "message": "ตกลง"
+   },
+   "btn_remove": {
+      "message": "ลบ"
+   },
+   "btn_snap": {
+      "message": "จับภาพ"
+   },
+   "btn_submit": {
+      "message": "ส่ง"
+   },
+   "btn_view": {
+      "message": "ดู"
+   },
+   "capture2pdfDownload": {
+      "message": "บันทึกเป็น PDF"
+   },
+   "captureAllPage": {
+      "message": "จับภาพทั้งหน้า"
+   },
+   "captureAnnotate": {
+      "message": "แก้ไขรูปภาพ"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "อัปโหลดภาพหน้าจอนี้"
+   },
+   "captureClickAnnotate": {
+      "message": "คลิกที่ภาพหน้าจอเพื่อแก้ไขหมายเหตุ"
+   },
+   "captureDownload": {
+      "message": "บันทึกรูปภาพ"
+   },
+   "captureHighResAllPage": {
+      "message": "จับภาพทั้งหน้า HD"
+   },
+   "capturePage": {
+      "message": "จับภาพส่วนที่มองเห็น"
+   },
+   "capturePageCurrentPosition": {
+      "message": "จับจากตำแหน่งปัจจุบัน"
+   },
+   "captureScrollable": {
+      "message": "จับภาพพื้นที่เลื่อน"
+   },
+   "captureSelection": {
+      "message": "จับภาพที่เลือก"
+   },
+   "capture_interrupted": {
+      "message": "ตรวจพบการเปลี่ยนแท็บ, หยุดการจับภาพหน้าจอ!"
+   },
+   "capture_scroll": {
+      "message": "จับภาพนี้"
+   },
+   "clickSel": {
+      "message": "คลิกเพื่อเลือก"
+   },
+   "clickUnfold": {
+      "message": "คลิกเพื่อขยาย"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "ไม่สามารถคัดลอกรูปภาพได้"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "คัดลอกรูปภาพไปยังคลิปบอร์ดแล้ว"
+   },
+   "copyNotSupport": {
+      "message": "เบราว์เซอร์ของคุณไม่รองรับการคัดลอกภาพ!"
+   },
+   "copyToClipBoard": {
+      "message": "คัดลอกไปยังคลิปบอร์ด"
+   },
+   "copy_false": {
+      "message": "การคัดลอกล้มเหลว!"
+   },
+   "copy_success": {
+      "message": "คัดลอกไปยังคลิปบอร์ดแล้ว!"
+   },
+   "crop": {
+      "message": "ตัดรูปภาพ"
+   },
+   "default_set": {
+      "message": "การตั้งค่าเริ่มต้น"
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "deleteAlert": {
+      "message": "คุณแน่ใจหรือว่าต้องการลบ?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "เกิดข้อผิดพลาดที่ไม่รู้จัก!"
+   },
+   "error_upload_snap": {
+      "message": "เกิดข้อผิดพลาดในการอัปโหลดภาพ!"
+   },
+   "exist_info": {
+      "message": "เว็บเพจได้ถูกบันทึกแล้ว!"
+   },
+   "exitUploading": {
+      "message": "กำลังอัปโหลด, คุณแน่ใจหรือว่าต้องการออก?"
+   },
+   "favMyTags": {
+      "message": "แท็กของฉัน"
+   },
+   "favOption": {
+      "message": "ตัวเลือก"
+   },
+   "favSuggestTag": {
+      "message": "แนะนำแท็ก"
+   },
+   "favTag": {
+      "message": "แท็ก"
+   },
+   "favTagLengthOver": {
+      "message": "แท็กยาวเกินไป"
+   },
+   "favTagNumOver": {
+      "message": "จำนวนแท็กเกินขีดจำกัด!"
+   },
+   "favTagPlaceholder": {
+      "message": "แท็ก"
+   },
+   "favTitle": {
+      "message": "หัวข้อ"
+   },
+   "favUrl": {
+      "message": "ลิงก์"
+   },
+   "fav_edit": {
+      "message": "แก้ไข"
+   },
+   "fav_success": {
+      "message": "บันทึกสำเร็จ!"
+   },
+   "fav_success_edit": {
+      "message": "บันทึกสำเร็จ - แก้ไข"
+   },
+   "forgetPsw": {
+      "message": "ลืมรหัสผ่าน?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(ภาพหน้าจอ HD 2x)"
+   },
+   "history": {
+      "message": "ประวัติ"
+   },
+   "historyClear": {
+      "message": "ล้าง"
+   },
+   "historyClearAll": {
+      "message": "ล้างรายการทั้งหมด"
+   },
+   "historyClearConfirm": {
+      "message": "ล้างประวัติภาพหน้าจอทั้งหมดหรือไม่?"
+   },
+   "historyClearDialogTitle": {
+      "message": "ล้างประวัติ"
+   },
+   "historyClearOlder1Month": {
+      "message": "ล้างรายการที่เก่ากว่า 1 เดือน"
+   },
+   "historyClearOlder3Months": {
+      "message": "ล้างรายการที่เก่ากว่า 3 เดือน"
+   },
+   "historyDelete": {
+      "message": "ลบ"
+   },
+   "historyEmpty": {
+      "message": "ยังไม่มีประวัติภาพหน้าจอ"
+   },
+   "historyUnknownDomain": {
+      "message": "โดเมนที่ไม่รู้จัก"
+   },
+   "iframe_capture": {
+      "message": "พบการซ้อน iframe! กรุณาถ่ายภาพหน้าจอเต็มรูปแบบอีกครั้งบนหน้าที่เปิดขึ้นโดยอัตโนมัติ"
+   },
+   "img": {
+      "message": "ภาพ"
+   },
+   "imgCaptcha": {
+      "message": "รหัสยืนยันรูปภาพ"
+   },
+   "imgCodeInput": {
+      "message": "กรุณากรอกรหัสยืนยันภาพ!"
+   },
+   "issueContentAdd": {
+      "message": "คำอธิบายสั้น ๆ เกี่ยวกับปัญหา"
+   },
+   "issueEmail": {
+      "message": "อีเมล"
+   },
+   "issueTitleAdd": {
+      "message": "เพิ่มหัวข้อ"
+   },
+   "issueUrl": {
+      "message": "ลิงค์"
+   },
+   "like_body": {
+      "message": "การพัฒนาโปรแกรมที่มีประโยชน์ต้องใช้ความพยายามมาก และเรารู้สึกดีใจที่คุณชอบมัน!<br /><br />คุณสามารถใช้เวลาเพียงหนึ่งนาทีในการให้คะแนนรีวิวห้าดาวกับเราได้ไหม? มันจะช่วยเราได้มากเลยครับ :)"
+   },
+   "like_no_thanks": {
+      "message": "ไม่ ขอบคุณ"
+   },
+   "like_title": {
+      "message": "คุณชอบเครื่องมือนี้ไหม?"
+   },
+   "like_yes": {
+      "message": "ใช่"
+   },
+   "loading": {
+      "message": "กำลังโหลด"
+   },
+   "loginCodeResend": {
+      "message": "ส่งใหม่"
+   },
+   "loginCodeSent": {
+      "message": "ส่งแล้ว"
+   },
+   "loginSignUp": {
+      "message": "เข้าสู่ระบบ / ลงทะเบียน"
+   },
+   "login_refresh": {
+      "message": "รีเฟรชหลังจากเข้าสู่ระบบ"
+   },
+   "msg_title": {
+      "message": "เคล็ดลับ - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "พบหลายพื้นที่, กรุณาเลือกหนึ่ง."
+   },
+   "my_collections": {
+      "message": "คอลเลกชันของฉัน"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "ข้อผิดพลาดในการขอเครือข่าย!"
+   },
+   "noSupportMultiPic": {
+      "message": "ไม่รองรับการครอบตัดหลายภาพ"
+   },
+   "not_support": {
+      "message": "ยินดีต้อนรับสู่ส่วนขยาย OpenCapture คุณสามารถใช้งานนี้ได้ในทุกหน้าเว็บ ยกเว้นในกรณีที่เบราว์เซอร์จำกัดการใช้งานส่วนขยายในการรันสคริปต์ เช่น หน้าเว็บของร้านส่วนขยาย, หน้าเว็บตั้งค่าเบราว์เซอร์ และส่วนขยายอื่น ๆ <br /><br />เบราว์เซอร์ไม่อนุญาตให้เข้าถึงบาง URL auspicious สำหรับเหตุผลด้านความปลอดภัย รวมถึงแกลเลอรี่ร้านส่วนขยาย, ส่วนขยายอื่น ๆ และ URLs ของ chrome://, extension://. <b>หน้านี้ดูเหมือนจะเป็น URL ที่ถูกจำกัด</b><br /><br />ลองใช้หน้าเว็บอื่น ๆ เช่น <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">หน้านี้</a>. ขอให้สนุก! <br /><br />หากมีคำถามเพิ่มเติม ติดต่อเราได้ที่<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "ตัวเลือก"
+   },
+   "page_not_ready": {
+      "message": "กำลังโหลด, กรุณาลองใหม่ภายหลัง."
+   },
+   "permissionDownloadsDenied": {
+      "message": "คุณปฏิเสธการอนุญาตสิทธิการจัดการดาวน์โหลด"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium เปิดใช้งานแล้ว"
+   },
+   "premium_active_price": {
+      "message": "สมัครสมาชิกรายปีใช้งานอยู่"
+   },
+   "premium_active_subtitle": {
+      "message": "ปลดล็อกโหมด Premium ทั้งหมดในการติดตั้งเบราว์เซอร์นี้แล้ว"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium เปิดใช้งานแล้ว"
+   },
+   "premium_all_free": {
+      "message": "ทุกอย่างใน Free"
+   },
+   "premium_back": {
+      "message": "กลับ"
+   },
+   "premium_back_to_opencapture": {
+      "message": "กลับไปที่ OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "อัปโหลดไปยัง Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "ฟีเจอร์ Premium นี้"
+   },
+   "premium_feature_title_high_res": {
+      "message": "จับภาพ HD เต็มหน้า"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "จับภาพหน้ายาวแบบแยกส่วน"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "จับภาพพื้นที่เลื่อนได้"
+   },
+   "premium_free_edit": {
+      "message": "ใส่คำอธิบาย ครอบตัด คัดลอก พิมพ์ ส่งออก PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "จับภาพทั้งหน้าพร้อมเลื่อน"
+   },
+   "premium_free_hd": {
+      "message": "จับภาพ HD เต็มหน้า: ทดลองฟรี 5 ครั้ง"
+   },
+   "premium_free_long_page_split": {
+      "message": "จับภาพหน้ายาวแบบแยกส่วน"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "สำหรับภาพหน้าจอทั่วไป"
+   },
+   "premium_free_scrollable": {
+      "message": "จับภาพพื้นที่เลื่อนได้: ทดลองฟรี 5 ครั้ง"
+   },
+   "premium_free_visible": {
+      "message": "จับภาพส่วนที่มองเห็น"
+   },
+   "premium_future": {
+      "message": "เข้าถึงฟีเจอร์ Premium ในอนาคต"
+   },
+   "premium_hd": {
+      "message": "จับภาพ HD เต็มหน้าไม่จำกัด"
+   },
+   "premium_long_page_split": {
+      "message": "พื้นที่ประวัติเพิ่มขึ้น"
+   },
+   "premium_manage": {
+      "message": "จัดการ"
+   },
+   "premium_manage_subscription": {
+      "message": "จัดการการสมัครสมาชิก"
+   },
+   "premium_mode_switching": {
+      "message": "สลับโหมดสว่าง/มืด"
+   },
+   "premium_notice_low": {
+      "message": "สิทธิ์ทดลองฟรีสำหรับ {feature} ใกล้หมดแล้ว เหลือ {remaining}"
+   },
+   "premium_notice_no_feature": {
+      "message": "อัปเกรดเป็น Premium เพื่อปลดล็อกฟีเจอร์ขั้นสูงเพิ่มเติม"
+   },
+   "premium_notice_used_up": {
+      "message": "คุณใช้สิทธิ์ทดลองฟรีสำหรับ {feature} หมดแล้ว"
+   },
+   "premium_opening_portal": {
+      "message": "กำลังเปิด..."
+   },
+   "premium_opening_stripe": {
+      "message": "กำลังเปิด Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "ไม่สามารถเปิดหน้าจัดการการสมัครสมาชิกได้"
+   },
+   "premium_portal_error_full": {
+      "message": "ไม่สามารถเปิดการจัดการสมาชิกได้ โปรดลองภายหลัง"
+   },
+   "premium_portal_opening": {
+      "message": "กำลังเปิด..."
+   },
+   "premium_price": {
+      "message": "สมัครสมาชิกรายปี"
+   },
+   "premium_restore_guide": {
+      "message": "ซื้อแล้วหรือติดตั้งใหม่?"
+   },
+   "premium_restore_link": {
+      "message": "กู้คืน Premium"
+   },
+   "premium_scrollable": {
+      "message": "จับภาพพื้นที่เลื่อนได้ไม่จำกัด"
+   },
+   "premium_stripe_error": {
+      "message": "ไม่สามารถเปิดลิงก์ชำระเงิน Stripe ได้ โปรดลองภายหลัง"
+   },
+   "premium_subtitle": {
+      "message": "Premium ปลดล็อกทุกโหมด รวมถึงภาพหน้าจอ HD เต็มหน้าและพื้นที่ที่เลื่อนได้"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "อัปเกรดเป็น Premium เพื่อเปลี่ยนโหมด"
+   },
+   "premium_title": {
+      "message": "สนับสนุนเราและอัปเกรดเป็น OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "ไม่ทราบ"
+   },
+   "premium_upgrade": {
+      "message": "อัปเกรดเป็น Premium"
+   },
+   "premium_valid_until": {
+      "message": "ใช้ได้ถึง"
+   },
+   "print": {
+      "message": "พิมพ์"
+   },
+   "privacy": {
+      "message": "ความเป็นส่วนตัว"
+   },
+   "privateBeizhu": {
+      "message": "หมายเหตุส่วนตัว"
+   },
+   "refresh_effective": {
+      "message": "มีผลหลังจากรีเฟรช"
+   },
+   "reportIssue": {
+      "message": "รายงานปัญหา"
+   },
+   "saveUrl2Private": {
+      "message": "ส่วนตัว"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "ตั้งเป็นส่วนตัว เฉพาะตัวคุณเองที่สามารถเห็นได้"
+   },
+   "saveUrl2Public": {
+      "message": "สาธารณะ"
+   },
+   "saveUrl2Snap": {
+      "message": "จับภาพ"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "บันทึกรูปภาพหน้าเว็บ"
+   },
+   "savedFileNameByTile": {
+      "message": "ตามชื่อเรื่อง"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ตัวอย่าง: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "ตามเวลา"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ตัวอย่าง: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "การตั้งชื่อไฟล์"
+   },
+   "scrollable_area_no": {
+      "message": "ไม่พบพื้นที่ที่เลื่อนดูได้"
+   },
+   "sendMailCode": {
+      "message": "ส่ง"
+   },
+   "setting_appearance": {
+      "message": "ลักษณะที่ปรากฏ"
+   },
+   "setting_cloud_upload_format": {
+      "message": "รูปแบบอัปโหลดไปยังคลาวด์"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "ระบุรูปแบบไฟล์เมื่ออัปโหลดภาพหน้าจอไปยังไดรฟ์คลาวด์"
+   },
+   "setting_default_private": {
+      "message": "ส่วนตัวเริ่มต้น"
+   },
+   "setting_default_private_info": {
+      "message": "กำหนดค่าเริ่มต้นเป็นส่วนตัวเมื่อบันทึกไปยัง YesKeeper"
+   },
+   "setting_down_image_format": {
+      "message": "บันทึกรูปภาพ"
+   },
+   "setting_down_image_format_info": {
+      "message": "กำหนดรูปแบบภาพสำหรับการดาวน์โหลดภาพหน้าจอ"
+   },
+   "setting_download": {
+      "message": "ดาวน์โหลด"
+   },
+   "setting_download_save_as": {
+      "message": "บันทึกเป็น"
+   },
+   "setting_download_save_as_info": {
+      "message": "แสดงกล่องโต้ตอบ \"บันทึกเป็น\" อัตโนมัติเมื่อดาวน์โหลดภาพหน้าจอของคุณ"
+   },
+   "setting_more": {
+      "message": "ตั้งค่ามากขึ้น"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "ขอบกระดาษ"
+   },
+   "setting_pdf_margin_info": {
+      "message": "กำหนดขอบกระดาษ, หน่วยเป็น pt, ช่วงที่กำหนด (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "ขนาดกระดาษ"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "กำหนดขนาดกระดาษสำหรับการส่งออกเป็น PDF"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "แสดงกล่องโต้ตอบบันทึกไปยัง YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "แสดงกล่องโต้ตอบบันทึกไปยัง YesKeeper สำหรับการบันทึกเป็นภาพหน้าจอของเว็บเพจ"
+   },
+   "setting_theme_mode": {
+      "message": "โหมด"
+   },
+   "setting_theme_mode_info": {
+      "message": "เลือกธีมการแสดงผลสำหรับหน้า OpenCapture"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "signInWithApple": {
+      "message": "เข้าสู่ระบบด้วย Apple"
+   },
+   "signInWithGoogle": {
+      "message": "เข้าสู่ระบบด้วย Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "เข้าสู่ระบบด้วย Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "การลงทะเบียนถือว่าคุณยอมรับ <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">ข้อตกลงการให้บริการ</a> และ <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">นโยบายความเป็นส่วนตัว</a> ของ YesKeeper"
+   },
+   "site_item1": {
+      "message": "จับภาพเว็บเพจ"
+   },
+   "site_item2": {
+      "message": "บุ๊คมาร์คบนคลาวด์"
+   },
+   "site_item3": {
+      "message": "อ่านภายหลัง"
+   },
+   "site_language": {
+      "message": "ภาษา"
+   },
+   "site_login": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "site_reg": {
+      "message": "ลงทะเบียน"
+   },
+   "snap_shot_prepare": {
+      "message": "กำลังเตรียมการเลื่อนหน้าจอและอัปโหลดภาพ"
+   },
+   "snap_shot_uploading": {
+      "message": "กำลังอัปโหลดภาพ..."
+   },
+   "splitMultiImages": {
+      "message": "หมายเหตุ: หน้านี้ใหญ่เกินไปสำหรับเบราว์เซอร์ในการจับภาพเป็นภาพเดียว มันจะถูกแบ่งออกเป็นหลายภาพ"
+   },
+   "stop_scrolling": {
+      "message": "หยุดเลื่อน"
+   },
+   "submitFalse": {
+      "message": "การส่งข้อมูลล้มเหลว!"
+   },
+   "tags_no": {
+      "message": "ไม่มีแท็ก"
+   },
+   "theme_dark": {
+      "message": "มืด"
+   },
+   "theme_follow_system": {
+      "message": "ใช้ตามระบบ"
+   },
+   "theme_light": {
+      "message": "สว่าง"
+   },
+   "tryAgainLater": {
+      "message": "กำลังโหลด, กรุณาลองใหม่ภายหลัง"
+   },
+   "uploadToCloudDrive": {
+      "message": "อัปโหลดไปยังที่เก็บข้อมูลบนคลาวด์"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "อัปโหลดล้มเหลว"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "อัปโหลดสำเร็จ"
+   },
+   "viewMyCollections": {
+      "message": "ดูคอลเลกชันของฉัน"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Код подтверждения"
+   },
+   "accountLogin": {
+      "message": "Вход по паролю"
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Пожалуйста, сначала разрешите управление разрешениями на загрузку"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Разрешить управление разрешениями на загрузку"
+   },
+   "auto_clase": {
+      "message": "Автоматически закрыть окно"
+   },
+   "bar_copy": {
+      "message": "Копировать"
+   },
+   "bar_save": {
+      "message": "Сохранить"
+   },
+   "btn_cancel": {
+      "message": "Отмена"
+   },
+   "btn_lock": {
+      "message": "Приватно"
+   },
+   "btn_ok": {
+      "message": "ОК"
+   },
+   "btn_remove": {
+      "message": "Удалить"
+   },
+   "btn_snap": {
+      "message": "Снимок"
+   },
+   "btn_submit": {
+      "message": "Отправить"
+   },
+   "btn_view": {
+      "message": "Просмотр"
+   },
+   "capture2pdfDownload": {
+      "message": "Сохранить как PDF"
+   },
+   "captureAllPage": {
+      "message": "Захватить всю страницу"
+   },
+   "captureAnnotate": {
+      "message": "Аннотировать"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Загрузить этот скриншот"
+   },
+   "captureClickAnnotate": {
+      "message": "Нажмите на скриншот для аннотации"
+   },
+   "captureDownload": {
+      "message": "Сохранить изображение"
+   },
+   "captureHighResAllPage": {
+      "message": "Захватить Вся страница в HD"
+   },
+   "capturePage": {
+      "message": "Захватить видимую часть"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Захватить с текущей позиции"
+   },
+   "captureScrollable": {
+      "message": "Сфотографировать прокручиваемую область"
+   },
+   "captureSelection": {
+      "message": "Захватить выделенную область"
+   },
+   "capture_interrupted": {
+      "message": "Обнаружено переключение вкладки, снимок экрана остановлен!"
+   },
+   "capture_scroll": {
+      "message": "Сфотографировать это"
+   },
+   "clickSel": {
+      "message": "Нажмите для выбора"
+   },
+   "clickUnfold": {
+      "message": "Нажмите для разворачивания"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Не удалось скопировать изображение"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Изображение скопировано в буфер обмена"
+   },
+   "copyNotSupport": {
+      "message": "Ваш браузер не поддерживает копирование изображений!"
+   },
+   "copyToClipBoard": {
+      "message": "Копировать в буфер обмена"
+   },
+   "copy_false": {
+      "message": "Ошибка копирования!"
+   },
+   "copy_success": {
+      "message": "Скопировано в буфер обмена!"
+   },
+   "crop": {
+      "message": "Обрезать"
+   },
+   "default_set": {
+      "message": "Настройки по умолчанию"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "deleteAlert": {
+      "message": "Уверены, что хотите удалить?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Произошла неизвестная ошибка!"
+   },
+   "error_upload_snap": {
+      "message": "Ошибка загрузки снимка!"
+   },
+   "exist_info": {
+      "message": "Веб-страница уже сохранена!"
+   },
+   "exitUploading": {
+      "message": "Идет загрузка, вы уверены, что хотите покинуть страницу?"
+   },
+   "favMyTags": {
+      "message": "Мои теги"
+   },
+   "favOption": {
+      "message": "Опция"
+   },
+   "favSuggestTag": {
+      "message": "Рекомендуемые теги"
+   },
+   "favTag": {
+      "message": "Тег"
+   },
+   "favTagLengthOver": {
+      "message": "Тег слишком длинный"
+   },
+   "favTagNumOver": {
+      "message": "Превышено максимальное количество тегов!"
+   },
+   "favTagPlaceholder": {
+      "message": "Теги"
+   },
+   "favTitle": {
+      "message": "Название"
+   },
+   "favUrl": {
+      "message": "Ссылка"
+   },
+   "fav_edit": {
+      "message": "Редактировать коллекцию"
+   },
+   "fav_success": {
+      "message": "Сохранение прошло успешно!"
+   },
+   "fav_success_edit": {
+      "message": "Сохранено успешно - Редактирование"
+   },
+   "forgetPsw": {
+      "message": "Забыли пароль?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(HD-скриншот 2x)"
+   },
+   "history": {
+      "message": "История"
+   },
+   "historyClear": {
+      "message": "Очистить"
+   },
+   "historyClearAll": {
+      "message": "Удалить все записи"
+   },
+   "historyClearConfirm": {
+      "message": "Очистить всю историю скриншотов?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Очистка истории"
+   },
+   "historyClearOlder1Month": {
+      "message": "Удалить записи старше 1 месяца"
+   },
+   "historyClearOlder3Months": {
+      "message": "Удалить записи старше 3 месяцев"
+   },
+   "historyDelete": {
+      "message": "Удалить"
+   },
+   "historyEmpty": {
+      "message": "История скриншотов пока пуста."
+   },
+   "historyUnknownDomain": {
+      "message": "Неизвестный домен"
+   },
+   "iframe_capture": {
+      "message": "Обнаружен iframe, пожалуйста, сделайте полный скриншот на автоматически открывшейся странице."
+   },
+   "img": {
+      "message": "Изображение"
+   },
+   "imgCaptcha": {
+      "message": "Капча"
+   },
+   "imgCodeInput": {
+      "message": "Введите код с изображения!"
+   },
+   "issueContentAdd": {
+      "message": "Краткое описание проблемы"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "issueTitleAdd": {
+      "message": "Добавить заголовок"
+   },
+   "issueUrl": {
+      "message": "Ссылка"
+   },
+   "like_body": {
+      "message": "Разработка полезной программы требует много усилий, и мы рады, что вам нравится!<br /><br />Можете ли вы потратить минуту, чтобы оставить нам пятизвездочный отзыв? Это будет очень полезно для нас. :)"
+   },
+   "like_no_thanks": {
+      "message": "Нет, спасибо"
+   },
+   "like_title": {
+      "message": "Вам нравится этот инструмент?"
+   },
+   "like_yes": {
+      "message": "Да"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "loginCodeResend": {
+      "message": "Отправить повторно"
+   },
+   "loginCodeSent": {
+      "message": "Отправлено"
+   },
+   "loginSignUp": {
+      "message": "Вход / Регистрация"
+   },
+   "login_refresh": {
+      "message": "Обновить после входа"
+   },
+   "msg_title": {
+      "message": "Совет - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Найдено несколько областей, выберите одну."
+   },
+   "my_collections": {
+      "message": "Мои коллекции"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Ошибка сетевого запроса!"
+   },
+   "noSupportMultiPic": {
+      "message": "Множественное обрезание изображений не поддерживается"
+   },
+   "not_support": {
+      "message": "Добро пожаловать в расширение OpenCapture. Вы можете использовать его на любой веб-странице, кроме тех, где браузер ограничивает расширения в выполнении скриптов. Это включает страницы веб-магазина расширений, настройки браузера и другие расширения.<br /><br />Браузер не позволяет доступ к некоторым URL-адресам по соображениям безопасности. Это включает галерею веб-магазина, другие расширения и адреса chrome://, extension://. <b>Текущая страница, похоже, является ограниченным URL.</b><br /><br />Попробуйте другую страницу в интернете, например, <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">эту</a>. Удачи! <br /><br />Если у вас есть дополнительные вопросы, свяжитесь с нами.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Необязательно"
+   },
+   "page_not_ready": {
+      "message": "Загружается, попробуйте позже."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Вы отклонили разрешение на управление загрузками"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium активен."
+   },
+   "premium_active_price": {
+      "message": "Годовая подписка активна"
+   },
+   "premium_active_subtitle": {
+      "message": "Все Premium-режимы открыты для этой установки браузера."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium активен"
+   },
+   "premium_all_free": {
+      "message": "Все из Free"
+   },
+   "premium_back": {
+      "message": "Назад"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Вернуться в OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Загрузка в Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Эта функция Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD-снимки всей страницы"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Длинные снимки по частям"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Снимки прокручиваемых областей"
+   },
+   "premium_free_edit": {
+      "message": "Аннотации, обрезка, копирование, печать, экспорт PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Снимок всей страницы с прокруткой"
+   },
+   "premium_free_hd": {
+      "message": "HD-снимки всей страницы: 5 бесплатных проб"
+   },
+   "premium_free_long_page_split": {
+      "message": "Длинные снимки по частям"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Для повседневных снимков"
+   },
+   "premium_free_scrollable": {
+      "message": "Снимки прокручиваемых областей: 5 бесплатных проб"
+   },
+   "premium_free_visible": {
+      "message": "Снимок видимой области"
+   },
+   "premium_future": {
+      "message": "Доступ к будущим функциям Premium"
+   },
+   "premium_hd": {
+      "message": "Неограниченные HD-снимки всей страницы"
+   },
+   "premium_long_page_split": {
+      "message": "Больше места для истории"
+   },
+   "premium_manage": {
+      "message": "Управлять"
+   },
+   "premium_manage_subscription": {
+      "message": "Управление подпиской"
+   },
+   "premium_mode_switching": {
+      "message": "Переключение светлого/темного режима"
+   },
+   "premium_notice_low": {
+      "message": "Бесплатные попытки для {feature} почти закончились. Осталось: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Перейдите на Premium, чтобы открыть больше расширенных функций."
+   },
+   "premium_notice_used_up": {
+      "message": "Бесплатные попытки для {feature} закончились."
+   },
+   "premium_opening_portal": {
+      "message": "Открытие..."
+   },
+   "premium_opening_stripe": {
+      "message": "Открытие Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Не удалось открыть управление подпиской."
+   },
+   "premium_portal_error_full": {
+      "message": "Не удалось открыть управление подпиской. Попробуйте позже."
+   },
+   "premium_portal_opening": {
+      "message": "Открытие..."
+   },
+   "premium_price": {
+      "message": "Годовая подписка"
+   },
+   "premium_restore_guide": {
+      "message": "Уже купили или переустановили?"
+   },
+   "premium_restore_link": {
+      "message": "Восстановить Premium"
+   },
+   "premium_scrollable": {
+      "message": "Неограниченные снимки прокручиваемых областей"
+   },
+   "premium_stripe_error": {
+      "message": "Не удалось открыть ссылку оплаты Stripe. Попробуйте позже."
+   },
+   "premium_subtitle": {
+      "message": "Premium открывает все режимы, включая HD-снимки всей страницы и прокручиваемых областей."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Перейдите на Premium, чтобы изменить режим."
+   },
+   "premium_title": {
+      "message": "Поддержите нас и перейдите на OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Неизвестно"
+   },
+   "premium_upgrade": {
+      "message": "Перейти на Premium"
+   },
+   "premium_valid_until": {
+      "message": "Действует до"
+   },
+   "print": {
+      "message": "Печать"
+   },
+   "privacy": {
+      "message": "Конфиденциальность"
+   },
+   "privateBeizhu": {
+      "message": "Личные заметки"
+   },
+   "refresh_effective": {
+      "message": "Эффективно после обновления"
+   },
+   "reportIssue": {
+      "message": "Сообщить о проблеме"
+   },
+   "saveUrl2Private": {
+      "message": "Приватно"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Установить как приватное, видно только вам"
+   },
+   "saveUrl2Public": {
+      "message": "Публично"
+   },
+   "saveUrl2Snap": {
+      "message": "Снимок"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Сохранить снимок веб-страницы"
+   },
+   "savedFileNameByTile": {
+      "message": "По заголовку"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "напр.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "По времени"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "напр.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Имя файла"
+   },
+   "scrollable_area_no": {
+      "message": "Прокручиваемая область не найдена."
+   },
+   "sendMailCode": {
+      "message": "Отправить"
+   },
+   "setting_appearance": {
+      "message": "Внешний вид"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Формат загрузки в облако"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Укажите формат файла при загрузке снимков экрана на облачный диск."
+   },
+   "setting_default_private": {
+      "message": "По умолчанию приватно"
+   },
+   "setting_default_private_info": {
+      "message": "Установите по умолчанию приватный доступ при сохранении в YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Сохранить изображение"
+   },
+   "setting_down_image_format_info": {
+      "message": "Укажите формат изображения для загрузки скриншотов."
+   },
+   "setting_download": {
+      "message": "Скачать"
+   },
+   "setting_download_save_as": {
+      "message": "Сохранить как"
+   },
+   "setting_download_save_as_info": {
+      "message": "Автоматически показывать диалоговое окно \"сохранить как\" при загрузке скриншотов."
+   },
+   "setting_more": {
+      "message": "Дополнительные настройки"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Поля страницы"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Укажите поля страницы, единица измерения - пункты (pt), допустимый диапазон (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Размер бумаги"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Укажите размер бумаги для экспортируемых PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Показать диалог сохранения в YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Показывать диалог сохранения в YesKeeper для сохранения как снимок веб-страницы"
+   },
+   "setting_theme_mode": {
+      "message": "Тема"
+   },
+   "setting_theme_mode_info": {
+      "message": "Выберите тему оформления для страниц OpenCapture."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "signInWithApple": {
+      "message": "Войти через Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Войти через Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Войти через Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Регистрируясь, вы соглашаетесь с <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Пользовательским соглашением</a> и <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Политикой конфиденциальности</a> YesKeeper"
+   },
+   "site_item1": {
+      "message": "Снимок веб-страницы"
+   },
+   "site_item2": {
+      "message": "Облачные закладки"
+   },
+   "site_item3": {
+      "message": "Прочитать позже"
+   },
+   "site_language": {
+      "message": "Язык"
+   },
+   "site_login": {
+      "message": "Войти"
+   },
+   "site_reg": {
+      "message": "Регистрация"
+   },
+   "snap_shot_prepare": {
+      "message": "Подготовка к прокрутке экрана и загрузке снимка"
+   },
+   "snap_shot_uploading": {
+      "message": "Загрузка снимка..."
+   },
+   "splitMultiImages": {
+      "message": "Примечание: эта страница слишком велика для захвата изображения браузером. Она будет разделена на несколько изображений."
+   },
+   "stop_scrolling": {
+      "message": "Остановить прокрутку"
+   },
+   "submitFalse": {
+      "message": "Ошибка отправки!"
+   },
+   "tags_no": {
+      "message": "Нет тегов"
+   },
+   "theme_dark": {
+      "message": "Тёмная"
+   },
+   "theme_follow_system": {
+      "message": "Следовать настройкам системы"
+   },
+   "theme_light": {
+      "message": "Светлая"
+   },
+   "tryAgainLater": {
+      "message": "Загрузка, попробуйте позже"
+   },
+   "uploadToCloudDrive": {
+      "message": "Загрузить в облачное хранилище"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Ошибка загрузки"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Успешно загружено"
+   },
+   "viewMyCollections": {
+      "message": "Посмотреть мои коллекции"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

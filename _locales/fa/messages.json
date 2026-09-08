@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "کد تأیید ایمیل"
+   },
+   "accountLogin": {
+      "message": "ورود با کلمه مرور"
+   },
+   "add": {
+      "message": "افزودن"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "لطفا مجوز مدیریت دانلود را اولین بار تأیید کنید"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "مجوز مدیریت دانلود را تأیید کنید"
+   },
+   "auto_clase": {
+      "message": "بستن پنجره تلقائی"
+   },
+   "bar_copy": {
+      "message": "کپی"
+   },
+   "bar_save": {
+      "message": "ذخیره"
+   },
+   "btn_cancel": {
+      "message": "انصراف"
+   },
+   "btn_lock": {
+      "message": "خصوصی"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "حذف"
+   },
+   "btn_snap": {
+      "message": "شات فرم"
+   },
+   "btn_submit": {
+      "message": "ارسال"
+   },
+   "btn_view": {
+      "message": "مشاهده"
+   },
+   "capture2pdfDownload": {
+      "message": "ذخیره به فرمت PDF"
+   },
+   "captureAllPage": {
+      "message": "گرفتن تمام صفحه"
+   },
+   "captureAnnotate": {
+      "message": "نوشتن"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "ارسال این تصویر"
+   },
+   "captureClickAnnotate": {
+      "message": "به تصویر کلیک کنید تا نوشتن شود"
+   },
+   "captureDownload": {
+      "message": "ذخیره تصویر"
+   },
+   "captureHighResAllPage": {
+      "message": "گرفتن تمام صفحه HD"
+   },
+   "capturePage": {
+      "message": "گرفتن بخش قابل مشاهدة"
+   },
+   "capturePageCurrentPosition": {
+      "message": "گرفتن از موقعیت فعلی"
+   },
+   "captureScrollable": {
+      "message": "گرفتن بخش قابل اسکرول"
+   },
+   "captureSelection": {
+      "message": "گرفتن انتخاب"
+   },
+   "capture_interrupted": {
+      "message": "تغییر تب شناسایی شد، اسکرین‌شات متوقف شد!"
+   },
+   "capture_scroll": {
+      "message": "این را بگیر"
+   },
+   "clickSel": {
+      "message": "به منطقه خود کلیک کنید"
+   },
+   "clickUnfold": {
+      "message": "برای باز کردن کلیک کنید"
+   },
+   "close": {
+      "message": "بستن"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "نمی‌توان تصویر را کپی کرد"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "تصویر کپی شد"
+   },
+   "copyNotSupport": {
+      "message": "برایتور مورد نظر شما کپی تصاویر را پشتیبانی نمی‌کند!"
+   },
+   "copyToClipBoard": {
+      "message": "کپی به کلیدبورد"
+   },
+   "copy_false": {
+      "message": "کپی نشد!"
+   },
+   "copy_success": {
+      "message": "کپی به کلیدبورد انجام شد!"
+   },
+   "crop": {
+      "message": "برش"
+   },
+   "default_set": {
+      "message": "تنظیمات پیشفرض"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "deleteAlert": {
+      "message": "آیا حذف می‌خواهید؟"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "خطای ناشناخته رخ داد!"
+   },
+   "error_upload_snap": {
+      "message": "خطای ارسال شات فرم!"
+   },
+   "exist_info": {
+      "message": "این وب‌سایت به ذخیره شد!"
+   },
+   "exitUploading": {
+      "message": "در حال ارسال هستید، آیا حاضرید که بروید؟"
+   },
+   "favMyTags": {
+      "message": "برچسب‌های من"
+   },
+   "favOption": {
+      "message": "گزینه"
+   },
+   "favSuggestTag": {
+      "message": "برچسب‌های پیشنهادی"
+   },
+   "favTag": {
+      "message": "برچسب"
+   },
+   "favTagLengthOver": {
+      "message": "برچسب طولانی است"
+   },
+   "favTagNumOver": {
+      "message": "تعداد برچسب از حد مجازی پیش رفته!"
+   },
+   "favTagPlaceholder": {
+      "message": "برچسب‌ها"
+   },
+   "favTitle": {
+      "message": "عنوان"
+   },
+   "favUrl": {
+      "message": "لینک"
+   },
+   "fav_edit": {
+      "message": "ویرایش مجموعه"
+   },
+   "fav_success": {
+      "message": "ذخیره با موفقیت!"
+   },
+   "fav_success_edit": {
+      "message": "ذخیره با موفقیت - ویرایش"
+   },
+   "forgetPsw": {
+      "message": "فراموش کردید؟"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(اسکرین‌شات HD با وضوح ۲ برابر)"
+   },
+   "history": {
+      "message": "تاریخچه"
+   },
+   "historyClear": {
+      "message": "پاک کردن"
+   },
+   "historyClearAll": {
+      "message": "پاک کردن همه رکوردها"
+   },
+   "historyClearConfirm": {
+      "message": "تمام تاریخچه اسکرین‌شات‌ها پاک شود؟"
+   },
+   "historyClearDialogTitle": {
+      "message": "پاک کردن تاریخچه"
+   },
+   "historyClearOlder1Month": {
+      "message": "پاک کردن رکوردهای قدیمی‌تر از ۱ ماه"
+   },
+   "historyClearOlder3Months": {
+      "message": "پاک کردن رکوردهای قدیمی‌تر از ۳ ماه"
+   },
+   "historyDelete": {
+      "message": "حذف"
+   },
+   "historyEmpty": {
+      "message": "هنوز هیچ سابقه‌ای از اسکرین‌شات‌ها وجود ندارد."
+   },
+   "historyUnknownDomain": {
+      "message": "دامنه ناشناخته"
+   },
+   "iframe_capture": {
+      "message": "یکدیگر افزوده شده! لطفا برای گرفتن تصویر کامل، به صفحه اتوماتیکاً بازگشتید"
+   },
+   "img": {
+      "message": "تصویر"
+   },
+   "imgCaptcha": {
+      "message": "کد تصویری"
+   },
+   "imgCodeInput": {
+      "message": "کد تصویری را وارد کنید!"
+   },
+   "issueContentAdd": {
+      "message": "توضیح مختصری از مشکل"
+   },
+   "issueEmail": {
+      "message": "ایمیل"
+   },
+   "issueTitleAdd": {
+      "message": "عنوان اضافه کنید"
+   },
+   "issueUrl": {
+      "message": "لینک"
+   },
+   "like_body": {
+      "message": "توسعه یک برنامه عالی نیاز به تلاش زیادی دارد و ما خوشحالیم که از آن خوشتان آمده است!<br /><br />آیا می‌توانید یک دقیقه وقت بگذارید و به ما یک امتیاز پنج ستاره بدهید؟ این کمک بزرگی به ما خواهد کرد :)"
+   },
+   "like_no_thanks": {
+      "message": "نه، متشکرم"
+   },
+   "like_title": {
+      "message": "آیا این برنامه را دوست دارید؟"
+   },
+   "like_yes": {
+      "message": "حتماً"
+   },
+   "loading": {
+      "message": "در حال بارگذاری"
+   },
+   "loginCodeResend": {
+      "message": "دوباره ارسال"
+   },
+   "loginCodeSent": {
+      "message": "ارسال شد"
+   },
+   "loginSignUp": {
+      "message": "ورود / ثبت نام"
+   },
+   "login_refresh": {
+      "message": "بعد از ورود به حساب، تجدید نشانگر کنید"
+   },
+   "msg_title": {
+      "message": "تلمیح - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "چند بخش یافت شد، یکی را انتخاب کنید."
+   },
+   "my_collections": {
+      "message": "مجموعه من"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "خطای درخواست شبکه!"
+   },
+   "noSupportMultiPic": {
+      "message": "برش تعدادی تصویر پشتیبانی نمی‌شود"
+   },
+   "not_support": {
+      "message": "خوشحال می‌شوم که شما به OpenCapture افزوده‌اید. این ابزار را برای هر وب‌سایتی می‌توانید استفاده کنید، مگر اینکه برایتور شما اجازه اجرای اسکریپت‌ها را محدود کرده باشد. این شامل فروشگاه ابزارها، صفحات تنظیمات برایتور و سایر افزوده‌ها می‌شود<br /><br />سعی کنید صفحه دیگری را مشاهده کنید، مانند <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">اینجا</a>. لذت ببرید<br /><br />برایتورها به دلایل امنیتی به برخی URL‌ها دسترسی ندارند. این شامل URL‌های فروشگاه ابزار، URL‌های افزوده و URL‌های chrome:// یا extension:// می‌شود. <b>این صفحه یک URL محدود شده است.</b<br /><br />برای سوالات بیشتر با ما تماس بگیرید.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "اختیاری"
+   },
+   "page_not_ready": {
+      "message": "در حال بارگذاری، بعداً تلاش کنید."
+   },
+   "permissionDownloadsDenied": {
+      "message": "مجوز مدیریت دانلود را رد کرده‌اید"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium فعال است."
+   },
+   "premium_active_price": {
+      "message": "اشتراک سالانه فعال"
+   },
+   "premium_active_subtitle": {
+      "message": "همه حالت‌های Premium در این نصب مرورگر باز شده‌اند."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium فعال است"
+   },
+   "premium_all_free": {
+      "message": "همه امکانات Free"
+   },
+   "premium_back": {
+      "message": "بازگشت"
+   },
+   "premium_back_to_opencapture": {
+      "message": "بازگشت به OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "آپلود در Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "این ویژگی Premium"
+   },
+   "premium_feature_title_high_res": {
+      "message": "گرفتن HD کل صفحه"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "گرفتن صفحه بلند به بخش‌ها"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "گرفتن نواحی قابل پیمایش"
+   },
+   "premium_free_edit": {
+      "message": "یادداشت، برش، کپی، چاپ، خروجی PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "گرفتن کل صفحه با پیمایش"
+   },
+   "premium_free_hd": {
+      "message": "گرفتن HD کل صفحه: ۵ آزمایش رایگان"
+   },
+   "premium_free_long_page_split": {
+      "message": "گرفتن صفحه بلند به بخش‌ها"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "برای اسکرین‌شات‌های روزانه"
+   },
+   "premium_free_scrollable": {
+      "message": "گرفتن نواحی قابل پیمایش: ۵ آزمایش رایگان"
+   },
+   "premium_free_visible": {
+      "message": "گرفتن بخش قابل مشاهده"
+   },
+   "premium_future": {
+      "message": "دسترسی به امکانات آینده Premium"
+   },
+   "premium_hd": {
+      "message": "گرفتن HD کل صفحه بدون محدودیت"
+   },
+   "premium_long_page_split": {
+      "message": "فضای بیشتر برای تاریخچه"
+   },
+   "premium_manage": {
+      "message": "مدیریت"
+   },
+   "premium_manage_subscription": {
+      "message": "مدیریت اشتراک"
+   },
+   "premium_mode_switching": {
+      "message": "تغییر حالت روشن/تاریک"
+   },
+   "premium_notice_low": {
+      "message": "استفاده‌های آزمایشی رایگان شما برای {feature} رو به پایان است. باقی‌مانده: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "برای باز کردن امکانات پیشرفته بیشتر به Premium ارتقا دهید."
+   },
+   "premium_notice_used_up": {
+      "message": "استفاده‌های آزمایشی رایگان شما برای {feature} تمام شد."
+   },
+   "premium_opening_portal": {
+      "message": "در حال باز کردن..."
+   },
+   "premium_opening_stripe": {
+      "message": "در حال باز کردن Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "امکان باز کردن صفحه مدیریت اشتراک وجود ندارد."
+   },
+   "premium_portal_error_full": {
+      "message": "مدیریت اشتراک باز نشد. بعداً دوباره تلاش کنید."
+   },
+   "premium_portal_opening": {
+      "message": "در حال باز شدن..."
+   },
+   "premium_price": {
+      "message": "اشتراک سالانه"
+   },
+   "premium_restore_guide": {
+      "message": "قبلاً خریده‌اید یا دوباره نصب کرده‌اید؟"
+   },
+   "premium_restore_link": {
+      "message": "بازیابی Premium"
+   },
+   "premium_scrollable": {
+      "message": "گرفتن نواحی قابل پیمایش بدون محدودیت"
+   },
+   "premium_stripe_error": {
+      "message": "لینک پرداخت Stripe باز نشد. بعداً دوباره تلاش کنید."
+   },
+   "premium_subtitle": {
+      "message": "Premium همه حالت‌ها، از جمله عکس HD تمام صفحه و نواحی قابل پیمایش را باز می‌کند."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "برای تغییر حالت به Premium ارتقا دهید."
+   },
+   "premium_title": {
+      "message": "از ما پشتیبانی کنید و به OpenCapture Premium ارتقا دهید"
+   },
+   "premium_unknown_date": {
+      "message": "نامشخص"
+   },
+   "premium_upgrade": {
+      "message": "ارتقا به Premium"
+   },
+   "premium_valid_until": {
+      "message": "معتبر تا"
+   },
+   "print": {
+      "message": "چاپ"
+   },
+   "privacy": {
+      "message": "حریمیت"
+   },
+   "privateBeizhu": {
+      "message": "توضیحات خصوصی"
+   },
+   "refresh_effective": {
+      "message": "پس از تجدید نشانگر اعتبار دارد"
+   },
+   "reportIssue": {
+      "message": "گزارش مشکل"
+   },
+   "saveUrl2Private": {
+      "message": "خصوصی"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "تنظیم به حالت خصوصی، فقط قابل مشاهده توسط شما"
+   },
+   "saveUrl2Public": {
+      "message": "علنی"
+   },
+   "saveUrl2Snap": {
+      "message": "شات فرم"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "ذخیره شات فرم وب"
+   },
+   "savedFileNameByTile": {
+      "message": "بر اساس عنوان"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "مثال: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "بر اساس زمان"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "مثال: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "نام‌گذاری فایل"
+   },
+   "scrollable_area_no": {
+      "message": "منطقه قابل پیمایش یافت نشد."
+   },
+   "sendMailCode": {
+      "message": "ارسال"
+   },
+   "setting_appearance": {
+      "message": "ظاهر"
+   },
+   "setting_cloud_upload_format": {
+      "message": "فرمت آپلود ابری"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "هنگام آپلود اسکرین‌شات‌ها در درایو ابری، فرمت فایل را مشخص کنید."
+   },
+   "setting_default_private": {
+      "message": "پیشفرض خصوصی"
+   },
+   "setting_default_private_info": {
+      "message": "حالت پیشفرض خصوصی را هنگام ذخیره به YesKeeper تعیین کنید."
+   },
+   "setting_down_image_format": {
+      "message": "فرمت تصویر"
+   },
+   "setting_down_image_format_info": {
+      "message": "فرمت تصویر دانلود شده را تعیین کنید."
+   },
+   "setting_download": {
+      "message": "دانلود"
+   },
+   "setting_download_save_as": {
+      "message": "ذخیره به..."
+   },
+   "setting_download_save_as_info": {
+      "message": "در خواست دانلود شات فرم، پنجره ذخیره به... را نشان دهید."
+   },
+   "setting_more": {
+      "message": "تنظیمات بیشتر"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "هوامش صفحه"
+   },
+   "setting_pdf_margin_info": {
+      "message": "هوامش صفحه (واحد: نقطه) را تعیین کنید. بازه 0-40 نقطه."
+   },
+   "setting_pdf_papersize": {
+      "message": "سایز ورق"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "سایز ورق PDF را هنگام صدور تعیین کنید."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "نمایش پنجره ذخیره به YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "نمایش دیالوگ ذخیره به YesKeeper برای حفظ شات فرم وب"
+   },
+   "setting_theme_mode": {
+      "message": "حالت"
+   },
+   "setting_theme_mode_info": {
+      "message": "تم نمایش صفحات OpenCapture را انتخاب کنید."
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "signInWithApple": {
+      "message": "ورود با Apple"
+   },
+   "signInWithGoogle": {
+      "message": "ورود با Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "ورود با Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "با ثبت نام، شما با <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">قرارداد کاربری YesKeeper</a> و <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">سیاست حریمیت</a> موافقت می‌کنید."
+   },
+   "site_item1": {
+      "message": "شات فرم وب"
+   },
+   "site_item2": {
+      "message": "کتابخانه ابری"
+   },
+   "site_item3": {
+      "message": "مطالعه بعداً"
+   },
+   "site_language": {
+      "message": "زبان"
+   },
+   "site_login": {
+      "message": "ورود"
+   },
+   "site_reg": {
+      "message": "ثبت نام"
+   },
+   "snap_shot_prepare": {
+      "message": "پیشگیری از کشیدن صفحه و ارسال شات فرم"
+   },
+   "snap_shot_uploading": {
+      "message": "ارسال شات فرم..."
+   },
+   "splitMultiImages": {
+      "message": "توجه: این صفحه بزرگ است که برای برایتور کپی شود به تعدادی تصویر تقسیم می‌شود."
+   },
+   "stop_scrolling": {
+      "message": "متوقف کن"
+   },
+   "submitFalse": {
+      "message": "ارسال ناموفق!"
+   },
+   "tags_no": {
+      "message": "بدون برچسب"
+   },
+   "theme_dark": {
+      "message": "تیره"
+   },
+   "theme_follow_system": {
+      "message": "پیروی از تنظیمات سیستم"
+   },
+   "theme_light": {
+      "message": "روشن"
+   },
+   "tryAgainLater": {
+      "message": "لطفا بعداً دوباره امتحان کنید"
+   },
+   "uploadToCloudDrive": {
+      "message": "آپلود در فضای ابری"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "آپلود ناموفق بود"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "با موفقیت آپلود شد"
+   },
+   "viewMyCollections": {
+      "message": "مشاهده مجموعه من"
+   },
+   "vip": {
+      "message": "پرو"
+   }
+}

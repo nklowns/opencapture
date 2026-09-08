@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "توثیقی کوڈ"
+   },
+   "accountLogin": {
+      "message": "اکاؤنٹ پاس ورڈ لاگ ان"
+   },
+   "add": {
+      "message": "شامل کریں"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "براہ کرم پہلے ڈاؤن لوڈ مینجمنٹ کی اجازت دیں"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "ڈاؤن لوڈ مینجمنٹ کی اجازت دیں"
+   },
+   "auto_clase": {
+      "message": "ونڈو خود بخود بند ہو جائے گی"
+   },
+   "bar_copy": {
+      "message": "کاپی کریں"
+   },
+   "bar_save": {
+      "message": "محفوظ کریں"
+   },
+   "btn_cancel": {
+      "message": "منسوخ کریں"
+   },
+   "btn_lock": {
+      "message": "نجی"
+   },
+   "btn_ok": {
+      "message": "ٹھیک ہے"
+   },
+   "btn_remove": {
+      "message": "ہٹائیں"
+   },
+   "btn_snap": {
+      "message": "سنیپ شاٹ"
+   },
+   "btn_submit": {
+      "message": "جمع کرائیں"
+   },
+   "btn_view": {
+      "message": "دیکھیں"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF کے طور پر محفوظ کریں"
+   },
+   "captureAllPage": {
+      "message": "پورے صفحے کو کیپچر کریں"
+   },
+   "captureAnnotate": {
+      "message": "تشریح کریں"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "اسکرین شاٹ اپ لوڈ کریں"
+   },
+   "captureClickAnnotate": {
+      "message": "اسکرین شاٹ پر تشریح کے لیے کلک کریں"
+   },
+   "captureDownload": {
+      "message": "تصویر محفوظ کریں"
+   },
+   "captureHighResAllPage": {
+      "message": "پورا صفحہ HD میں"
+   },
+   "capturePage": {
+      "message": "نظر آنے والے حصے کو کیپچر کریں"
+   },
+   "capturePageCurrentPosition": {
+      "message": "موجودہ مقام سے کیپچر کریں"
+   },
+   "captureScrollable": {
+      "message": "اسکرول ایریا پکڑیں"
+   },
+   "captureSelection": {
+      "message": "منتخب کردہ حصہ کیپچر کریں"
+   },
+   "capture_interrupted": {
+      "message": "ٹیب کی تبدیلی کا پتا چلا، اسکرین شاٹ روکا گیا!"
+   },
+   "capture_scroll": {
+      "message": "اسے پکڑیں"
+   },
+   "clickSel": {
+      "message": "منتخب کرنے کے لیے کلک کریں"
+   },
+   "clickUnfold": {
+      "message": "پھیلانے کے لیے کلک کریں"
+   },
+   "close": {
+      "message": "بند کریں"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "تصویر کاپی کرنے میں ناکام"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "تصویر کلپ بورڈ پر کاپی ہوگئی"
+   },
+   "copyNotSupport": {
+      "message": "آپ کا براؤزر تصاویر کاپی کرنے کی حمایت نہیں کرتا!"
+   },
+   "copyToClipBoard": {
+      "message": "کلپ بورڈ پر کاپی کریں"
+   },
+   "copy_false": {
+      "message": "کاپی کرنے میں ناکام!"
+   },
+   "copy_success": {
+      "message": "کلپ بورڈ پر کاپی ہوگیا!"
+   },
+   "crop": {
+      "message": "کراپ کریں"
+   },
+   "default_set": {
+      "message": "طے شدہ ترتیب"
+   },
+   "delete": {
+      "message": "ہٹائیں"
+   },
+   "deleteAlert": {
+      "message": "کیا آپ واقعی ہٹانا چاہتے ہیں؟"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "نامعلوم خرابی واقع ہوئی!"
+   },
+   "error_upload_snap": {
+      "message": "سنیپ شاٹ اپ لوڈ کرنے میں خرابی!"
+   },
+   "exist_info": {
+      "message": "ویب صفحہ محفوظ کر لیا گیا ہے!"
+   },
+   "exitUploading": {
+      "message": "اپ لوڈ ہو رہا ہے، کیا آپ واقعی چھوڑنا چاہتے ہیں؟"
+   },
+   "favMyTags": {
+      "message": "میرے ٹیگز"
+   },
+   "favOption": {
+      "message": "آپشن"
+   },
+   "favSuggestTag": {
+      "message": "تجویز کردہ ٹیگز"
+   },
+   "favTag": {
+      "message": "ٹیگ"
+   },
+   "favTagLengthOver": {
+      "message": "ٹیگ بہت طویل ہے"
+   },
+   "favTagNumOver": {
+      "message": "ٹیگز کی تعداد حد سے تجاوز کر چکی ہے!"
+   },
+   "favTagPlaceholder": {
+      "message": "ٹیگز"
+   },
+   "favTitle": {
+      "message": "عنوان"
+   },
+   "favUrl": {
+      "message": "لنک"
+   },
+   "fav_edit": {
+      "message": "مجموعہ میں ترمیم کریں"
+   },
+   "fav_success": {
+      "message": "کامیابی سے محفوظ ہو گیا!"
+   },
+   "fav_success_edit": {
+      "message": "محفوظ کامیابی - ترمیم"
+   },
+   "forgetPsw": {
+      "message": "پاس ورڈ بھول گئے؟"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD اسکرین شاٹ)"
+   },
+   "history": {
+      "message": "تاریخچہ"
+   },
+   "historyClear": {
+      "message": "صاف کریں"
+   },
+   "historyClearAll": {
+      "message": "تمام ریکارڈز صاف کریں"
+   },
+   "historyClearConfirm": {
+      "message": "تمام اسکرین شاٹ تاریخچہ صاف کریں؟"
+   },
+   "historyClearDialogTitle": {
+      "message": "تاریخچہ صاف کریں"
+   },
+   "historyClearOlder1Month": {
+      "message": "1 ماہ سے پرانے ریکارڈز صاف کریں"
+   },
+   "historyClearOlder3Months": {
+      "message": "3 ماہ سے پرانے ریکارڈز صاف کریں"
+   },
+   "historyDelete": {
+      "message": "حذف کریں"
+   },
+   "historyEmpty": {
+      "message": "ابھی تک اسکرین شاٹس کی کوئی تاریخ موجود نہیں ہے۔"
+   },
+   "historyUnknownDomain": {
+      "message": "نامعلوم ڈومین"
+   },
+   "iframe_capture": {
+      "message": "iframe نیسٹنگ پایا گیا! براہ کرم مکمل اسکرین شاٹ دوبارہ لیں"
+   },
+   "img": {
+      "message": "تصویر"
+   },
+   "imgCaptcha": {
+      "message": "کیپچا"
+   },
+   "imgCodeInput": {
+      "message": "تصویری توثیقی کوڈ درج کریں!"
+   },
+   "issueContentAdd": {
+      "message": "مسئلے کی مختصر وضاحت"
+   },
+   "issueEmail": {
+      "message": "ای میل"
+   },
+   "issueTitleAdd": {
+      "message": "عنوان شامل کریں"
+   },
+   "issueUrl": {
+      "message": "لنک"
+   },
+   "like_body": {
+      "message": "ایک مفید پروگرام کی ترقی کے لیے بہت محنت درکار ہوتی ہے، اور ہمیں خوشی ہے کہ آپ کو یہ پسند آیا!<br /><br />کیا آپ ایک منٹ نکال کر ہمیں پانچ ستاروں کی ریویو دے سکتے ہیں؟ یہ ہمارے لیے بہت مددگار ہوگا۔ :)"
+   },
+   "like_no_thanks": {
+      "message": "نہیں، شکریہ"
+   },
+   "like_title": {
+      "message": "کیا آپ کو یہ ٹول پسند آیا؟"
+   },
+   "like_yes": {
+      "message": "جی ہاں"
+   },
+   "loading": {
+      "message": "لوڈ ہو رہا ہے"
+   },
+   "loginCodeResend": {
+      "message": "دوبارہ بھیجیں"
+   },
+   "loginCodeSent": {
+      "message": "بھیج دیا گیا"
+   },
+   "loginSignUp": {
+      "message": "لاگ ان / سائن اپ"
+   },
+   "login_refresh": {
+      "message": "لاگ ان کرنے کے بعد ریفریش کریں"
+   },
+   "msg_title": {
+      "message": "ٹپ - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "متعدد علاقے ملے، ایک منتخب کریں۔"
+   },
+   "my_collections": {
+      "message": "میری کلیکشنز"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "نیٹ ورک درخواست میں خرابی!"
+   },
+   "noSupportMultiPic": {
+      "message": "متعدد تصاویر کی کراپنگ کی حمایت نہیں کی جاتی"
+   },
+   "not_support": {
+      "message": "OpenCapture ایکسٹینشن میں خوش آمدید۔ آپ اسے کسی بھی ویب صفحے پر چلا سکتے ہیں، سوائے ان صفحات کے جہاں براؤزر ایکسٹینشنز کو اسکرپٹس چلانے کی اجازت نہیں دیتا۔<br /><br />ویب پر کسی اور صفحے پر آزمائیں، جیسے کہ <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">یہ والا</a>۔ مزے کریں! <br /><br />براؤزر حفاظتی وجوہات کی بنا پر کچھ URL تک رسائی کی اجازت نہیں دیتا، جیسے کہ ویب اسٹور گیلری، دیگر ایکسٹینشنز، اور chrome:// یا extension:// والے URLs۔ <b>موجودہ صفحہ ایک محدود URL لگتا ہے۔</b><br /><br />مزید سوالات کے لیے ہم سے رابطہ کریں:<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "اختیاری"
+   },
+   "page_not_ready": {
+      "message": "لوڈ ہو رہا ہے، بعد میں دوبارہ کوشش کریں۔"
+   },
+   "permissionDownloadsDenied": {
+      "message": "آپ نے ڈاؤن لوڈ مینجمنٹ کی اجازت کو مسترد کر دیا ہے"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium فعال ہے۔"
+   },
+   "premium_active_price": {
+      "message": "سالانہ سبسکرپشن فعال"
+   },
+   "premium_active_subtitle": {
+      "message": "اس براؤزر انسٹال میں تمام Premium موڈ کھل گئے ہیں۔"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium فعال ہے"
+   },
+   "premium_all_free": {
+      "message": "Free کی تمام چیزیں"
+   },
+   "premium_back": {
+      "message": "واپس"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture پر واپس"
+   },
+   "premium_cloud": {
+      "message": "Google Drive پر اپ لوڈ"
+   },
+   "premium_feature_title_default": {
+      "message": "یہ Premium خصوصیت"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD فل پیج کیپچر"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "طویل صفحہ تقسیم شدہ کیپچر"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "اسکرول ایریا کیپچر"
+   },
+   "premium_free_edit": {
+      "message": "نوٹ، کراپ، کاپی، پرنٹ، PDF/JPG/PNG ایکسپورٹ"
+   },
+   "premium_free_full": {
+      "message": "اسکرول کے ساتھ پورا صفحہ کیپچر کریں"
+   },
+   "premium_free_hd": {
+      "message": "HD فل پیج کیپچر: 5 مفت ٹرائل"
+   },
+   "premium_free_long_page_split": {
+      "message": "طویل صفحہ تقسیم شدہ کیپچر"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "روزمرہ اسکرین شاٹس کے لیے"
+   },
+   "premium_free_scrollable": {
+      "message": "اسکرول ایریا کیپچر: 5 مفت ٹرائل"
+   },
+   "premium_free_visible": {
+      "message": "نظر آنے والا حصہ کیپچر کریں"
+   },
+   "premium_future": {
+      "message": "آئندہ Premium خصوصیات تک رسائی"
+   },
+   "premium_hd": {
+      "message": "لامحدود HD فل پیج کیپچر"
+   },
+   "premium_long_page_split": {
+      "message": "مزید ہسٹری جگہ"
+   },
+   "premium_manage": {
+      "message": "منظم کریں"
+   },
+   "premium_manage_subscription": {
+      "message": "رکنیت کا نظم کریں"
+   },
+   "premium_mode_switching": {
+      "message": "لائٹ/ڈارک موڈ تبدیلی"
+   },
+   "premium_notice_low": {
+      "message": "{feature} کے لیے آپ کے مفت ٹرائل تقریباً ختم ہیں۔ باقی: {remaining}۔"
+   },
+   "premium_notice_no_feature": {
+      "message": "مزید جدید خصوصیات کھولنے کے لیے Premium میں اپ گریڈ کریں۔"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} کے لیے آپ کے مفت ٹرائل ختم ہو گئے ہیں۔"
+   },
+   "premium_opening_portal": {
+      "message": "کھل رہا ہے..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe کھل رہا ہے..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "رکنیت کے انتظام کو کھولا نہیں جا سکا۔"
+   },
+   "premium_portal_error_full": {
+      "message": "سبسکرپشن مینجمنٹ نہیں کھل سکی۔ بعد میں دوبارہ کوشش کریں۔"
+   },
+   "premium_portal_opening": {
+      "message": "کھولا جا رہا ہے..."
+   },
+   "premium_price": {
+      "message": "سالانہ سبسکرپشن"
+   },
+   "premium_restore_guide": {
+      "message": "پہلے خریدا ہے یا دوبارہ انسٹال کیا؟"
+   },
+   "premium_restore_link": {
+      "message": "Premium بحال کریں"
+   },
+   "premium_scrollable": {
+      "message": "لامحدود اسکرول ایریا کیپچر"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe ادائیگی لنک نہیں کھل سکا۔ بعد میں دوبارہ کوشش کریں۔"
+   },
+   "premium_subtitle": {
+      "message": "Premium تمام موڈ کھولتا ہے، بشمول HD فل پیج اور اسکرول ایریا کیپچر۔"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "موڈ بدلنے کے لیے Premium میں اپ گریڈ کریں۔"
+   },
+   "premium_title": {
+      "message": "ہمیں سپورٹ کریں اور OpenCapture Premium میں اپ گریڈ کریں"
+   },
+   "premium_unknown_date": {
+      "message": "نامعلوم"
+   },
+   "premium_upgrade": {
+      "message": "Premium میں اپ گریڈ"
+   },
+   "premium_valid_until": {
+      "message": "تک درست"
+   },
+   "print": {
+      "message": "پرنٹ کریں"
+   },
+   "privacy": {
+      "message": "رازداری"
+   },
+   "privateBeizhu": {
+      "message": "نجی نوٹس"
+   },
+   "refresh_effective": {
+      "message": "ریفریش کرنے کے بعد مؤثر ہوگا"
+   },
+   "reportIssue": {
+      "message": "مسئلہ رپورٹ کریں"
+   },
+   "saveUrl2Private": {
+      "message": "نجی"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "نجی طور پر محفوظ کریں، صرف اپنے لیے مرئی"
+   },
+   "saveUrl2Public": {
+      "message": "عوامی"
+   },
+   "saveUrl2Snap": {
+      "message": "سنیپ شاٹ"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "ویب صفحہ کا سنیپ شاٹ محفوظ کریں"
+   },
+   "savedFileNameByTile": {
+      "message": "عنوان کے مطابق"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "مثال: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "وقت کے مطابق"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "مثال: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "فائل کا نام"
+   },
+   "scrollable_area_no": {
+      "message": "کوئی قابل اسکرول علاقہ نہیں ملا۔"
+   },
+   "sendMailCode": {
+      "message": "بھیجیں"
+   },
+   "setting_appearance": {
+      "message": "ظاہری شکل"
+   },
+   "setting_cloud_upload_format": {
+      "message": "کلاؤڈ اپ لوڈ فارمیٹ"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "اسکرین شاٹس کو کلاؤڈ ڈرائیو پر اپ لوڈ کرتے وقت فائل فارمیٹ منتخب کریں۔"
+   },
+   "setting_default_private": {
+      "message": "طے شدہ نجی"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper میں محفوظ کرتے وقت بطور طے شدہ نجی سیٹ کریں۔"
+   },
+   "setting_down_image_format": {
+      "message": "تصویر محفوظ کریں"
+   },
+   "setting_down_image_format_info": {
+      "message": "اپنے اسکرین شاٹس کے لیے تصویر کا فارمیٹ منتخب کریں۔"
+   },
+   "setting_download": {
+      "message": "ڈاؤن لوڈ"
+   },
+   "setting_download_save_as": {
+      "message": "بطور محفوظ کریں"
+   },
+   "setting_download_save_as_info": {
+      "message": "اسکرین شاٹس ڈاؤن لوڈ کرتے وقت \"بطور محفوظ کریں\" ڈائیلاگ دکھائیں۔"
+   },
+   "setting_more": {
+      "message": "مزید ترتیبات"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "صفحہ کی مارجن"
+   },
+   "setting_pdf_margin_info": {
+      "message": "صفحے کے مارجن کی وضاحت کریں، یونٹ pt، مقررہ حد (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "کاغذ کا سائز"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF برآمد کرتے وقت کاغذ کا سائز مقرر کریں۔"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper میں محفوظ کرنے کا ڈائیلاگ دکھائیں"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "ویب صفحہ کا سنیپ شاٹ محفوظ کرنے کے لیے YesKeeper میں محفوظ کرنے کا ڈائیلاگ دکھائیں"
+   },
+   "setting_theme_mode": {
+      "message": "موڈ"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture صفحات کے لیے ڈسپلے تھیم منتخب کریں۔"
+   },
+   "settings": {
+      "message": "ترتیبات"
+   },
+   "signInWithApple": {
+      "message": "ایپل کے ساتھ سائن ان کریں"
+   },
+   "signInWithGoogle": {
+      "message": "گوگل کے ساتھ سائن ان کریں"
+   },
+   "signInWithMicrosoft": {
+      "message": "مائیکروسافٹ کے ساتھ سائن ان کریں"
+   },
+   "signUpAgreement": {
+      "message": "سائن اپ کر کے، آپ YesKeeper کے <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">صارف سروس معاہدے</a> اور <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">رازداری کی پالیسی</a> سے اتفاق کرتے ہیں"
+   },
+   "site_item1": {
+      "message": "ویب صفحہ کا سنیپ شاٹ"
+   },
+   "site_item2": {
+      "message": "کلاؤڈ بُک مارکس"
+   },
+   "site_item3": {
+      "message": "بعد میں پڑھیں"
+   },
+   "site_language": {
+      "message": "زبان"
+   },
+   "site_login": {
+      "message": "لاگ ان کریں"
+   },
+   "site_reg": {
+      "message": "سائن اپ کریں"
+   },
+   "snap_shot_prepare": {
+      "message": "اسکرین اسکرول کرنے اور سنیپ شاٹ اپ لوڈ کرنے کی تیاری ہو رہی ہے"
+   },
+   "snap_shot_uploading": {
+      "message": "سنیپ شاٹ اپ لوڈ ہو رہا ہے..."
+   },
+   "splitMultiImages": {
+      "message": "نوٹ: یہ صفحہ بہت بڑا ہے، براؤزر اسے ایک تصویر کے طور پر کیپچر نہیں کر سکتا۔ اسے متعدد تصاویر میں تقسیم کیا جائے گا۔"
+   },
+   "stop_scrolling": {
+      "message": "اسکرول روکیں"
+   },
+   "submitFalse": {
+      "message": "جمع کرانے میں ناکامی!"
+   },
+   "tags_no": {
+      "message": "کوئی ٹیگز نہیں"
+   },
+   "theme_dark": {
+      "message": "تاریک"
+   },
+   "theme_follow_system": {
+      "message": "سسٹم کی پیروی کریں"
+   },
+   "theme_light": {
+      "message": "روشن"
+   },
+   "tryAgainLater": {
+      "message": "لوڈ ہو رہا ہے، براہ کرم بعد میں دوبارہ کوشش کریں"
+   },
+   "uploadToCloudDrive": {
+      "message": "کلاؤڈ ڈرائیو پر اپ لوڈ کریں"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "اپ لوڈ ناکام ہو گیا"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "کامیابی سے اپ لوڈ ہو گیا"
+   },
+   "viewMyCollections": {
+      "message": "میری کلیکشنز دیکھیں"
+   },
+   "vip": {
+      "message": "پرو"
+   }
+}

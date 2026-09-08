@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "যাচাইকরণ কোড"
+   },
+   "accountLogin": {
+      "message": "অ্যাকাউন্ট পাসওয়ার্ড দিয়ে লগ ইন"
+   },
+   "add": {
+      "message": "যোগ করুন"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "প্রথমে ডাউনলোড ম্যানেজমেন্ট অনুমতি অথোরাইজ করুন"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "ডাউনলোড ম্যানেজমেন্ট অনুমতি অথোরাইজ করুন"
+   },
+   "auto_clase": {
+      "message": "স্বয়ংক্রিয়ভাবে উইন্ডো বন্ধ করুন"
+   },
+   "bar_copy": {
+      "message": "কপি"
+   },
+   "bar_save": {
+      "message": "সংরক্ষণ"
+   },
+   "btn_cancel": {
+      "message": "বাতিল"
+   },
+   "btn_lock": {
+      "message": "ব্যক্তিগত"
+   },
+   "btn_ok": {
+      "message": "ঠিক আছে"
+   },
+   "btn_remove": {
+      "message": "অপসারণ"
+   },
+   "btn_snap": {
+      "message": "স্ন্যাপশট"
+   },
+   "btn_submit": {
+      "message": "জমা দিন"
+   },
+   "btn_view": {
+      "message": "দেখুন"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF হিসেবে সংরক্ষণ করুন"
+   },
+   "captureAllPage": {
+      "message": "সম্পূর্ণ পৃষ্ঠা ক্যাপচার করুন"
+   },
+   "captureAnnotate": {
+      "message": "অ্যানোটেশন"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "এই স্ক্রিনশট আপলোড করুন"
+   },
+   "captureClickAnnotate": {
+      "message": "অ্যানোটেট করতে স্ক্রিনশটে ক্লিক করুন"
+   },
+   "captureDownload": {
+      "message": "ছবি সংরক্ষণ করুন"
+   },
+   "captureHighResAllPage": {
+      "message": "সম্পূর্ণ পৃষ্ঠা HD"
+   },
+   "capturePage": {
+      "message": "দৃশ্যমান অংশ ক্যাপচার করুন"
+   },
+   "capturePageCurrentPosition": {
+      "message": "বর্তমান অবস্থান থেকে ক্যাপচার"
+   },
+   "captureScrollable": {
+      "message": "স্ক্রলযোগ্য অংশ ধরুন"
+   },
+   "captureSelection": {
+      "message": "নির্বাচিত অংশ ক্যাপচার করুন"
+   },
+   "capture_interrupted": {
+      "message": "ট্যাব পরিবর্তন সনাক্ত হয়েছে, স্ক্রিনশট বন্ধ!"
+   },
+   "capture_scroll": {
+      "message": "এটা ধরুন"
+   },
+   "clickSel": {
+      "message": "নির্বাচন করতে ক্লিক করুন"
+   },
+   "clickUnfold": {
+      "message": "খুলতে ক্লিক করুন"
+   },
+   "close": {
+      "message": "বন্ধ করুন"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "ছবি কপি করতে ব্যর্থ"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "ছবি ক্লিপবোর্ডে কপি করা হয়েছে"
+   },
+   "copyNotSupport": {
+      "message": "আপনার ব্রাউজার ছবি কপি করতে সমর্থন করে না!"
+   },
+   "copyToClipBoard": {
+      "message": "ক্লিপবোর্ডে কপি করুন"
+   },
+   "copy_false": {
+      "message": "কপি ব্যর্থ হয়েছে!"
+   },
+   "copy_success": {
+      "message": "ক্লিপবোর্ডে কপি করা হয়েছে!"
+   },
+   "crop": {
+      "message": "ক্রপ"
+   },
+   "default_set": {
+      "message": "ডিফল্ট সেটিং"
+   },
+   "delete": {
+      "message": "অপসারণ"
+   },
+   "deleteAlert": {
+      "message": "নিশ্চিতভাবে অপসারণ করবেন?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "অজানা ত্রুটি ঘটেছে!"
+   },
+   "error_upload_snap": {
+      "message": "স্ন্যাপশট আপলোডে ত্রুটি!"
+   },
+   "exist_info": {
+      "message": "ওয়েবপৃষ্ঠাটি ইতিমধ্যে সংরক্ষিত!"
+   },
+   "exitUploading": {
+      "message": "আপলোড হচ্ছে, আপনি কি নিশ্চিতভাবে প্রস্থান করতে চান?"
+   },
+   "favMyTags": {
+      "message": "আমার ট্যাগ"
+   },
+   "favOption": {
+      "message": "অপশন"
+   },
+   "favSuggestTag": {
+      "message": "ট্যাগ সুপারিশ"
+   },
+   "favTag": {
+      "message": "ট্যাগ"
+   },
+   "favTagLengthOver": {
+      "message": "ট্যাগ খুব দীর্ঘ"
+   },
+   "favTagNumOver": {
+      "message": "ট্যাগের সংখ্যা সীমা অতিক্রম করেছে!"
+   },
+   "favTagPlaceholder": {
+      "message": "ট্যাগ"
+   },
+   "favTitle": {
+      "message": "শিরোনাম"
+   },
+   "favUrl": {
+      "message": "লিংক"
+   },
+   "fav_edit": {
+      "message": "সংগ্রহ সম্পাদনা"
+   },
+   "fav_success": {
+      "message": "সফলভাবে সংরক্ষিত!"
+   },
+   "fav_success_edit": {
+      "message": "সফলভাবে সংরক্ষণ করা হয়েছে - সম্পাদনা"
+   },
+   "forgetPsw": {
+      "message": "পাসওয়ার্ড ভুলে গেছেন?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD স্ক্রিনশট)"
+   },
+   "history": {
+      "message": "ইতিহাস"
+   },
+   "historyClear": {
+      "message": "মুছুন"
+   },
+   "historyClearAll": {
+      "message": "সব রেকর্ড মুছে ফেলুন"
+   },
+   "historyClearConfirm": {
+      "message": "সমস্ত স্ক্রিনশটের ইতিহাস মুছে ফেলবেন?"
+   },
+   "historyClearDialogTitle": {
+      "message": "ইতিহাস মুছুন"
+   },
+   "historyClearOlder1Month": {
+      "message": "১ মাসের বেশি পুরোনো রেকর্ড মুছুন"
+   },
+   "historyClearOlder3Months": {
+      "message": "৩ মাসের বেশি পুরোনো রেকর্ড মুছুন"
+   },
+   "historyDelete": {
+      "message": "মুছে ফেলুন"
+   },
+   "historyEmpty": {
+      "message": "এখনও কোনো স্ক্রিনশটের ইতিহাস নেই।"
+   },
+   "historyUnknownDomain": {
+      "message": "অজানা ডোমেইন"
+   },
+   "iframe_capture": {
+      "message": "iframe নেস্টিং পাওয়া গেছে! স্বয়ংক্রিয়ভাবে খোলা পৃষ্ঠায় আবার সম্পূর্ণ স্ক্রিনশট নিন"
+   },
+   "img": {
+      "message": "ছবি"
+   },
+   "imgCaptcha": {
+      "message": "ক্যাপচা"
+   },
+   "imgCodeInput": {
+      "message": "ছবি যাচাইকরণ কোড লিখুন!"
+   },
+   "issueContentAdd": {
+      "message": "সমস্যার সংক্ষিপ্ত বর্ণনা"
+   },
+   "issueEmail": {
+      "message": "ইমেইল:"
+   },
+   "issueTitleAdd": {
+      "message": "একটি শিরোনাম যোগ করুন"
+   },
+   "issueUrl": {
+      "message": "লিংক:"
+   },
+   "like_body": {
+      "message": "একটি দুর্দান্ত অ্যাপ তৈরি করতে অনেক পরিশ্রম লাগে, এবং আমরা আনন্দিত যে এটি আপনার ভালো লেগেছে!<br /><br />আপনি কি এক মিনিট সময় নিয়ে আমাদের পাঁচ তারকা রেটিং দিতে পারেন? এটি আমাদের জন্য সত্যিই সহায়ক হবে :)"
+   },
+   "like_no_thanks": {
+      "message": "না, ধন্যবাদ"
+   },
+   "like_title": {
+      "message": "আপনি কি এই অ্যাপটি পছন্দ করছেন?"
+   },
+   "like_yes": {
+      "message": "নিশ্চিত"
+   },
+   "loading": {
+      "message": "লোড হচ্ছে"
+   },
+   "loginCodeResend": {
+      "message": "পুনরায় পাঠান"
+   },
+   "loginCodeSent": {
+      "message": "পাঠানো হয়েছে"
+   },
+   "loginSignUp": {
+      "message": "লগ ইন / নিবন্ধন"
+   },
+   "login_refresh": {
+      "message": "লগইন করার পর রিফ্রেশ করুন"
+   },
+   "msg_title": {
+      "message": "টিপ - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "একাধিক অংশ, একটি বেছে নিন।"
+   },
+   "my_collections": {
+      "message": "আমার সংগ্রহ"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "নেটওয়ার্ক অনুরোধে ত্রুটি!"
+   },
+   "noSupportMultiPic": {
+      "message": "একাধিক ছবি ক্রপিং সমর্থিত নয়"
+   },
+   "not_support": {
+      "message": "OpenCapture এক্সটেনশনে স্বাগতম। আপনি যেকোনো ওয়েবপৃষ্ঠায় এটি চালাতে পারেন, যেসব পৃষ্ঠায় ব্রাউজার এক্সটেনশনগুলিকে স্ক্রিপ্ট চালানো থেকে নিষিদ্ধ করে সেগুলি বাদে। এর মধ্যে রয়েছে এক্সটেনশন ওয়েব স্টোর, ব্রাউজার সেটিংস পৃষ্ঠা এবং অন্যান্য এক্সটেনশন।<br /><br />ওয়েবের অন্য কোনো পৃষ্ঠা চেষ্টা করুন, যেমন <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">এইটি</a>। আনন্দ করুন! <br /><br />ব্রাউজার নিরাপত্তার কারণে কিছু URL-এ অ্যাক্সেসের অনুমতি দেয় না। এর মধ্যে রয়েছে ওয়েব স্টোর গ্যালারি, অন্যান্য এক্সটেনশন এবং chrome://, extension:// URL। <b>বর্তমান পৃষ্ঠাটি একটি সীমিত URL বলে মনে হচ্ছে।</b><br /><br />অতিরিক্ত প্রশ্নের জন্য আমাদের সাথে যোগাযোগ করুন।<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "ঐচ্ছিক"
+   },
+   "page_not_ready": {
+      "message": "লোড হচ্ছে, পরে চেষ্টা করুন।"
+   },
+   "permissionDownloadsDenied": {
+      "message": "আপনি ডাউনলোড ম্যানেজমেন্ট অনুমতি অস্বীকার করেছেন"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium সক্রিয়।"
+   },
+   "premium_active_price": {
+      "message": "বার্ষিক সাবস্ক্রিপশন সক্রিয়"
+   },
+   "premium_active_subtitle": {
+      "message": "এই ব্রাউজার ইনস্টলে সব Premium মোড খোলা আছে।"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium সক্রিয়"
+   },
+   "premium_all_free": {
+      "message": "Free-এর সবকিছু"
+   },
+   "premium_back": {
+      "message": "ফিরে যান"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture-এ ফিরে যান"
+   },
+   "premium_cloud": {
+      "message": "Google Drive-এ আপলোড"
+   },
+   "premium_feature_title_default": {
+      "message": "এই Premium ফিচার"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD পূর্ণ-পৃষ্ঠা ক্যাপচার"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "দীর্ঘ পৃষ্ঠা ভাগ করে ক্যাপচার"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "স্ক্রলযোগ্য এলাকা ক্যাপচার"
+   },
+   "premium_free_edit": {
+      "message": "অ্যানোটেট, ক্রপ, কপি, প্রিন্ট, PDF/JPG/PNG এক্সপোর্ট"
+   },
+   "premium_free_full": {
+      "message": "স্ক্রল করে পুরো পৃষ্ঠা ক্যাপচার"
+   },
+   "premium_free_hd": {
+      "message": "HD পূর্ণ-পৃষ্ঠা ক্যাপচার: ৫টি বিনামূল্যের ট্রায়াল"
+   },
+   "premium_free_long_page_split": {
+      "message": "দীর্ঘ পৃষ্ঠা ভাগ করে ক্যাপচার"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "দৈনন্দিন স্ক্রিনশটের জন্য"
+   },
+   "premium_free_scrollable": {
+      "message": "স্ক্রলযোগ্য এলাকা ক্যাপচার: ৫টি বিনামূল্যের ট্রায়াল"
+   },
+   "premium_free_visible": {
+      "message": "দৃশ্যমান অংশ ক্যাপচার"
+   },
+   "premium_future": {
+      "message": "ভবিষ্যতের Premium ফিচারে প্রবেশ"
+   },
+   "premium_hd": {
+      "message": "সীমাহীন HD পূর্ণ-পৃষ্ঠা ক্যাপচার"
+   },
+   "premium_long_page_split": {
+      "message": "আরও ইতিহাসের জায়গা"
+   },
+   "premium_manage": {
+      "message": "পরিচালনা"
+   },
+   "premium_manage_subscription": {
+      "message": "সাবস্ক্রিপশন পরিচালনা করুন"
+   },
+   "premium_mode_switching": {
+      "message": "লাইট/ডার্ক মোড বদল"
+   },
+   "premium_notice_low": {
+      "message": "{feature}-এর বিনামূল্যের ট্রায়াল প্রায় শেষ। বাকি: {remaining}।"
+   },
+   "premium_notice_no_feature": {
+      "message": "আরও উন্নত ফিচার খুলতে Premium-এ আপগ্রেড করুন।"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature}-এর বিনামূল্যের ট্রায়াল শেষ হয়েছে।"
+   },
+   "premium_opening_portal": {
+      "message": "খোলা হচ্ছে..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe খোলা হচ্ছে..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "সাবস্ক্রিপশন ব্যবস্থাপনা খুলতে সক্ষম হয়নি।"
+   },
+   "premium_portal_error_full": {
+      "message": "সাবস্ক্রিপশন পরিচালনা খোলা যায়নি। পরে আবার চেষ্টা করুন।"
+   },
+   "premium_portal_opening": {
+      "message": "খোলা হচ্ছে..."
+   },
+   "premium_price": {
+      "message": "বার্ষিক সাবস্ক্রিপশন"
+   },
+   "premium_restore_guide": {
+      "message": "আগে কিনেছেন বা আবার ইনস্টল করেছেন?"
+   },
+   "premium_restore_link": {
+      "message": "Premium পুনরুদ্ধার"
+   },
+   "premium_scrollable": {
+      "message": "সীমাহীন স্ক্রলযোগ্য এলাকা ক্যাপচার"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe পেমেন্ট লিংক খোলা যায়নি। পরে আবার চেষ্টা করুন।"
+   },
+   "premium_subtitle": {
+      "message": "Premium সব মোড খুলে দেয়, HD পূর্ণ-পৃষ্ঠা ও স্ক্রলযোগ্য এলাকা ক্যাপচারসহ।"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "মোড বদলাতে Premium-এ আপগ্রেড করুন।"
+   },
+   "premium_title": {
+      "message": "আমাদের সমর্থন করুন এবং OpenCapture Premium-এ আপগ্রেড করুন"
+   },
+   "premium_unknown_date": {
+      "message": "অজানা"
+   },
+   "premium_upgrade": {
+      "message": "Premium-এ আপগ্রেড"
+   },
+   "premium_valid_until": {
+      "message": "বৈধ থাকবে"
+   },
+   "print": {
+      "message": "প্রিন্ট করুন"
+   },
+   "privacy": {
+      "message": "গোপনীয়তা"
+   },
+   "privateBeizhu": {
+      "message": "ব্যক্তিগত নোট"
+   },
+   "refresh_effective": {
+      "message": "রিফ্রেশ করার পর কার্যকর"
+   },
+   "reportIssue": {
+      "message": "সমস্যা রিপোর্ট করুন"
+   },
+   "saveUrl2Private": {
+      "message": "ব্যক্তিগত"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "ব্যক্তিগত হিসাবে সেট করুন, শুধুমাত্র নিজের জন্য দৃশ্যমান"
+   },
+   "saveUrl2Public": {
+      "message": "সর্বজনীন"
+   },
+   "saveUrl2Snap": {
+      "message": "স্ন্যাপশট"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "ওয়েবপৃষ্ঠা স্ন্যাপশট সংরক্ষণ করুন"
+   },
+   "savedFileNameByTile": {
+      "message": "শিরোনাম অনুযায়ী"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "যেমন: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "সময় অনুযায়ী"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "যেমন: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "ফাইলের নামকরণ"
+   },
+   "scrollable_area_no": {
+      "message": "কোনো স্ক্রলযোগ্য এলাকা পাওয়া যায়নি।"
+   },
+   "sendMailCode": {
+      "message": "পাঠান"
+   },
+   "setting_appearance": {
+      "message": "চেহারা"
+   },
+   "setting_cloud_upload_format": {
+      "message": "ক্লাউড আপলোড ফরম্যাট"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "স্ক্রিনশট ক্লাউড ড্রাইভে আপলোড করার সময় ফাইল ফরম্যাট নির্ধারণ করুন।"
+   },
+   "setting_default_private": {
+      "message": "ডিফল্ট ব্যক্তিগত"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper-এ সংরক্ষণ করার সময় ডিফল্ট ব্যক্তিগত নির্দিষ্ট করুন।"
+   },
+   "setting_down_image_format": {
+      "message": "ছবি সংরক্ষণ করুন"
+   },
+   "setting_down_image_format_info": {
+      "message": "আপনার স্ক্রিনশট ডাউনলোড করার জন্য ছবির ফরম্যাট নির্দিষ্ট করুন।"
+   },
+   "setting_download": {
+      "message": "ডাউনলোড"
+   },
+   "setting_download_save_as": {
+      "message": "হিসাবে সংরক্ষণ করুন"
+   },
+   "setting_download_save_as_info": {
+      "message": "স্ক্রিনশট ডাউনলোড করার সময় \"হিসাবে সংরক্ষণ করুন\" ডায়ালগ দেখান।"
+   },
+   "setting_more": {
+      "message": "আরো সেটিংস"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "পৃষ্ঠার মার্জিন"
+   },
+   "setting_pdf_margin_info": {
+      "message": "পৃষ্ঠার মার্জিন নির্দিষ্ট করুন, একক pt, নির্দিষ্ট পরিসীমা (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "কাগজের আকার"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF এক্সপোর্ট করার জন্য কাগজের আকার নির্দিষ্ট করুন।"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper-এ সংরক্ষণ ডায়ালগ দেখান"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "ওয়েবপৃষ্ঠা স্ন্যাপশট হিসেবে সংরক্ষণের জন্য YesKeeper-এ সংরক্ষণ ডায়ালগ দেখান"
+   },
+   "setting_theme_mode": {
+      "message": "মোড"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture পৃষ্ঠাগুলোর জন্য প্রদর্শনের থিম নির্বাচন করুন।"
+   },
+   "settings": {
+      "message": "সেটিংস"
+   },
+   "signInWithApple": {
+      "message": "Apple-এর সাথে সাইন ইন করুন"
+   },
+   "signInWithGoogle": {
+      "message": "Google-এর সাথে সাইন ইন করুন"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoft-এর সাথে সাইন ইন করুন"
+   },
+   "signUpAgreement": {
+      "message": "নিবন্ধন করে, আপনি YesKeeper-এর <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">ব্যবহারকারী সেবা চুক্তি</a> এবং <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">গোপনীয়তা নীতি</a> মেনে নেন"
+   },
+   "site_item1": {
+      "message": "ওয়েবপৃষ্ঠা স্ন্যাপশট"
+   },
+   "site_item2": {
+      "message": "ক্লাউড বুকমার্ক"
+   },
+   "site_item3": {
+      "message": "পরে পড়ুন"
+   },
+   "site_language": {
+      "message": "ভাষা"
+   },
+   "site_login": {
+      "message": "লগ ইন"
+   },
+   "site_reg": {
+      "message": "নিবন্ধন"
+   },
+   "snap_shot_prepare": {
+      "message": "স্ক্রিন স্ক্রল এবং স্ন্যাপশট আপলোডের প্রস্তুতি নিচ্ছে"
+   },
+   "snap_shot_uploading": {
+      "message": "স্ন্যাপশট আপলোড হচ্ছে..."
+   },
+   "splitMultiImages": {
+      "message": "নোট: এই পৃষ্ঠাটি খুব বড় হওয়ায় ব্রাউজারে একটি ছবি হিসেবে ক্যাপচার করা সম্ভব নয়। এটি একাধিক ছবিতে বিভক্ত করা হবে।"
+   },
+   "stop_scrolling": {
+      "message": "স্ক্রল বন্ধ করুন"
+   },
+   "submitFalse": {
+      "message": "জমা দেওয়া ব্যর্থ!"
+   },
+   "tags_no": {
+      "message": "কোনো ট্যাগ নেই"
+   },
+   "theme_dark": {
+      "message": "গাঢ়"
+   },
+   "theme_follow_system": {
+      "message": "সিস্টেম অনুসরণ করুন"
+   },
+   "theme_light": {
+      "message": "হালকা"
+   },
+   "tryAgainLater": {
+      "message": "লোড হচ্ছে, অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন"
+   },
+   "uploadToCloudDrive": {
+      "message": "ক্লাউড ড্রাইভে আপলোড করুন"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "আপলোড ব্যর্থ হয়েছে"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "সফলভাবে আপলোড হয়েছে"
+   },
+   "viewMyCollections": {
+      "message": "আমার সংগ্রহ দেখুন"
+   },
+   "vip": {
+      "message": "প্রো"
+   }
+}

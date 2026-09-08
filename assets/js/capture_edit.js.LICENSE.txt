@@ -1,0 +1,5 @@
+/*! For license information please see cropro.js.LICENSE.txt */
+
+/*! For license information please see jspdf.umd.js.LICENSE.txt */
+
+/*! For license information please see popper.js.LICENSE.txt */

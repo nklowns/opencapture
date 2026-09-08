@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "رمز التحقق"
+   },
+   "accountLogin": {
+      "message": "دخول بحساب و كلمة المرور"
+   },
+   "add": {
+      "message": "إضافة"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "يرجى أخذ إذن إدارة التنزيل أولاً"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "أذونات تنزيل إدارة التفويضات"
+   },
+   "auto_clase": {
+      "message": "إغلاق النافذة تلقائيًا"
+   },
+   "bar_copy": {
+      "message": "نسخ"
+   },
+   "bar_save": {
+      "message": "حفظ"
+   },
+   "btn_cancel": {
+      "message": "إلغاء"
+   },
+   "btn_lock": {
+      "message": "خاص"
+   },
+   "btn_ok": {
+      "message": "موافق"
+   },
+   "btn_remove": {
+      "message": "حذف"
+   },
+   "btn_snap": {
+      "message": "لقطة"
+   },
+   "btn_submit": {
+      "message": "إرسال"
+   },
+   "btn_view": {
+      "message": "عرض"
+   },
+   "capture2pdfDownload": {
+      "message": "حفظ كـ PDF"
+   },
+   "captureAllPage": {
+      "message": "التقاط الصفحة كاملة"
+   },
+   "captureAnnotate": {
+      "message": "تحرير لقطات الشاشة"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "نقل صورة الشاشة هذه"
+   },
+   "captureClickAnnotate": {
+      "message": "انقر على لقطة الشاشة أدناه لإضافة التعليقات التوضيحية"
+   },
+   "captureDownload": {
+      "message": "حفظ الصورة"
+   },
+   "captureHighResAllPage": {
+      "message": "الصفحة كاملة بدقة عالية"
+   },
+   "capturePage": {
+      "message": "التقاط الجزء الظاهر"
+   },
+   "capturePageCurrentPosition": {
+      "message": "التقاط من الموضع الحالي"
+   },
+   "captureScrollable": {
+      "message": "التقاط مناطق قابلة للتمرير"
+   },
+   "captureSelection": {
+      "message": "التقاط التحديد"
+   },
+   "capture_interrupted": {
+      "message": "تم الكشف عن تبديل علامة التبويب، تم إيقاف لقطة الشاشة!"
+   },
+   "capture_scroll": {
+      "message": "التقاط هذا"
+   },
+   "clickSel": {
+      "message": "انقر لاختيار"
+   },
+   "clickUnfold": {
+      "message": "انقر للتوسيع"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "فشل في نسخ الصورة"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "تم نسخ لقطة الشاشة إلى الحافظة"
+   },
+   "copyNotSupport": {
+      "message": "لا يدعم المتصفحك نسخ الصور!"
+   },
+   "copyToClipBoard": {
+      "message": "نسخ إلى لوحة القص"
+   },
+   "copy_false": {
+      "message": "فشلت النسخ!"
+   },
+   "copy_success": {
+      "message": "تم نسخه إلى الحافظة!"
+   },
+   "crop": {
+      "message": "تقليم"
+   },
+   "default_set": {
+      "message": " الإعدادات الافتراضية"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "deleteAlert": {
+      "message": "هل أنت متأكد من أنك تريد الحذف؟"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "حدث خطأ غير معروف!"
+   },
+   "error_upload_snap": {
+      "message": "خطأ في تحميل صورة الشاشة!"
+   },
+   "exist_info": {
+      "message": "تم حفظ الصفحة الويب!"
+   },
+   "exitUploading": {
+      "message": "الملف قيد التحميل، هل أنت متأكد أنك تريد مغادرة الصفحة؟"
+   },
+   "favMyTags": {
+      "message": "فئاتي"
+   },
+   "favOption": {
+      "message": "خيارات"
+   },
+   "favSuggestTag": {
+      "message": "الفئات الموصى بها"
+   },
+   "favTag": {
+      "message": "صنف"
+   },
+   "favTagLengthOver": {
+      "message": "نص التصنيف طويل جدًا"
+   },
+   "favTagNumOver": {
+      "message": "تجاوز الحد الأقصى لعدد التصنيفات"
+   },
+   "favTagPlaceholder": {
+      "message": "صنف"
+   },
+   "favTitle": {
+      "message": "عنوان"
+   },
+   "favUrl": {
+      "message": "URL"
+   },
+   "fav_edit": {
+      "message": "يحرر"
+   },
+   "fav_success": {
+      "message": "تم الحفظ بنجاح!"
+   },
+   "fav_success_edit": {
+      "message": "تم الحفظ بنجاح - تعديل"
+   },
+   "forgetPsw": {
+      "message": "نسيت كلمة المرور؟"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(لقطة شاشة عالية الدقة ×2)"
+   },
+   "history": {
+      "message": "السجل"
+   },
+   "historyClear": {
+      "message": "مسح"
+   },
+   "historyClearAll": {
+      "message": "مسح جميع السجلات"
+   },
+   "historyClearConfirm": {
+      "message": "هل تريد مسح سجل لقطات الشاشة بالكامل؟"
+   },
+   "historyClearDialogTitle": {
+      "message": "مسح السجل"
+   },
+   "historyClearOlder1Month": {
+      "message": "مسح السجلات الأقدم من شهر واحد"
+   },
+   "historyClearOlder3Months": {
+      "message": "مسح السجلات الأقدم من 3 أشهر"
+   },
+   "historyDelete": {
+      "message": "حذف"
+   },
+   "historyEmpty": {
+      "message": "لا يوجد سجل لقطات شاشة حتى الآن."
+   },
+   "historyUnknownDomain": {
+      "message": "نطاق غير معروف"
+   },
+   "iframe_capture": {
+      "message": "تم اكتشاف تضمين iframe، يرجى إعادة التقاط الصورة في الصفحة التي تم فتحها تلقائيًا."
+   },
+   "img": {
+      "message": "صورة"
+   },
+   "imgCaptcha": {
+      "message": "رمز التحقق"
+   },
+   "imgCodeInput": {
+      "message": "الرجاء إدخال رمز التحقق"
+   },
+   "issueContentAdd": {
+      "message": "وصف مختصر لل مشكلة"
+   },
+   "issueEmail": {
+      "message": "بريد"
+   },
+   "issueTitleAdd": {
+      "message": "أضف عنوان"
+   },
+   "issueUrl": {
+      "message": "وصلة"
+   },
+   "like_body": {
+      "message": "تطوير تطبيق رائع يتطلب الكثير من الجهد، ونحن سعداء لأنه يعجبك!<br /><br />هل يمكنك تخصيص دقيقة لمنحنا تقييمًا بخمس نجوم؟ سيكون ذلك مفيدًا جدًا لنا :)"
+   },
+   "like_no_thanks": {
+      "message": "لا، شكرًا"
+   },
+   "like_title": {
+      "message": "هل تعجبك هذه التطبيق؟"
+   },
+   "like_yes": {
+      "message": "بالتأكيد"
+   },
+   "loading": {
+      "message": "جاري تحميل"
+   },
+   "loginCodeResend": {
+      "message": "إرسال مرة أخرى"
+   },
+   "loginCodeSent": {
+      "message": "تم الإرسال"
+   },
+   "loginSignUp": {
+      "message": "تسجيل الدخول / التسجيل"
+   },
+   "login_refresh": {
+      "message": "تحديث بعد تسجيل الدخول"
+   },
+   "msg_title": {
+      "message": "نصيحة - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "تم العثور على عدة مناطق، اختر واحدة."
+   },
+   "my_collections": {
+      "message": "مجموعاتي"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "خطأ في الطلب الشبكي!"
+   },
+   "noSupportMultiPic": {
+      "message": "لا يتم دعم قطع صور متعددة"
+   },
+   "not_support": {
+      "message": "مرحبًا بك في استخدام إضافة OpenCapture. يمكنك تشغيل هذه الإضافة على أي صفحة ويب باستثناء الصفحات التي تقيد المتصفح من تشغيل السكربتات. يشمل ذلك متجر الإضافات، صفحات إعدادات المتصفح والإضافات الأخرى. <br /><br />جربها على صفحات أخرى على الإنترنت مثل <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">هذا الرابط</a>. نتمنى لك قضاء وقت ممتع!<br /><br />لأسباب أمنية، لا يسمح المتصفح بالوصول إلى بعض عناوين URL. يشمل ذلك معرض متجر الإضافات، الإضافات الأخرى وعناوين chrome:// و extension://. <b>يبدو أن الصفحة الحالية هي عنوان URL مقيد.</b><br /><br />إذا كانت لديك أي أسئلة أخرى، يرجى الاتصال بنا عبر البريد الإلكتروني: <br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "اختياري"
+   },
+   "page_not_ready": {
+      "message": "يتم التحميل، حاول لاحقاً."
+   },
+   "permissionDownloadsDenied": {
+      "message": "لقد رفضت إعطاء إذن لصلاحيات إدارة التنزيل"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium نشط."
+   },
+   "premium_active_price": {
+      "message": "اشتراك سنوي نشط"
+   },
+   "premium_active_subtitle": {
+      "message": "تم فتح كل أوضاع Premium في تثبيت المتصفح هذا."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium نشط"
+   },
+   "premium_all_free": {
+      "message": "كل ما في Free"
+   },
+   "premium_back": {
+      "message": "رجوع"
+   },
+   "premium_back_to_opencapture": {
+      "message": "العودة إلى OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "الرفع إلى Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "ميزة Premium هذه"
+   },
+   "premium_feature_title_high_res": {
+      "message": "لقطات HD للصفحة كاملة"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "لقطات طويلة مقسمة"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "لقطات المناطق القابلة للتمرير"
+   },
+   "premium_free_edit": {
+      "message": "تعليق، قص، نسخ، طباعة، تصدير PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "التقاط صفحة كاملة بالتمرير"
+   },
+   "premium_free_hd": {
+      "message": "لقطات HD للصفحة كاملة: 5 تجارب مجانية"
+   },
+   "premium_free_long_page_split": {
+      "message": "لقطات طويلة مقسمة"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "مناسب للقطات اليومية"
+   },
+   "premium_free_scrollable": {
+      "message": "لقطات مناطق قابلة للتمرير: 5 تجارب مجانية"
+   },
+   "premium_free_visible": {
+      "message": "التقاط الجزء المرئي"
+   },
+   "premium_future": {
+      "message": "الوصول إلى ميزات Premium المستقبلية"
+   },
+   "premium_hd": {
+      "message": "لقطات HD غير محدودة للصفحة كاملة"
+   },
+   "premium_long_page_split": {
+      "message": "مساحة سجل أكبر"
+   },
+   "premium_manage": {
+      "message": "إدارة"
+   },
+   "premium_manage_subscription": {
+      "message": "إدارة الاشتراك"
+   },
+   "premium_mode_switching": {
+      "message": "تبديل الوضع الفاتح/الداكن"
+   },
+   "premium_notice_low": {
+      "message": "تجاربك المجانية لـ {feature} أوشكت على الانتهاء. المتبقي: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "قم بالترقية إلى Premium لفتح مزيد من الميزات المتقدمة."
+   },
+   "premium_notice_used_up": {
+      "message": "انتهت تجاربك المجانية لـ {feature}."
+   },
+   "premium_opening_portal": {
+      "message": "جارٍ الفتح..."
+   },
+   "premium_opening_stripe": {
+      "message": "جارٍ فتح Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "تعذر فتح صفحة إدارة الاشتراك."
+   },
+   "premium_portal_error_full": {
+      "message": "تعذر فتح إدارة الاشتراك. حاول لاحقًا."
+   },
+   "premium_portal_opening": {
+      "message": "جارٍ الفتح..."
+   },
+   "premium_price": {
+      "message": "اشتراك سنوي"
+   },
+   "premium_restore_guide": {
+      "message": "اشتريت بالفعل أو أعدت التثبيت؟"
+   },
+   "premium_restore_link": {
+      "message": "استعادة Premium"
+   },
+   "premium_scrollable": {
+      "message": "لقطات غير محدودة للمناطق القابلة للتمرير"
+   },
+   "premium_stripe_error": {
+      "message": "تعذر فتح رابط دفع Stripe. حاول لاحقًا."
+   },
+   "premium_subtitle": {
+      "message": "يفتح Premium كل الأوضاع، بما فيها لقطات HD للصفحة كاملة والمناطق القابلة للتمرير."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "قم بالترقية إلى Premium لتغيير الوضع."
+   },
+   "premium_title": {
+      "message": "ادعمنا وقم بالترقية إلى OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "غير معروف"
+   },
+   "premium_upgrade": {
+      "message": "ترقية إلى Premium"
+   },
+   "premium_valid_until": {
+      "message": "صالح حتى"
+   },
+   "print": {
+      "message": "طباعة"
+   },
+   "privacy": {
+      "message": " الخصوصية"
+   },
+   "privateBeizhu": {
+      "message": "ملاحظات خاصة"
+   },
+   "refresh_effective": {
+      "message": "مفيد بعد تحديث"
+   },
+   "reportIssue": {
+      "message": "تقرير المشكلة"
+   },
+   "saveUrl2Private": {
+      "message": "خاص"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "اجعلها خاصة، مرئية فقط لك"
+   },
+   "saveUrl2Public": {
+      "message": "عام"
+   },
+   "saveUrl2Snap": {
+      "message": "لقطة"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "حفظ لقطة صفحة الويب"
+   },
+   "savedFileNameByTile": {
+      "message": "حسب عنوان الصفحة"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "مثال: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "حسب الوقت"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "مثال: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "طريقة تسمية الملف"
+   },
+   "scrollable_area_no": {
+      "message": "لم يتم العثور على منطقة قابلة للتمرير."
+   },
+   "sendMailCode": {
+      "message": "إرسال"
+   },
+   "setting_appearance": {
+      "message": "المظهر"
+   },
+   "setting_cloud_upload_format": {
+      "message": "تنسيق رفع السحابة"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "حدد تنسيق الملف عند رفع لقطات الشاشة إلى التخزين السحابي."
+   },
+   "setting_default_private": {
+      "message": "المفضلة افتراضيًا خاصة"
+   },
+   "setting_default_private_info": {
+      "message": "حدد الخصوصية الافتراضية عند حفظ في YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "حفظ الصورة"
+   },
+   "setting_down_image_format_info": {
+      "message": "قم بتحديد تنسيق الصورة لتنزيل لقطات الشاشة الخاصة بك."
+   },
+   "setting_download": {
+      "message": "تحميل"
+   },
+   "setting_download_save_as": {
+      "message": "حفظ ك"
+   },
+   "setting_download_save_as_info": {
+      "message": "يتم عرض مربع الحوار <حفظ باسم>."
+   },
+   "setting_more": {
+      "message": "إعدادات إضافية"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "المحاذاة للصفحة"
+   },
+   "setting_pdf_margin_info": {
+      "message": "حدد محاذاة الصفحة، وحدات pt، Диапазون تحديد (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "حجم الورق"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "حدد حجم الورق للـ PDF عند تصديرها كـ PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "إظهار حفظ في نافذة YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "عرض نافذة YesKeeper لتسهيل حفظ اللقطة كصفحة ويب خاصة"
+   },
+   "setting_theme_mode": {
+      "message": "الوضع"
+   },
+   "setting_theme_mode_info": {
+      "message": "اختر سمة العرض لصفحات OpenCapture."
+   },
+   "settings": {
+      "message": "الإعدادات"
+   },
+   "signInWithApple": {
+      "message": "تسجيل الدخول عبر Apple"
+   },
+   "signInWithGoogle": {
+      "message": "تسجيل الدخول عبر Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "تسجيل الدخول عبر Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "بإشتراكك، فإنك توافق على <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">عقد خدمات المستخدم</a> و <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">سياسة الخصوصية</a> لـ YesKeeper"
+   },
+   "site_item1": {
+      "message": "صورة شاشة للصفحة الويب"
+   },
+   "site_item2": {
+      "message": "مراقبتي الشبكية في облака"
+   },
+   "site_item3": {
+      "message": "قراءة لاحقًا"
+   },
+   "site_language": {
+      "message": "اللغة"
+   },
+   "site_login": {
+      "message": "تسجيل الدخول"
+   },
+   "site_reg": {
+      "message": "اشتراك"
+   },
+   "snap_shot_prepare": {
+      "message": "جاري تجهيز التمرير الشاشة وتحميل صورة الشاشة"
+   },
+   "snap_shot_uploading": {
+      "message": "جاري تحميل صورة الشاشة..."
+   },
+   "splitMultiImages": {
+      "message": "ملاحظة: هذه الصفحة كبيرة للغاية حتى لا يمكن للمتصفح التقاطها كصورة. فستقسم إلى صور متعددة."
+   },
+   "stop_scrolling": {
+      "message": "توقّف عن التمرير"
+   },
+   "submitFalse": {
+      "message": "فشلت الإرسال!"
+   },
+   "tags_no": {
+      "message": "لا توجد علامات"
+   },
+   "theme_dark": {
+      "message": "داكن"
+   },
+   "theme_follow_system": {
+      "message": "اتباع إعدادات النظام"
+   },
+   "theme_light": {
+      "message": "فاتح"
+   },
+   "tryAgainLater": {
+      "message": "جارى التحميل، يرجى إعادة المحاولة لاحقًا"
+   },
+   "uploadToCloudDrive": {
+      "message": "التحميل إلى التخزين السحابي"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "فشل التحميل"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "تم التحميل بنجاح"
+   },
+   "viewMyCollections": {
+      "message": "عرض مجموعتي"
+   },
+   "vip": {
+      "message": "VIP"
+   }
+}

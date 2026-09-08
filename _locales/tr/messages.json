@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Doğrulama Kodu"
+   },
+   "accountLogin": {
+      "message": "Hesap şifresiyle giriş"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Lütfen önce indirme yönetimi izinlerini yetkilendirin"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "İndirme yönetimi izinlerini yetkilendirin"
+   },
+   "auto_clase": {
+      "message": "Pencereyi otomatik kapat"
+   },
+   "bar_copy": {
+      "message": "Kopyala"
+   },
+   "bar_save": {
+      "message": "Kaydet"
+   },
+   "btn_cancel": {
+      "message": "İptal"
+   },
+   "btn_lock": {
+      "message": "Özel"
+   },
+   "btn_ok": {
+      "message": "Tamam"
+   },
+   "btn_remove": {
+      "message": "silmek"
+   },
+   "btn_snap": {
+      "message": "Ekran Görüntüsü"
+   },
+   "btn_submit": {
+      "message": "Gönder"
+   },
+   "btn_view": {
+      "message": "Görüntüle"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF olarak kaydet"
+   },
+   "captureAllPage": {
+      "message": "Tüm sayfayı yakala"
+   },
+   "captureAnnotate": {
+      "message": "Not ekle"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Bu ekran görüntüsünü yükle"
+   },
+   "captureClickAnnotate": {
+      "message": "Ekran görüntüsüne not eklemek için tıklayın"
+   },
+   "captureDownload": {
+      "message": "Resmi kaydet"
+   },
+   "captureHighResAllPage": {
+      "message": "Tüm sayfayı yakala HD"
+   },
+   "capturePage": {
+      "message": "Görünür kısmı yakala"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Geçerli konumdan yakala"
+   },
+   "captureScrollable": {
+      "message": "Kaydırılabilir alanı yakala"
+   },
+   "captureSelection": {
+      "message": "Seçimi yakala"
+   },
+   "capture_interrupted": {
+      "message": "Sekme değişikliği tespit edildi, ekran görüntüsü durduruldu!"
+   },
+   "capture_scroll": {
+      "message": "Bunu yakala"
+   },
+   "clickSel": {
+      "message": "Seçmek için tıklayın"
+   },
+   "clickUnfold": {
+      "message": "Açmak için tıklayın"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Resim kopyalanamadı"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Resim panoya kopyalandı"
+   },
+   "copyNotSupport": {
+      "message": "Tarayıcınız resim kopyalamayı desteklemiyor!"
+   },
+   "copyToClipBoard": {
+      "message": "Panoya kopyala"
+   },
+   "copy_false": {
+      "message": "Kopyalama başarısız oldu!"
+   },
+   "copy_success": {
+      "message": "Pano'ya kopyalandı!"
+   },
+   "crop": {
+      "message": "Kırp"
+   },
+   "default_set": {
+      "message": "Varsayılan ayar"
+   },
+   "delete": {
+      "message": "Silmek"
+   },
+   "deleteAlert": {
+      "message": "Silmek istediğinizden emin misiniz?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Bilinmeyen bir hata oluştu!"
+   },
+   "error_upload_snap": {
+      "message": "Ekran görüntüsü yükleme hatası!"
+   },
+   "exist_info": {
+      "message": "Web sayfası kaydedildi!"
+   },
+   "exitUploading": {
+      "message": "Yükleniyor, ayrılmak istediğinizden emin misiniz?"
+   },
+   "favMyTags": {
+      "message": "Benim Etiketlerim"
+   },
+   "favOption": {
+      "message": "Seçenek"
+   },
+   "favSuggestTag": {
+      "message": "Önerilen Etiketler"
+   },
+   "favTag": {
+      "message": "Etiket"
+   },
+   "favTagLengthOver": {
+      "message": "Etiket çok uzun"
+   },
+   "favTagNumOver": {
+      "message": "Etiket sayısı sınırı aşıyor!"
+   },
+   "favTagPlaceholder": {
+      "message": "Etiketler"
+   },
+   "favTitle": {
+      "message": "Başlık"
+   },
+   "favUrl": {
+      "message": "Bağlantı"
+   },
+   "fav_edit": {
+      "message": "Koleksiyonu Düzenle"
+   },
+   "fav_success": {
+      "message": "Başarıyla kaydedildi!"
+   },
+   "fav_success_edit": {
+      "message": "Başarıyla kaydedildi - Düzenle"
+   },
+   "forgetPsw": {
+      "message": "Şifremi unuttum?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD ekran görüntüsü)"
+   },
+   "history": {
+      "message": "Geçmiş"
+   },
+   "historyClear": {
+      "message": "Temizle"
+   },
+   "historyClearAll": {
+      "message": "Tüm kayıtları temizle"
+   },
+   "historyClearConfirm": {
+      "message": "Tüm ekran görüntüsü geçmişi temizlensin mi?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Geçmişi temizle"
+   },
+   "historyClearOlder1Month": {
+      "message": "1 aydan eski kayıtları temizle"
+   },
+   "historyClearOlder3Months": {
+      "message": "3 aydan eski kayıtları temizle"
+   },
+   "historyDelete": {
+      "message": "Sil"
+   },
+   "historyEmpty": {
+      "message": "Henüz ekran görüntüsü geçmişi yok."
+   },
+   "historyUnknownDomain": {
+      "message": "Bilinmeyen alan adı"
+   },
+   "iframe_capture": {
+      "message": "iframe yuvalaması bulundu! Lütfen otomatik olarak açılan sayfada tam ekran görüntüsünü tekrar alın"
+   },
+   "img": {
+      "message": "Resim"
+   },
+   "imgCaptcha": {
+      "message": "Güvenlik Kodu"
+   },
+   "imgCodeInput": {
+      "message": "Görsel doğrulama kodunu girin!"
+   },
+   "issueContentAdd": {
+      "message": "Sorunun kısa bir açıklaması"
+   },
+   "issueEmail": {
+      "message": "E-posta"
+   },
+   "issueTitleAdd": {
+      "message": "Bir başlık ekleyin"
+   },
+   "issueUrl": {
+      "message": "Bağlantı"
+   },
+   "like_body": {
+      "message": "Yararlı bir program geliştirmek çok çaba gerektirir ve beğenmeniz bizi mutlu etti!<br /><br />Bize bir dakikanızı ayırıp, beş yıldızlı bir inceleme bırakabilir misiniz? Bu bizim için çok yardımcı olacaktır. :)"
+   },
+   "like_no_thanks": {
+      "message": "Hayır, teşekkürler"
+   },
+   "like_title": {
+      "message": "Bu aracı beğendiniz mi?"
+   },
+   "like_yes": {
+      "message": "Evet"
+   },
+   "loading": {
+      "message": "Yükleniyor"
+   },
+   "loginCodeResend": {
+      "message": "Yeniden Gönder"
+   },
+   "loginCodeSent": {
+      "message": "Gönderildi"
+   },
+   "loginSignUp": {
+      "message": "Giriş Yap / Kayıt Ol"
+   },
+   "login_refresh": {
+      "message": "Giriş yaptıktan sonra yenileyin"
+   },
+   "msg_title": {
+      "message": "İpucu - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Birden fazla alan bulundu, birini seçin."
+   },
+   "my_collections": {
+      "message": "Koleksiyonlarım"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Ağ isteği hatası!"
+   },
+   "noSupportMultiPic": {
+      "message": "Birden fazla resim kırpma desteklenmemektedir"
+   },
+   "not_support": {
+      "message": "OpenCapture eklentisine hoş geldiniz. Bu eklentiyi, tarayıcının eklentilerden betik çalıştırmasına engel olduğu web sayfaları dışında her sayfada çalıştırabilirsiniz. Bu, eklenti mağazası, tarayıcı ayarları sayfaları ve diğer eklentileri içerir.<br /><br />Başka bir web sayfasını deneyin, örneğin <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">bu sayfayı</a>. İyi eğlenceler! <br /><br />Tarayıcı, güvenlik nedenleriyle bazı URL'lere erişimi engelliyor. Bu, web mağazası galerisi, diğer eklentiler ve chrome://, extension:// URL'lerini içerir. <b>Geçerli sayfa kısıtlanmış bir URL gibi görünüyor.</b><br /><br />Ek sorular için bizimle iletişime geçin.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Opsiyonel"
+   },
+   "page_not_ready": {
+      "message": "Yükleniyor, lütfen sonra tekrar deneyin."
+   },
+   "permissionDownloadsDenied": {
+      "message": "İndirme yönetimi izinlerini reddettiniz"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium etkin."
+   },
+   "premium_active_price": {
+      "message": "Yıllık abonelik etkin"
+   },
+   "premium_active_subtitle": {
+      "message": "Bu tarayıcı kurulumunda tüm Premium modları açıldı."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium etkin"
+   },
+   "premium_all_free": {
+      "message": "Free’deki her şey"
+   },
+   "premium_back": {
+      "message": "Geri"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture’e dön"
+   },
+   "premium_cloud": {
+      "message": "Google Drive’a yükle"
+   },
+   "premium_feature_title_default": {
+      "message": "Bu Premium özelliği"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD tam sayfa görüntüleri"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Bölünmüş uzun sayfa görüntüleri"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Kaydırılabilir alan görüntüleri"
+   },
+   "premium_free_edit": {
+      "message": "Not ekle, kırp, kopyala, yazdır, PDF/JPG/PNG dışa aktar"
+   },
+   "premium_free_full": {
+      "message": "Kaydırarak tam sayfa yakala"
+   },
+   "premium_free_hd": {
+      "message": "HD tam sayfa görüntüleri: 5 ücretsiz deneme"
+   },
+   "premium_free_long_page_split": {
+      "message": "Bölünmüş uzun sayfa görüntüleri"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Günlük ekran görüntüleri için"
+   },
+   "premium_free_scrollable": {
+      "message": "Kaydırılabilir alan görüntüleri: 5 ücretsiz deneme"
+   },
+   "premium_free_visible": {
+      "message": "Görünen bölümü yakala"
+   },
+   "premium_future": {
+      "message": "Gelecekteki Premium özelliklere erişim"
+   },
+   "premium_hd": {
+      "message": "Sınırsız HD tam sayfa görüntüleri"
+   },
+   "premium_long_page_split": {
+      "message": "Daha fazla geçmiş alanı"
+   },
+   "premium_manage": {
+      "message": "Yönet"
+   },
+   "premium_manage_subscription": {
+      "message": "Aboneliği yönet"
+   },
+   "premium_mode_switching": {
+      "message": "Açık/koyu mod geçişi"
+   },
+   "premium_notice_low": {
+      "message": "{feature} için ücretsiz denemeleriniz bitmek üzere. Kalan: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Daha fazla gelişmiş özelliği açmak için Premium’a yükseltin."
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} için ücretsiz denemeleriniz bitti."
+   },
+   "premium_opening_portal": {
+      "message": "Açılıyor..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe açılıyor..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Abonelik yönetimi açılamadı."
+   },
+   "premium_portal_error_full": {
+      "message": "Abonelik yönetimi açılamadı. Lütfen sonra tekrar deneyin."
+   },
+   "premium_portal_opening": {
+      "message": "Açılıyor..."
+   },
+   "premium_price": {
+      "message": "Yıllık abonelik"
+   },
+   "premium_restore_guide": {
+      "message": "Zaten satın aldınız veya yeniden mi kurdunuz?"
+   },
+   "premium_restore_link": {
+      "message": "Premium’u geri yükle"
+   },
+   "premium_scrollable": {
+      "message": "Sınırsız kaydırılabilir alan görüntüleri"
+   },
+   "premium_stripe_error": {
+      "message": "Stripe ödeme bağlantısı açılamadı. Lütfen sonra tekrar deneyin."
+   },
+   "premium_subtitle": {
+      "message": "Premium, HD tam sayfa ve kaydırılabilir alan görüntüleri dahil tüm modları açar."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Modu değiştirmek için Premium’a yükseltin."
+   },
+   "premium_title": {
+      "message": "Bizi destekleyin ve OpenCapture Premium’a yükseltin"
+   },
+   "premium_unknown_date": {
+      "message": "Bilinmiyor"
+   },
+   "premium_upgrade": {
+      "message": "Premium’a yükselt"
+   },
+   "premium_valid_until": {
+      "message": "Geçerli tarih"
+   },
+   "print": {
+      "message": "Yazdır"
+   },
+   "privacy": {
+      "message": "Gizlilik"
+   },
+   "privateBeizhu": {
+      "message": "Özel notlar"
+   },
+   "refresh_effective": {
+      "message": "Yenilemeden sonra geçerli"
+   },
+   "reportIssue": {
+      "message": "Sorun bildir"
+   },
+   "saveUrl2Private": {
+      "message": "Özel"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Özel olarak ayarla, sadece kendine görünür"
+   },
+   "saveUrl2Public": {
+      "message": "Genel"
+   },
+   "saveUrl2Snap": {
+      "message": "Ekran Görüntüsü"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Web sayfası ekran görüntüsünü kaydet"
+   },
+   "savedFileNameByTile": {
+      "message": "Başlığa göre"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ör.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Zamana göre"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ör.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Dosya Adı"
+   },
+   "scrollable_area_no": {
+      "message": "Kaydırılabilir alan bulunamadı."
+   },
+   "sendMailCode": {
+      "message": "Gönder"
+   },
+   "setting_appearance": {
+      "message": "Görünüm"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Buluta yükleme formatı"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Ekran görüntülerini bulut sürücüsüne yüklerken dosya formatını belirtin."
+   },
+   "setting_default_private": {
+      "message": "Varsayılan Özel"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeper'a kaydederken varsayılan olarak özel olarak ayarlayın."
+   },
+   "setting_down_image_format": {
+      "message": "Resmi kaydet"
+   },
+   "setting_down_image_format_info": {
+      "message": "Ekran görüntülerinizi indirirken kullanılacak resim formatını belirtin."
+   },
+   "setting_download": {
+      "message": "İndir"
+   },
+   "setting_download_save_as": {
+      "message": "Farklı Kaydet"
+   },
+   "setting_download_save_as_info": {
+      "message": "Ekran görüntülerini indirirken olarak \"farklı kaydet\" diyalog kutusunu göster."
+   },
+   "setting_more": {
+      "message": "Daha fazla ayar"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Sayfa kenar boşluğu"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Sayfa kenar boşluğunu belirtin, birim pt, belirtilen aralık (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Kağıt Boyutu"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF'yi dışa aktarırken kağıt boyutunu belirtin."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeper'a kaydet diyalog kutusunu göster"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Web sayfası ekran görüntüsünü kaydederken YesKeeper'a kaydet diyalog kutusunu göster"
+   },
+   "setting_theme_mode": {
+      "message": "Mod"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture sayfaları için görüntüleme temasını seçin."
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "signInWithApple": {
+      "message": "Apple ile giriş yap"
+   },
+   "signInWithGoogle": {
+      "message": "Google ile giriş yap"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoft ile giriş yap"
+   },
+   "signUpAgreement": {
+      "message": "Kayıt olarak, YesKeeper'ın <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Kullanıcı Hizmetleri Sözleşmesi</a> ve <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Gizlilik Politikası</a>'nı kabul etmiş olursunuz."
+   },
+   "site_item1": {
+      "message": "Web Sayfası Ekran Görüntüsü"
+   },
+   "site_item2": {
+      "message": "Bulut Yer İmleri"
+   },
+   "site_item3": {
+      "message": "Sonra Oku"
+   },
+   "site_language": {
+      "message": "Dil"
+   },
+   "site_login": {
+      "message": "Giriş Yap"
+   },
+   "site_reg": {
+      "message": "Kayıt Ol"
+   },
+   "snap_shot_prepare": {
+      "message": "Ekranı kaydırmaya ve ekran görüntüsünü yüklemeye hazırlanıyor"
+   },
+   "snap_shot_uploading": {
+      "message": "Ekran görüntüsü yükleniyor..."
+   },
+   "splitMultiImages": {
+      "message": "Not: Bu sayfa, tarayıcı tarafından görüntü olarak yakalanamayacak kadar büyük. Birden fazla görsele bölünecektir."
+   },
+   "stop_scrolling": {
+      "message": "Kaydırmayı durdur"
+   },
+   "submitFalse": {
+      "message": "Gönderim başarısız oldu!"
+   },
+   "tags_no": {
+      "message": "Etiket yok"
+   },
+   "theme_dark": {
+      "message": "Koyu"
+   },
+   "theme_follow_system": {
+      "message": "Sistemi takip et"
+   },
+   "theme_light": {
+      "message": "Açık"
+   },
+   "tryAgainLater": {
+      "message": "Yükleniyor, lütfen daha sonra tekrar deneyin"
+   },
+   "uploadToCloudDrive": {
+      "message": "Bulut depolamaya yükle"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Yükleme başarısız oldu"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Başarıyla yüklendi"
+   },
+   "viewMyCollections": {
+      "message": "Koleksiyonlarımı görüntüle"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

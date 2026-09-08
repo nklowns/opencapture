@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "メール認証コード"
+   },
+   "accountLogin": {
+      "message": "アカウントパスワードログイン"
+   },
+   "add": {
+      "message": "追加"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "まずダウンロード管理権限を許可してください"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "ダウンロード管理権限を許可する"
+   },
+   "auto_clase": {
+      "message": "自動閉じる"
+   },
+   "bar_copy": {
+      "message": "コピー"
+   },
+   "bar_save": {
+      "message": "保存"
+   },
+   "btn_cancel": {
+      "message": "キャンセル"
+   },
+   "btn_lock": {
+      "message": "プライベート"
+   },
+   "btn_ok": {
+      "message": "確定"
+   },
+   "btn_remove": {
+      "message": "削除"
+   },
+   "btn_snap": {
+      "message": "スナップショット"
+   },
+   "btn_submit": {
+      "message": "送信"
+   },
+   "btn_view": {
+      "message": "表示"
+   },
+   "capture2pdfDownload": {
+      "message": "PDFとして保存"
+   },
+   "captureAllPage": {
+      "message": "ページ全体をキャプチャ"
+   },
+   "captureAnnotate": {
+      "message": "コメントの追加"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "画像をアップロード"
+   },
+   "captureClickAnnotate": {
+      "message": "コメントを追加するには、以下のスクリーンショットをクリックしてください"
+   },
+   "captureDownload": {
+      "message": "画像として保存"
+   },
+   "captureHighResAllPage": {
+      "message": "ページ全体をHDで"
+   },
+   "capturePage": {
+      "message": "表示部分をキャプチャ"
+   },
+   "capturePageCurrentPosition": {
+      "message": "現在位置からキャプチャ"
+   },
+   "captureScrollable": {
+      "message": "スクロール領域をキャプチャ"
+   },
+   "captureSelection": {
+      "message": "選択範囲をキャプチャ"
+   },
+   "capture_interrupted": {
+      "message": "タブの切り替えが検出されました、スクリーンショットが停止しました！"
+   },
+   "capture_scroll": {
+      "message": "これをキャプチャ"
+   },
+   "clickSel": {
+      "message": "クリックして選択"
+   },
+   "clickUnfold": {
+      "message": "クリックして展開"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "コピー失敗！"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "クリップボードにコピーしました！"
+   },
+   "copyNotSupport": {
+      "message": "ブラウザはサポートされていません"
+   },
+   "copyToClipBoard": {
+      "message": "クリップボードにコピー"
+   },
+   "copy_false": {
+      "message": "コピー失敗！"
+   },
+   "copy_success": {
+      "message": "クリップボードにコピーしました！"
+   },
+   "crop": {
+      "message": "切り取り"
+   },
+   "default_set": {
+      "message": "デフォルト設定"
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "deleteAlert": {
+      "message": "本当に削除しますか？"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "不明なエラーが発生しました！"
+   },
+   "error_upload_snap": {
+      "message": "スナップショットアップロードエラー！"
+   },
+   "exist_info": {
+      "message": "このページは既に収蔵されています！"
+   },
+   "exitUploading": {
+      "message": "アップロード中ですが、本当に離れますか？"
+   },
+   "favMyTags": {
+      "message": "私のタグ"
+   },
+   "favOption": {
+      "message": "オプション"
+   },
+   "favSuggestTag": {
+      "message": "推奨タグ"
+   },
+   "favTag": {
+      "message": "タグ"
+   },
+   "favTagLengthOver": {
+      "message": "タグが長すぎます"
+   },
+   "favTagNumOver": {
+      "message": "タグ数の上限を超えています！"
+   },
+   "favTagPlaceholder": {
+      "message": "分類ラベル"
+   },
+   "favTitle": {
+      "message": "タイトル"
+   },
+   "favUrl": {
+      "message": "リンク"
+   },
+   "fav_edit": {
+      "message": "編集"
+   },
+   "fav_success": {
+      "message": "保存に成功しました！"
+   },
+   "fav_success_edit": {
+      "message": "成功 - 編集"
+   },
+   "forgetPsw": {
+      "message": "パスワードを忘れる？"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2倍HDスクリーンショット)"
+   },
+   "history": {
+      "message": "履歴"
+   },
+   "historyClear": {
+      "message": "クリア"
+   },
+   "historyClearAll": {
+      "message": "すべての記録を削除"
+   },
+   "historyClearConfirm": {
+      "message": "スクリーンショットの履歴をすべて削除しますか？"
+   },
+   "historyClearDialogTitle": {
+      "message": "履歴を削除"
+   },
+   "historyClearOlder1Month": {
+      "message": "1か月以上前の記録を削除"
+   },
+   "historyClearOlder3Months": {
+      "message": "3か月以上前の記録を削除"
+   },
+   "historyDelete": {
+      "message": "削除"
+   },
+   "historyEmpty": {
+      "message": "スクリーンショットの履歴はまだありません。"
+   },
+   "historyUnknownDomain": {
+      "message": "不明なドメイン"
+   },
+   "iframe_capture": {
+      "message": "iframeネストを発見！自動的に開いたページでスクリーンショットを再作成してください"
+   },
+   "img": {
+      "message": "画像"
+   },
+   "imgCaptcha": {
+      "message": "画像認証コード"
+   },
+   "imgCodeInput": {
+      "message": "画像認証コードを入力！"
+   },
+   "issueContentAdd": {
+      "message": "問題の説明"
+   },
+   "issueEmail": {
+      "message": "メール"
+   },
+   "issueTitleAdd": {
+      "message": "問題のタイトル"
+   },
+   "issueUrl": {
+      "message": "リンク"
+   },
+   "like_body": {
+      "message": "役立つプログラムを開発するには多くの努力が必要ですが、気に入っていただけて嬉しいです！<br /><br />お手数ですが、1分だけ5つ星のレビューをいただけますか？とても助かります。 :)"
+   },
+   "like_no_thanks": {
+      "message": "いいえ、結構です"
+   },
+   "like_title": {
+      "message": "このツールは気に入りましたか？"
+   },
+   "like_yes": {
+      "message": "はい"
+   },
+   "loading": {
+      "message": "読み込み中..."
+   },
+   "loginCodeResend": {
+      "message": "再送信"
+   },
+   "loginCodeSent": {
+      "message": "送信しました"
+   },
+   "loginSignUp": {
+      "message": "ログイン / 登録"
+   },
+   "login_refresh": {
+      "message": "ログイン後に更新"
+   },
+   "msg_title": {
+      "message": "情報 - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "複数の領域が見つかりました。1つを選択してください。"
+   },
+   "my_collections": {
+      "message": "私の収蔵"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "ページ全体をキャプチャ - OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "ネットワークリクエストエラー！"
+   },
+   "noSupportMultiPic": {
+      "message": "マルチピクチャはサポートされていません"
+   },
+   "not_support": {
+      "message": "OpenCapture拡張機能へようこそ。ブラウザがスクリプトの実行を制限しているページを除いて、任意のウェブページでこの拡張機能を実行できます。これには、拡張機能ストア、ブラウザ設定ページ、およびその他の拡張機能が含まれます。<br /><br />セキュリティ上の理由から、ブラウザは特定のURLへのアクセスを許可していません。これには、拡張機能ストアギャラリー、その他の拡張機能、chrome://、extension:// URLが含まれます。<b>現在のページは制限されたURLのようです。</b><br /><br />他のウェブページを試してみてください。例えば、<a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">こちらのリンク</a>をどうぞ。楽しい時間をお過ごしください！<br /><br />その他の質問がある場合は、お問い合わせください。<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "任意"
+   },
+   "page_not_ready": {
+      "message": "読み込み中、後で再試行してください。"
+   },
+   "permissionDownloadsDenied": {
+      "message": "ダウンロード管理権限の許可を拒否しました"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premiumは有効です。"
+   },
+   "premium_active_price": {
+      "message": "年間サブスクリプション有効"
+   },
+   "premium_active_subtitle": {
+      "message": "このブラウザーのインストールで、すべてのPremiumモードが開放されています。"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premiumは有効です"
+   },
+   "premium_all_free": {
+      "message": "Freeのすべて"
+   },
+   "premium_back": {
+      "message": "戻る"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCaptureに戻る"
+   },
+   "premium_cloud": {
+      "message": "Google Driveへアップロード"
+   },
+   "premium_feature_title_default": {
+      "message": "このPremium機能"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD全ページ撮影"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "長いページの分割撮影"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "スクロール領域撮影"
+   },
+   "premium_free_edit": {
+      "message": "注釈、切り抜き、コピー、印刷、PDF/JPG/PNG出力"
+   },
+   "premium_free_full": {
+      "message": "スクロールで全ページ撮影"
+   },
+   "premium_free_hd": {
+      "message": "HD全ページ撮影: 無料試用5回"
+   },
+   "premium_free_long_page_split": {
+      "message": "長いページの分割撮影"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "日常のスクリーンショット向け"
+   },
+   "premium_free_scrollable": {
+      "message": "スクロール領域撮影: 無料試用5回"
+   },
+   "premium_free_visible": {
+      "message": "表示部分を撮影"
+   },
+   "premium_future": {
+      "message": "今後のPremium機能にアクセス"
+   },
+   "premium_hd": {
+      "message": "HD全ページ撮影が無制限"
+   },
+   "premium_long_page_split": {
+      "message": "履歴保存容量を拡大"
+   },
+   "premium_manage": {
+      "message": "管理"
+   },
+   "premium_manage_subscription": {
+      "message": "サブスクリプションを管理"
+   },
+   "premium_mode_switching": {
+      "message": "ライト/ダークモード切替"
+   },
+   "premium_notice_low": {
+      "message": "{feature}の無料試用回数が残り少なくなっています。残り: {remaining}。"
+   },
+   "premium_notice_no_feature": {
+      "message": "Premiumにアップグレードして高度な機能をさらに開放します。"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature}の無料試用回数を使い切りました。"
+   },
+   "premium_opening_portal": {
+      "message": "開いています..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripeを開いています..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "サブスクリプション管理を開けませんでした。"
+   },
+   "premium_portal_error_full": {
+      "message": "サブスクリプション管理を開けませんでした。後でもう一度お試しください。"
+   },
+   "premium_portal_opening": {
+      "message": "開いています..."
+   },
+   "premium_price": {
+      "message": "年間サブスクリプション"
+   },
+   "premium_restore_guide": {
+      "message": "購入済み、または再インストールしましたか？"
+   },
+   "premium_restore_link": {
+      "message": "Premiumを復元"
+   },
+   "premium_scrollable": {
+      "message": "スクロール領域撮影が無制限"
+   },
+   "premium_stripe_error": {
+      "message": "Stripeの支払いリンクを開けませんでした。後でもう一度お試しください。"
+   },
+   "premium_subtitle": {
+      "message": "Premiumでは、HD全ページ撮影やスクロール領域撮影を含むすべてのモードを利用できます。"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "モードを変更するにはPremiumにアップグレードしてください。"
+   },
+   "premium_title": {
+      "message": "OpenCapture Premiumにアップグレードして応援する"
+   },
+   "premium_unknown_date": {
+      "message": "不明"
+   },
+   "premium_upgrade": {
+      "message": "Premiumにアップグレード"
+   },
+   "premium_valid_until": {
+      "message": "有効期限"
+   },
+   "print": {
+      "message": "印刷"
+   },
+   "privacy": {
+      "message": "プライバシー"
+   },
+   "privateBeizhu": {
+      "message": "プライベートメモ"
+   },
+   "refresh_effective": {
+      "message": "ページ更新後に有効"
+   },
+   "reportIssue": {
+      "message": "フィードバック"
+   },
+   "saveUrl2Private": {
+      "message": "プライベート"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "プライベートに設定して、自分だけが見えるように"
+   },
+   "saveUrl2Public": {
+      "message": "公開"
+   },
+   "saveUrl2Snap": {
+      "message": "スナップショットとして保存"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Webページのスナップショットを保存"
+   },
+   "savedFileNameByTile": {
+      "message": "タイトルで命名"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "例: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "日時で命名"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "例: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "ファイル名設定"
+   },
+   "scrollable_area_no": {
+      "message": "スクロール可能な領域が見つかりませんでした。"
+   },
+   "sendMailCode": {
+      "message": "送信"
+   },
+   "setting_appearance": {
+      "message": "外観"
+   },
+   "setting_cloud_upload_format": {
+      "message": "クラウド形式"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "スクリーンショットをクラウドドライブにアップロードする際のファイル形式を指定します。"
+   },
+   "setting_default_private": {
+      "message": "収蔵デフォルトプライベート"
+   },
+   "setting_default_private_info": {
+      "message": "YesKeeperに保存するときのデフォルト設定はプライベートです。"
+   },
+   "setting_down_image_format": {
+      "message": "画像として保存"
+   },
+   "setting_down_image_format_info": {
+      "message": "ダウンロードした画像の画像フォーマットを指定します。"
+   },
+   "setting_download": {
+      "message": "ダウンロード"
+   },
+   "setting_download_save_as": {
+      "message": "名前を付けて保存"
+   },
+   "setting_download_save_as_info": {
+      "message": "スクリーンショットをダウンロードすると、「名前を付けて保存」ダイアログボックスが自動的に表示されます。"
+   },
+   "setting_more": {
+      "message": "さらに設定"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "ページ余白"
+   },
+   "setting_pdf_margin_info": {
+      "message": "余白、単位pt、範囲（0～40）ptを指定します。"
+   },
+   "setting_pdf_papersize": {
+      "message": "用紙サイズ"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDFファイルのページフォーマットのサイズを指定します。"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "YesKeeperに保存ウィンドウを表示"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "プライベートWebスナップショットとしてスクリーンショットを保存できます"
+   },
+   "setting_theme_mode": {
+      "message": "テーマ"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCaptureページの表示テーマを選択してください。"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "signInWithApple": {
+      "message": "Appleログイン"
+   },
+   "signInWithGoogle": {
+      "message": "Googleログイン"
+   },
+   "signInWithMicrosoft": {
+      "message": "Microsoftログイン"
+   },
+   "signUpAgreement": {
+      "message": "登録は<a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">ユーザーサービス契約</a>と<a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">プライバシーポリシー</a>に同意したものとみなします"
+   },
+   "site_item1": {
+      "message": "Web快照"
+   },
+   "site_item2": {
+      "message": "知識整理"
+   },
+   "site_item3": {
+      "message": "後で読む"
+   },
+   "site_language": {
+      "message": "言語"
+   },
+   "site_login": {
+      "message": "ログイン"
+   },
+   "site_reg": {
+      "message": "登録"
+   },
+   "snap_shot_prepare": {
+      "message": "Webページのスクリーンショットをスクロールする準備"
+   },
+   "snap_shot_uploading": {
+      "message": "スナップショットアップロード中..."
+   },
+   "splitMultiImages": {
+      "message": "ヒント：このページは大きすぎて、ブラウザは画像としてキャプチャできません。複数の画像に分割されます。"
+   },
+   "stop_scrolling": {
+      "message": "スクロール停止"
+   },
+   "submitFalse": {
+      "message": "送信失敗！"
+   },
+   "tags_no": {
+      "message": "タグなし"
+   },
+   "theme_dark": {
+      "message": "ダーク"
+   },
+   "theme_follow_system": {
+      "message": "システム設定に従う"
+   },
+   "theme_light": {
+      "message": "ライト"
+   },
+   "tryAgainLater": {
+      "message": "ロード中、後で再試行してください"
+   },
+   "uploadToCloudDrive": {
+      "message": "クラウドドライブにアップロード"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "アップロードに失敗しました"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "アップロードに成功しました"
+   },
+   "viewMyCollections": {
+      "message": "私のコレクションを見る"
+   },
+   "vip": {
+      "message": "VIP会員"
+   }
+}

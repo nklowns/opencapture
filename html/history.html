@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>History - OpenCapture</title>
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/icons/icon32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/icons/icon16.png" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover" />
+<link href="../assets/lib/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/lib/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/css/base.css" type="text/css" rel="stylesheet" />
+<script src="../assets/lib/jquery.js" type="text/javascript"></script>
+<script src="../assets/lib/popper.js" type="text/javascript"></script>
+<script src="../assets/lib/bootstrap.js" type="text/javascript"></script>
+<style type="text/css">
+html,body{width:100%;min-height:100%;background-color:#f2f2f2;color:#333;}
+a{cursor:pointer;color:#007bff;text-decoration:none;}
+.header{line-height:50px;color:white;border-bottom:1px solid #717f8c;}
+.header-content{display:flex;align-items:center;}
+.history-list{max-width:980px;margin:0 auto;}
+.history-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px;}
+.history-clear-btn{white-space:nowrap;color:#555;border-color:#555;background:#fff;}
+.history-clear-btn:hover{color:#fff;background:#555;border-color:#555;}
+.history-item{display:grid;grid-template-columns:160px minmax(0,1fr) auto;gap:14px;align-items:center;background:#fff;border:1px solid #e6e6e6;border-radius:6px;padding:12px;margin-bottom:12px;}
+.history-thumb{width:160px;height:100px;object-fit:cover;border:1px solid #ddd;border-radius:4px;background:#f7f7f7;cursor:pointer;}
+.history-info{min-width:0;}
+.history-title{font-size:15px;font-weight:600;word-break:break-word;}
+.history-meta{font-size:13px;color:#777;margin-top:6px;}
+.history-url{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.history-extra{font-size:13px;color:#777;margin-top:4px;}
+.history-delete{align-self:start;color:#555;border:0;background:transparent;padding:4px 6px;line-height:1;}
+.history-delete:hover{color:#222;background:#f0f0f0;}
+.history-dialog-mask{position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.28);z-index:1000;}
+.history-dialog{width:min(360px,calc(100vw - 32px));background:#fff;border-radius:6px;box-shadow:0 12px 34px rgba(0,0,0,.22);padding:18px;}
+.history-dialog-title{font-size:16px;font-weight:600;margin-bottom:14px;color:#333;}
+.history-dialog-actions{display:grid;gap:8px;}
+.history-dialog-actions .btn{color:#555;border-color:#d0d0d0;text-align:left;background:#fff;}
+.history-dialog-actions .btn:hover{color:#222;background:#f4f4f4;border-color:#aaa;}
+.empty-state{background:#fff;border-radius:6px;padding:36px;text-align:center;color:#777;}
+@media (max-width: 576px){
+  .history-item{grid-template-columns:96px minmax(0,1fr) auto;gap:10px;padding:10px;}
+  .history-thumb{width:96px;height:72px;}
+}
+</style>
+<link href="../assets/css/theme.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row header page-header bg-dark">
+			<div class="col-12 text-left p-2">
+				<div class="header-content">
+					<img src="../assets/icons/icon48.png" style="width:32px;height:32px;" />
+					<span id="name_site" style="font-size:22px;margin-left:8px;margin-right:8px;">OpenCapture</span>
+					<span class="badge badge-success ml-2">FOSS Edition</span>
+				</div>
+			</div>
+		</div>
+		<div class="history-list pt-3 pb-3">
+			<div class="history-toolbar">
+				<h1 id="history_title" style="font-size:1.4rem;margin:0;">History</h1>
+				<button id="history_clear_btn" type="button" class="history-clear-btn btn btn-sm btn-outline-danger">Clear</button>
+			</div>
+			<div id="history_items"></div>
+			<div id="history_lazy_loader" class="text-center text-muted py-3" style="display:none;">Loading...</div>
+		</div>
+	</div>
+	<div id="history_clear_dialog" class="history-dialog-mask">
+		<div class="history-dialog" role="dialog" aria-modal="true">
+			<div id="history_clear_dialog_title" class="history-dialog-title">Clear history</div>
+			<div class="history-dialog-actions">
+				<button id="history_clear_3_months_btn" type="button" class="btn btn-sm">Clear records older than 3 months</button>
+				<button id="history_clear_1_month_btn" type="button" class="btn btn-sm">Clear records older than 1 month</button>
+				<button id="history_clear_all_btn" type="button" class="btn btn-sm">Clear all records</button>
+			</div>
+		</div>
+	</div>
+	<script src="../assets/js/history.js" type="text/javascript"></script>
+</body>
+</html>

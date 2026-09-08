@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Kode Verifikasi"
+   },
+   "accountLogin": {
+      "message": "Login dengan password"
+   },
+   "add": {
+      "message": "Tambah"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Silakan berikan izin pengelolaan unduhan terlebih dahulu"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Berikan izin pengelolaan unduhan"
+   },
+   "auto_clase": {
+      "message": "Tutup otomatis"
+   },
+   "bar_copy": {
+      "message": "Kopi"
+   },
+   "bar_save": {
+      "message": "Simpan"
+   },
+   "btn_cancel": {
+      "message": "Batal"
+   },
+   "btn_lock": {
+      "message": "Privat"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Hapus"
+   },
+   "btn_snap": {
+      "message": "Screenshot"
+   },
+   "btn_submit": {
+      "message": "Kirim"
+   },
+   "btn_view": {
+      "message": "Lihat"
+   },
+   "capture2pdfDownload": {
+      "message": "Simpan sebagai PDF"
+   },
+   "captureAllPage": {
+      "message": "Tangkap layar halaman penuh"
+   },
+   "captureAnnotate": {
+      "message": "Buat Annotasi"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Unggah screenshot ini"
+   },
+   "captureClickAnnotate": {
+      "message": "Klik pada screenshot untuk membuat annotasi"
+   },
+   "captureDownload": {
+      "message": "Simpan gambar"
+   },
+   "captureHighResAllPage": {
+      "message": "Tangkap layar halaman penuh HD"
+   },
+   "capturePage": {
+      "message": "Tangkap Layar Bagian yang Terlihat"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Tangkap dari Posisi Saat Ini"
+   },
+   "captureScrollable": {
+      "message": "Tangkap area yang dapat digulir"
+   },
+   "captureSelection": {
+      "message": "Tangkap Layar pilihan"
+   },
+   "capture_interrupted": {
+      "message": "Tab berpindah terdeteksi, tangkapan layar dihentikan!"
+   },
+   "capture_scroll": {
+      "message": "Tangkap ini"
+   },
+   "clickSel": {
+      "message": "Klik untuk memilih"
+   },
+   "clickUnfold": {
+      "message": "Klik untuk membuka"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Tidak bisa mengkopikan gambar"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Gambar telah dikopi ke papan klip"
+   },
+   "copyNotSupport": {
+      "message": "Browser Anda tidak mendukung kopian gambar!"
+   },
+   "copyToClipBoard": {
+      "message": "Kopi ke papan klip"
+   },
+   "copy_false": {
+      "message": "Gagal mengkopikan!"
+   },
+   "copy_success": {
+      "message": "Dikopi ke papan klip!"
+   },
+   "crop": {
+      "message": "Potong"
+   },
+   "default_set": {
+      "message": "Pengaturan default"
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "deleteAlert": {
+      "message": "Yakin ingin menghapus?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Terjadi kesalahan yang tidak diketahui!"
+   },
+   "error_upload_snap": {
+      "message": "Kesalahan saat mengunggah screenshot!"
+   },
+   "exist_info": {
+      "message": "Halaman web telah disimpan!"
+   },
+   "exitUploading": {
+      "message": " sedang mengunggah, yakin ingin keluar?"
+   },
+   "favMyTags": {
+      "message": "Tag Saya"
+   },
+   "favOption": {
+      "message": "Opsi"
+   },
+   "favSuggestTag": {
+      "message": "Saran Tag"
+   },
+   "favTag": {
+      "message": "Tag"
+   },
+   "favTagLengthOver": {
+      "message": "Tag terlalu panjang"
+   },
+   "favTagNumOver": {
+      "message": "Jumlah tag melebihi batas!"
+   },
+   "favTagPlaceholder": {
+      "message": "Masukkan tag..."
+   },
+   "favTitle": {
+      "message": "Judul"
+   },
+   "favUrl": {
+      "message": "Link"
+   },
+   "fav_edit": {
+      "message": "Edit Koleksi"
+   },
+   "fav_success": {
+      "message": "Disimpan berhasil!"
+   },
+   "fav_success_edit": {
+      "message": "Simpan berhasil - Edit"
+   },
+   "forgetPsw": {
+      "message": "Lupa password?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD screenshot)"
+   },
+   "history": {
+      "message": "History"
+   },
+   "historyClear": {
+      "message": "Bersihkan"
+   },
+   "historyClearAll": {
+      "message": "Bersihkan semua catatan"
+   },
+   "historyClearConfirm": {
+      "message": "Bersihkan semua riwayat tangkapan layar?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Bersihkan riwayat"
+   },
+   "historyClearOlder1Month": {
+      "message": "Bersihkan catatan lebih dari 1 bulan"
+   },
+   "historyClearOlder3Months": {
+      "message": "Bersihkan catatan lebih dari 3 bulan"
+   },
+   "historyDelete": {
+      "message": "Hapus"
+   },
+   "historyEmpty": {
+      "message": "Belum ada riwayat tangkapan layar."
+   },
+   "historyUnknownDomain": {
+      "message": "Domain tidak dikenal"
+   },
+   "iframe_capture": {
+      "message": "Found iframe nesting! Please take the full screenshot again on the automatically opened page"
+   },
+   "img": {
+      "message": "Gambar"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Masukkan kode verifikasi gambar!"
+   },
+   "issueContentAdd": {
+      "message": "Deskripsi singkat tentang masalah"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "issueTitleAdd": {
+      "message": "Tambahkan judul"
+   },
+   "issueUrl": {
+      "message": "Link"
+   },
+   "like_body": {
+      "message": "Mengembangkan aplikasi yang hebat memerlukan banyak usaha, dan kami senang Anda menyukainya!<br /><br />Bisakah Anda meluangkan waktu sejenak untuk memberi kami rating lima bintang? Itu akan sangat membantu kami :)"
+   },
+   "like_no_thanks": {
+      "message": "Tidak, terima kasih"
+   },
+   "like_title": {
+      "message": "Apakah Anda suka aplikasi ini?"
+   },
+   "like_yes": {
+      "message": "Tentu"
+   },
+   "loading": {
+      "message": "Loading"
+   },
+   "loginCodeResend": {
+      "message": "Ulangkan pengiriman"
+   },
+   "loginCodeSent": {
+      "message": "Kode telah dikirim"
+   },
+   "loginSignUp": {
+      "message": "Login / Daftar"
+   },
+   "login_refresh": {
+      "message": "Perbarui setelah login"
+   },
+   "msg_title": {
+      "message": "Tip - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Beberapa area ditemukan, pilih satu."
+   },
+   "my_collections": {
+      "message": "Koleksi Saya"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Kesalahan permintaan jaringan!"
+   },
+   "noSupportMultiPic": {
+      "message": "Potong multi gambar tidak didukung"
+   },
+   "not_support": {
+      "message": "Selamat datang di OpenCapture extension! Anda bisa menjalankan ini di semua halaman web kecuali halaman yang membatasi ekspansi skrip oleh browser. Ini termasuk galeri web store, halaman pengaturan browser, dan ekspansi lainnya<br /><br />Coba halaman web lain seperti <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">yang ini</a>. Selamat bersenang-senang!<br /><br />Browser tidak mengizinkan akses ke beberapa URL karena alasan keamanan. Ini termasuk galeri web store, ekspansi lain, dan URL chrome://, extension://. <b>URL saat ini mungkin terbatas.</b<br /><br />Untuk pertanyaan lebih lanjut, hubungi kami.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Opsiional"
+   },
+   "page_not_ready": {
+      "message": "Sedang memuat, coba lagi nanti."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Anda telah menolak izin pengelolaan unduhan"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium aktif."
+   },
+   "premium_active_price": {
+      "message": "Langganan tahunan aktif"
+   },
+   "premium_active_subtitle": {
+      "message": "Semua mode Premium terbuka di instalasi browser ini."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium aktif"
+   },
+   "premium_all_free": {
+      "message": "Semua fitur Free"
+   },
+   "premium_back": {
+      "message": "Kembali"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Kembali ke OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Unggah ke Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Fitur Premium ini"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Tangkapan HD halaman penuh"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Tangkapan halaman panjang terpisah"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Tangkapan area bergulir"
+   },
+   "premium_free_edit": {
+      "message": "Anotasi, potong, salin, cetak, ekspor PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Tangkap halaman penuh dengan gulir"
+   },
+   "premium_free_hd": {
+      "message": "Tangkapan HD halaman penuh: 5 uji coba gratis"
+   },
+   "premium_free_long_page_split": {
+      "message": "Tangkapan halaman panjang terpisah"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Untuk tangkapan layar harian"
+   },
+   "premium_free_scrollable": {
+      "message": "Tangkapan area bergulir: 5 uji coba gratis"
+   },
+   "premium_free_visible": {
+      "message": "Tangkap bagian terlihat"
+   },
+   "premium_future": {
+      "message": "Akses fitur Premium mendatang"
+   },
+   "premium_hd": {
+      "message": "Tangkapan HD halaman penuh tanpa batas"
+   },
+   "premium_long_page_split": {
+      "message": "Ruang riwayat lebih besar"
+   },
+   "premium_manage": {
+      "message": "Kelola"
+   },
+   "premium_manage_subscription": {
+      "message": "Kelola langganan"
+   },
+   "premium_mode_switching": {
+      "message": "Beralih mode terang/gelap"
+   },
+   "premium_notice_low": {
+      "message": "Uji coba gratis untuk {feature} hampir habis. Tersisa: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Upgrade ke Premium untuk membuka lebih banyak fitur lanjutan."
+   },
+   "premium_notice_used_up": {
+      "message": "Uji coba gratis untuk {feature} sudah habis."
+   },
+   "premium_opening_portal": {
+      "message": "Membuka..."
+   },
+   "premium_opening_stripe": {
+      "message": "Membuka Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Tidak dapat membuka pengelolaan langganan."
+   },
+   "premium_portal_error_full": {
+      "message": "Tidak dapat membuka pengelolaan langganan. Coba lagi nanti."
+   },
+   "premium_portal_opening": {
+      "message": "Membuka..."
+   },
+   "premium_price": {
+      "message": "Langganan tahunan"
+   },
+   "premium_restore_guide": {
+      "message": "Sudah membeli atau memasang ulang?"
+   },
+   "premium_restore_link": {
+      "message": "Pulihkan Premium"
+   },
+   "premium_scrollable": {
+      "message": "Tangkapan area bergulir tanpa batas"
+   },
+   "premium_stripe_error": {
+      "message": "Tidak dapat membuka tautan pembayaran Stripe. Coba lagi nanti."
+   },
+   "premium_subtitle": {
+      "message": "Premium membuka semua mode, termasuk tangkapan HD satu halaman penuh dan area yang dapat digulir."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Upgrade ke Premium untuk mengubah mode."
+   },
+   "premium_title": {
+      "message": "Dukung kami dan upgrade ke OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Tidak diketahui"
+   },
+   "premium_upgrade": {
+      "message": "Upgrade ke Premium"
+   },
+   "premium_valid_until": {
+      "message": "Berlaku hingga"
+   },
+   "print": {
+      "message": "Cetak"
+   },
+   "privacy": {
+      "message": "Privasi"
+   },
+   "privateBeizhu": {
+      "message": "Catatan pribadi"
+   },
+   "refresh_effective": {
+      "message": "Berlaku setelah perbarui"
+   },
+   "reportIssue": {
+      "message": "Laporkan masalah"
+   },
+   "saveUrl2Private": {
+      "message": "Privat"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Atur sebagai privat, hanya terlihat oleh diri sendiri"
+   },
+   "saveUrl2Public": {
+      "message": "Publik"
+   },
+   "saveUrl2Snap": {
+      "message": "Screenshot"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Simpan snapshot halaman web"
+   },
+   "savedFileNameByTile": {
+      "message": "Berdasarkan Judul"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "mis.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Berdasarkan Waktu"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "mis.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Penamaan File"
+   },
+   "scrollable_area_no": {
+      "message": "Tidak ditemukan area yang dapat digulir."
+   },
+   "sendMailCode": {
+      "message": "Kirim"
+   },
+   "setting_appearance": {
+      "message": "Tampilan"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format unggah cloud"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Tentukan format file saat mengunggah tangkapan layar ke drive cloud."
+   },
+   "setting_default_private": {
+      "message": "Privat Default"
+   },
+   "setting_default_private_info": {
+      "message": "Atur default sebagai privat saat simpan ke YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Format Unduhan Gambar"
+   },
+   "setting_down_image_format_info": {
+      "message": "Spesifikasi format gambar untuk unduhan."
+   },
+   "setting_download": {
+      "message": "Unduhan"
+   },
+   "setting_download_save_as": {
+      "message": "Simpan sebagai"
+   },
+   "setting_download_save_as_info": {
+      "message": "Tampilkan dialog 'Simpan sebagai' saat mengunduh screenshot."
+   },
+   "setting_more": {
+      "message": "Lihat lebih banyak pengaturan"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Marjin Halaman"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Spesifikasi margin halaman (unit: pt, rentang 0-40 pt)"
+   },
+   "setting_pdf_papersize": {
+      "message": "Ukuran Kertas"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Spesifikasi ukuran kertas untuk PDF saat ekspor."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Tampilkan dialog simpan ke YesKeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Tampilkan dialog 'Simpan ke YesKeeper' saat menyimpan sebagai snapshot web."
+   },
+   "setting_theme_mode": {
+      "message": "Mode"
+   },
+   "setting_theme_mode_info": {
+      "message": "Pilih tema tampilan untuk halaman OpenCapture."
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "signInWithApple": {
+      "message": "Login dengan Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Login dengan Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Login dengan Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Dengan mendaftar, Anda menyetujui <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Perjanjian Layanan Pengguna</a> dan <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Kebijakan Privasi</a> YesKeeper."
+   },
+   "site_item1": {
+      "message": "Screenshot Web"
+   },
+   "site_item2": {
+      "message": "Buku Catatan Cloud"
+   },
+   "site_item3": {
+      "message": "Baca Nanti"
+   },
+   "site_language": {
+      "message": "Bahasa"
+   },
+   "site_login": {
+      "message": "Login"
+   },
+   "site_reg": {
+      "message": "Daftar"
+   },
+   "snap_shot_prepare": {
+      "message": "Mempersiapkan untuk menggulir dan mengunggah screenshot"
+   },
+   "snap_shot_uploading": {
+      "message": "Mengunggah screenshot..."
+   },
+   "splitMultiImages": {
+      "message": "Catatan: Halaman ini terlalu besar untuk diambil sebagai satu gambar oleh browser. Akan dibagi menjadi beberapa gambar."
+   },
+   "stop_scrolling": {
+      "message": "Hentikan gulir"
+   },
+   "submitFalse": {
+      "message": "Pengiriman gagal!"
+   },
+   "tags_no": {
+      "message": "Tidak ada tag"
+   },
+   "theme_dark": {
+      "message": "Gelap"
+   },
+   "theme_follow_system": {
+      "message": "Ikuti sistem"
+   },
+   "theme_light": {
+      "message": "Terang"
+   },
+   "tryAgainLater": {
+      "message": "Loading, silakan coba lagi nanti"
+   },
+   "uploadToCloudDrive": {
+      "message": "Unggah ke drive cloud"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Gagal mengunggah"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Berhasil diunggah"
+   },
+   "viewMyCollections": {
+      "message": "Lihat Koleksi Saya"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

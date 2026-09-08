@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>OpenCapture</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover" />
+<link href="../assets/lib/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/lib/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+<link href="../assets/css/base.css" type="text/css" rel="stylesheet" />
+<script src="../assets/lib/jquery.js" type="text/javascript"></script>
+<script src="../assets/lib/popper.js" type="text/javascript"></script>
+<script src="../assets/lib/bootstrap.js" type="text/javascript"></script>
+<style type="text/css">
+body {
+	width: 290px;
+	height: 100%;
+	color: #333;
+	background-color: #fff;
+	overflow-y: hidden;
+}
+a { cursor: pointer; }
+.btn-icon { color: #1296db; }
+.content-disabled {
+	color: #a0a4aa;
+	background: #f7f7f8;
+	cursor: default;
+}
+.content-disabled:hover {
+	color: #a0a4aa;
+	background: #f7f7f8;
+}
+.content-disabled .btn-icon {
+	color: #b4bac2;
+}
+.not_surport_text {
+	font-size: .9rem;
+	color: #212529;
+}
+.list-group a {
+	font-size: .9rem;
+}
+</style>
+<link href="../assets/css/theme.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="text-center" id="user_page">
+	<div class="p-2 menus text-left">
+		<div id="not_surport_alert" class="pb-1 d-none">
+			<div class="ml-3 mr-3 mt-2 text-left not_surport_text">
+				<span style="width: 1rem;" class="fa fa-exclamation-triangle mr-2 btn-icon"></span>The current page does not support all features. <a href="#" id="view_more_not_support" class="text-decoration-underline">view more</a>
+			</div>
+			<hr class="my-1">
+		</div>
+		<div class="list-group list-group-flush">
+			<a class="capture_allPage content-disabled list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-camera mr-2 ml-2 btn-icon"></span><span class="capture_allPage_txt">Capture entire page</span></a>
+			<a class="capture_highResAllPage content-disabled list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-picture-o mr-2 ml-2 btn-icon"></span><span class="capture_highResAllPage_txt">HD entire page</span></a>
+			<a class="capture_scrollable content-disabled list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-cut mr-2 ml-2 btn-icon"></span><span class="capture_scrollable_txt">Capture scrollable areas</span></a>
+			<a class="capture_currentPosition content-disabled list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-arrow-circle-o-down mr-2 ml-2 btn-icon"></span><span class="capture_currentPosition_txt">Capture from Current Position</span></a>
+			<a class="capture_page list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-desktop mr-2 ml-2 btn-icon"></span><span class="capture_page_txt">Capture visible part</span></a>
+			<a class="capture_selection content-disabled list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-crop mr-2 ml-2 btn-icon"></span><span class="capture_selection_txt">Capture selection</span></a>
+		</div>
+		<hr class="my-1">
+		<div class="list-group list-group-flush">
+			<a class="report_btn list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-github mr-2 ml-2 btn-icon"></span><span class="report_btn_txt">GitHub / Issues</span></a>
+			<a class="history_btn list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-history mr-2 ml-2 btn-icon"></span><span class="history_btn_txt">History</span></a>
+			<a class="local_setting_btn list-group-item list-group-item-action p-2 border-0"><span style="width: 1rem;" class="fa fa-gear mr-2 ml-2 btn-icon"></span><span class="local_setting_btn_txt">Settings</span></a>
+		</div>
+	</div>
+</div>
+
+<div id="progress_lay" class="pt-4 pb-4 d-none">
+	<div class="progress-icon-wrap" style="margin: 0 auto;position: relative;width: 4rem;height: 4rem; border-radius:50%; background-color: #e9ecef; padding: 0.8rem;">
+		<img src="../assets/capturing.gif" style="width:100%;" />
+	</div>
+	<div class="progress ml-3 mr-3 mt-2">
+		<div id="progressbar" class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"></div>
+	</div>
+	<div class="stop ml-3 mr-3 mt-2 d-none">
+		<button type="button" id="btn_stop" class="btn btn-primary w-100"><span class="fa fa-refresh fa-spin fa-lg mr-1 stop_load" style="display: none;"></span><span class="stop_txt">Stop scrolling</span></button>
+	</div>
+</div>
+
+<div id="not_ready_lay" class="pt-4 pb-4 d-none">
+	<div class="progress-icon-wrap" style="margin: 0 auto;position: relative;width: 4rem;height: 4rem; border-radius:50%; padding: 0.8rem; background-color: #e9ecef;">
+		<img src="../assets/icon.png" style="width:100%;" />
+	</div>
+	<div class="ml-3 mr-3 mt-2 text-center not_ready_text">
+		The page is loading, please try again later.
+	</div>
+</div>
+
+<div id="scrollable_select_lay" class="pt-4 pb-4 d-none">
+	<div id="scrollable_select_btns" class="ml-3 mr-3 mt-2 text-center">
+		Loading...
+	</div>
+</div>
+
+<script src="../assets/js/menu.js" type="text/javascript"></script>
+</body>
+</html>

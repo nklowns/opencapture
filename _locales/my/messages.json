@@ -1,0 +1,626 @@
+{
+   "captureAllPage": {
+      "message": "ဝန်းရံမောင်းပြင်းအား ရယူမည်"
+   },
+   "captureHighResAllPage": {
+      "message": "စာမျက်နှာတစ်ခုလုံးကို HD ဖြင့်"
+   },
+   "capturePageCurrentPosition": {
+      "message": "လက်ရှိတည်နေရာမှ ဖမ်းယူမည်"
+   },
+   "capturePage": {
+      "message": "ကြည့်ရှုနိုင်သော အပိုင်းကို ရယူမည်"
+   },
+   "captureSelection": {
+      "message": "ရွေးချယ်မှုကို ရယူမည်"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "msg_title": {
+      "message": "ချက် - OpenCapture"
+   },
+   "error_no": {
+      "message": "မရှိမရှိ အမှန်မရှိ အရေးကြီးမှု ဖြစ်ပါသည်!"
+   },
+   "net_error": {
+      "message": "ကွန်ယက် စာတိုက် အမှန်မရှိ!"
+   },
+   "capture_interrupted": {
+      "message": "တပ်ပြောင်းလဲမှု မှတ်မိသည်၊ စကရင်ရှော့ ပိတ်ထားသည်!"
+   },
+   "page_not_ready": {
+      "message": "တင်နေသည်၊ နောက်တစ်ခါလွဲပြီး လုပ်ဆောင်ပါ။"
+   },
+   "captureScrollable": {
+      "message": "ရွှေ့လျားနိုင်သောဒေသပေါ်ကို ဖမ်းမိပါ"
+   },
+   "multi_scrollable": {
+      "message": "စကားဝှက်များရှိသည်၊ တစ်ခုရွေးပါ။"
+   },
+   "scrollable_area_no": {
+      "message": "スクロールလုပ်လို့ရတဲ့ဧရိယာမတွေ့ပါ။"
+   },
+   "capture_scroll": {
+      "message": "ဤကို ဖမ်းမိပါ"
+   },
+   "img": {
+      "message": "ပုံ"
+   },
+   "copy_success": {
+      "message": "ကိုးကားစားမည် အောက်ကားသိမ်းမည်!"
+   },
+   "copy_false": {
+      "message": "ကိုးကားစားမည် မရှိပါသည်!"
+   },
+   "site_language": {
+      "message": "ဘာသာ"
+   },
+   "btn_ok": {
+      "message": "အောက်ကား"
+   },
+   "btn_cancel": {
+      "message": "ရပ်ဖို့"
+   },
+   "btn_remove": {
+      "message": "ဖြည့်စားမည်"
+   },
+   "btn_view": {
+      "message": "ကြည့်မည်"
+   },
+   "captureClickAnnotate": {
+      "message": "Screenshot ပုံမှာ ကိုးကားမည်ရင် မှတ်သားမည်"
+   },
+   "captureAnnotate": {
+      "message": "မှတ်သားမည်"
+   },
+   "copyToClipBoard": {
+      "message": "ကိုးကားစားမည်"
+   },
+   "captureDownload": {
+      "message": "ပုံသိမ်းမည်"
+   },
+   "capture2pdfDownload": {
+      "message": "PDF သိမ်းမည်"
+   },
+   "print": {
+      "message": "ပေါ်တင်မည်"
+   },
+   "copyNotSupport": {
+      "message": "သင်းဘာသာမှာ ပုံမှ ကိုးကားစားမည်ကို မရှိမရှိ အသုပ်မှာ!"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "ပုံကို ကိုးကားစားမည် အောက်ကားသိမ်းမည်!"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "ပုံကို ကိုးကားစားမည် မရှိပါသည်!"
+   },
+   "splitMultiImages": {
+      "message": "အမှန်မရှိ မှတ်သားမည်: ဖက်မှန်မရှိ ဝန်းရံမောင်း ပုံမှ ကိုးကားစားမည် အင်္ဂလိပ်မှ သိမ်းမည် မရှိပါက အသုပ်မှ ပုံများစုံ ဖြစ်ပါသည်။"
+   },
+   "settings": {
+      "message": "စီမံကိန်း"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_papersize": {
+      "message": "စားမည်ရည်"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "PDF သိမ်းမည်ရင် စားမည်ရည်ကို သတ်မှတ်မည်"
+   },
+   "setting_pdf_margin": {
+      "message": "စားမည်ကိုး"
+   },
+   "setting_pdf_margin_info": {
+      "message": "PDF စားမည်ကိုးကို pt အဖြစ် သတ်မှတ်မည် (0-40pt အတင်း)"
+   },
+   "setting_download": {
+      "message": "သိမ်းမည်"
+   },
+   "setting_download_save_as": {
+      "message": "သိမ်းမည်အဖြစ်"
+   },
+   "setting_download_save_as_info": {
+      "message": "Screenshot သိမ်းမည်ရင် 『Save as』 ဒေါ့မဲ့ ပြင်သိမ်းမည်"
+   },
+   "setting_down_image_format": {
+      "message": "ပုံသိမ်းမည်ရည်"
+   },
+   "setting_down_image_format_info": {
+      "message": "Screenshot သိမ်းမည်ရင် ပုံသိမ်းမည်ရည်ကို သတ်မှတ်မည်"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Cloud upload ဖိုင်ပုံစံ"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Screenshot များကို cloud drive သို့ upload တင်ရာတွင် ဖိုင်ပုံစံကို သတ်မှတ်ပါ။"
+   },
+   "privacy": {
+      "message": "ကာကွန်း"
+   },
+   "delete": {
+      "message": "ဖြည့်စားမည်"
+   },
+   "deleteAlert": {
+      "message": "ရှိမရှိ ဖြည့်စားမည်?"
+   },
+   "crop": {
+      "message": "ချက်စား"
+   },
+   "not_support": {
+      "message": "Welcome to the OpenCapture extension.You can run this on any webpage, except for ones where the browser restricts extensions from running scripts. This includes the extension web store, browser settings pages, and other extensions<br /><br />Try out another page on the web, such as <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">this one</a>. Have fun!<br /><br />The browser does not allow access to some URLs for security reasons. This includes the web store gallery, other extensions, and chrome://, extension:// URLs. <b>The current page appears to be a restricted URL.</b<br /><br />For additional questions, contact us.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "close": {
+      "message": "ပိတ်မည်"
+   },
+   "tryAgainLater": {
+      "message": "ဝန်းရံမောင်းပြင်းရင် အချိန်ကို ကြည့်မည်"
+   },
+   "login_refresh": {
+      "message": "လက်ရှိ ဝင်ရောက်မှ ပြင်သိမ်းမည်"
+   },
+   "iframe_capture": {
+      "message": "iframe ထပ်မံရှိပါက အောက်ကားမှ ရယူမည်!"
+   },
+   "noSupportMultiPic": {
+      "message": "ပုံများစုံ ချက်စားမည် မရှိပါ"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Download ကို ခွင့်ပြုမည်"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Download ကို ခွင့်ပြုမည် အတင်းမရှိပါ"
+   },
+   "permissionDownloadsDenied": {
+      "message": "Download ကို ခွင့်ပြုမည် ကို ငြင်းဆန်မည်"
+   },
+   "reportIssue": {
+      "message": "အရေးကြီးမှု တင်ပြမည်"
+   },
+   "issueTitleAdd": {
+      "message": "ခေါက်သား ပါဝင်မည်"
+   },
+   "issueContentAdd": {
+      "message": "အရေးကြီးမှု အကျိုးဝင်းမည်"
+   },
+   "issueUrl": {
+      "message": "URL"
+   },
+   "issueEmail": {
+      "message": "Email"
+   },
+   "btn_submit": {
+      "message": "တင်ပြ"
+   },
+   "like_title": {
+      "message": "ဤကိရိယာကို ကြိုက်ပါသလား?"
+   },
+   "like_body": {
+      "message": "အသုံးဝင်သောအစီအစဉ်တစ်ခုကို ဖွံ့ဖြိုးတိုးတက်ရန် အထူးအဆင့်အထိ ကြိုးစားမှုများလိုအပ်သည်၊ သင့်အား ကြိုက်နှစ်သက်ပျော်ပါကြောင်း ဝမ်းသာပါသည်!<br /><br />ကျေးဇူးပြု၍ တစ်မိနစ်သာ ချိန်ယူပြီး ကျွန်တော်တို့အား ငါးကြိမ်တန်းအကဲဖြတ်မှု ပေးနိုင်မလား? ၎င်းသည် ကျွန်တော်တို့အတွက် အလွန်အကောင်းဆုံးဖြစ်ပါသည်။ :)"
+   },
+   "like_yes": {
+      "message": "ဟုတ်ကဲ့"
+   },
+   "like_no_thanks": {
+      "message": "မလိုပါ၊ ကျေးဇူးတင်ပါတယ်"
+   },
+   "stop_scrolling": {
+      "message": "စကရိုက်ပယ်ပါ"
+   },
+   "fav_edit": {
+      "message": "ကိုးကားစားမည် ပြင်မည်"
+   },
+   "fav_success_edit": {
+      "message": "ပြင်မည် အောက်ကားသိမ်းမည်!"
+   },
+   "exist_info": {
+      "message": "ဝန်းရံမောင်း ရယူမည်!"
+   },
+   "btn_snap": {
+      "message": "ရယူ"
+   },
+   "btn_lock": {
+      "message": "ကာကွန်း"
+   },
+   "snap_shot_prepare": {
+      "message": "ဝန်းရံမောင်း ပြင်း စားမည်ရင် အောက်ကားသိမ်းမည်"
+   },
+   "snap_shot_uploading": {
+      "message": "အောက်ကားသိမ်းမည်..."
+   },
+   "auto_clase": {
+      "message": "အောက်ကား ပိတ်မည်"
+   },
+   "error_upload_snap": {
+      "message": "အောက်ကား သိမ်းမည် အမှန်မရှိ!"
+   },
+   "default_set": {
+      "message": "အမှန်မရှိ သတ်မှတ်"
+   },
+   "add": {
+      "message": "ပါဝင်"
+   },
+   "vip": {
+      "message": "Pro"
+   },
+   "tags_no": {
+      "message": "ကိုးကားမည် မရှိ"
+   },
+   "loading": {
+      "message": "ဝန်းရံ..."
+   },
+   "setting_more": {
+      "message": "အသုပ်များ"
+   },
+   "site_item1": {
+      "message": "Webpage Snapshot"
+   },
+   "site_item2": {
+      "message": "Cloud Bookmarks"
+   },
+   "site_item3": {
+      "message": "Read Later"
+   },
+   "site_login": {
+      "message": "ဝင်ရောက်"
+   },
+   "site_reg": {
+      "message": "လက်ရှိ ဝင်ရောက်"
+   },
+   "refresh_effective": {
+      "message": "ပြင်သိမ်းမည် အောက်ကားမှ အသုပ်မည်"
+   },
+   "my_collections": {
+      "message": "My Collections"
+   },
+   "favUrl": {
+      "message": "URL"
+   },
+   "favTitle": {
+      "message": "ခေါက်သား"
+   },
+   "favTag": {
+      "message": "ကိုးကား"
+   },
+   "favTagPlaceholder": {
+      "message": "ကိုးကား"
+   },
+   "favMyTags": {
+      "message": "My Tags"
+   },
+   "clickSel": {
+      "message": "ကိုးကားမည်"
+   },
+   "favSuggestTag": {
+      "message": "ကိုးကား အကြောင်း"
+   },
+   "privateBeizhu": {
+      "message": "Private remarks"
+   },
+   "clickUnfold": {
+      "message": "ဖြည့်စားမည်"
+   },
+   "favOption": {
+      "message": "အသုပ်"
+   },
+   "saveUrl2Snap": {
+      "message": "Snapshot"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Webpage snapshot ရယူမည်"
+   },
+   "saveUrl2Private": {
+      "message": "Private"
+   },
+   "saveUrl2Public": {
+      "message": "Public"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Private သတ်မှတ်မည် - သားသားများသာ ကြည့်ရှုမည်"
+   },
+   "optional": {
+      "message": "Optional"
+   },
+   "favTagLengthOver": {
+      "message": "ကိုးကား အရှည် မရှိ!"
+   },
+   "favTagNumOver": {
+      "message": "ကိုးကား အရေအတ် မရှိ!"
+   },
+   "MailVerificationCode": {
+      "message": "Verification Code"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "sendMailCode": {
+      "message": "Send"
+   },
+   "loginSignUp": {
+      "message": "Log In / Sign Up"
+   },
+   "accountLogin": {
+      "message": "Account password login"
+   },
+   "signUpAgreement": {
+      "message": "By signing up, you agree to YesKeeper's <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">User Service Agreement</a> and <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Privacy Policy</a>"
+   },
+   "submitFalse": {
+      "message": "တင်ပြ မရှိ!"
+   },
+   "imgCodeInput": {
+      "message": "Image verification code ကို ထည့်မည်"
+   },
+   "loginCodeSent": {
+      "message": "Sent"
+   },
+   "loginCodeResend": {
+      "message": "Resend"
+   },
+   "bar_copy": {
+      "message": "Copy"
+   },
+   "bar_save": {
+      "message": "Save"
+   },
+   "fav_success": {
+      "message": "ရယူမည် အောက်ကား!"
+   },
+   "viewMyCollections": {
+      "message": "View My Collections"
+   },
+   "forgetPsw": {
+      "message": "Forget Password?"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Upload this screenshot"
+   },
+   "exitUploading": {
+      "message": "Uploading, are you sure you want to leave?"
+   },
+   "setting_default_private": {
+      "message": "Default Private"
+   },
+   "setting_default_private_info": {
+      "message": "Save to YesKeeper ရင် Default Private သတ်မှတ်မည်"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Show save to yeskeeper dialog"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Save as a webpage Snapshot ရင် Save to YesKeeper ဒေါ့မဲ့ ပြင်သိမ်းမည်"
+   },
+   "signInWithGoogle": {
+      "message": "Sign in with Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Sign in with Microsoft"
+   },
+   "signInWithApple": {
+      "message": "Sign in with Apple"
+   },
+   "savedFileNameSet": {
+      "message": "ဖိုင်အမည်ပေးခြင်း"
+   },
+   "savedFileNameByTime": {
+      "message": "အချိန်အလိုက်"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "ဥပမာ: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameByTile": {
+      "message": "ခေါင်းစဉ်အလိုက်"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "ဥပမာ: Google.png"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD စခရင်ရှော့)"
+   },
+   "history": {
+      "message": "မှတ်တမ်း"
+   },
+   "historyEmpty": {
+      "message": "စခရင်ရှော့ မှတ်တမ်း မရှိသေးပါ။"
+   },
+   "historyUnknownDomain": {
+      "message": "မသိသော ဒိုမိန်း"
+   },
+   "historyClear": {
+      "message": "ရှင်းလင်းရန်"
+   },
+   "historyClearConfirm": {
+      "message": "စခရင်ရှော့ မှတ်တမ်းအားလုံးကို ဖျက်မလား?"
+   },
+   "historyDelete": {
+      "message": "ဖျက်ရန်"
+   },
+   "historyClearDialogTitle": {
+      "message": "မှတ်တမ်း ရှင်းလင်းရန်"
+   },
+   "historyClearOlder3Months": {
+      "message": "၃ လထက် ပိုဟောင်းသော မှတ်တမ်းများကို ဖျက်ရန်"
+   },
+   "historyClearOlder1Month": {
+      "message": "၁ လထက် ပိုဟောင်းသော မှတ်တမ်းများကို ဖျက်ရန်"
+   },
+   "historyClearAll": {
+      "message": "မှတ်တမ်းအားလုံးကို ဖျက်ရန်"
+   },
+   "uploadToCloudDrive": {
+      "message": "Cloud Drive သို့ တင်ရန်"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "အောင်မြင်စွာ တင်ပြီးပါပြီ"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "တင်ခြင်း မအောင်မြင်ပါ"
+   },
+   "setting_appearance": {
+      "message": "အသွင်အပြင်"
+   },
+   "setting_theme_mode": {
+      "message": "အပြင်အဆင်"
+   },
+   "setting_theme_mode_info": {
+      "message": "OpenCapture စာမျက်နှာများအတွက် ပြသမှုအပြင်အဆင်ကို ရွေးချယ်ပါ။"
+   },
+   "theme_follow_system": {
+      "message": "စနစ်ဆက်တင်အတိုင်း"
+   },
+   "theme_light": {
+      "message": "အလင်း"
+   },
+   "theme_dark": {
+      "message": "အမှောင်"
+   },
+   "premium_manage_subscription": {
+      "message": "စာရင်းသွင်းမှုကို စီမံရန်"
+   },
+   "premium_portal_opening": {
+      "message": "ဖွင့်နေသည်..."
+   },
+   "premium_portal_error": {
+      "message": "စာရင်းသွင်းမှု စီမံခန့်ခွဲမှုကို ဖွင့်၍မရပါ။"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "မုဒ်ပြောင်းရန် Premium သို့ အဆင့်မြှင့်ပါ။"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} အတွက် အခမဲ့စမ်းသပ်ခွင့် ကုန်ဆုံးပါပြီ။"
+   },
+   "premium_notice_low": {
+      "message": "{feature} အတွက် အခမဲ့စမ်းသပ်ခွင့် ကုန်ခါနီးပါပြီ။ ကျန်: {remaining}။"
+   },
+   "premium_notice_no_feature": {
+      "message": "ပိုမိုမြင့်မားသော လုပ်ဆောင်ချက်များ ဖွင့်ရန် Premium သို့ အဆင့်မြှင့်ပါ။"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium အသုံးပြုနိုင်ပါပြီ။"
+   },
+   "premium_title": {
+      "message": "ကျွန်ုပ်တို့ကို ထောက်ပံ့ပြီး OpenCapture Premium သို့ အဆင့်မြှင့်ပါ"
+   },
+   "premium_subtitle": {
+      "message": "Premium သည် HD စာမျက်နှာအပြည့်နှင့် scroll နိုင်သောဧရိယာ ဖမ်းယူမှုများအပါအဝင် မုဒ်အားလုံးကို ဖွင့်ပေးသည်။"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium အသုံးပြုနိုင်ပါပြီ"
+   },
+   "premium_active_subtitle": {
+      "message": "ဤ browser ထည့်သွင်းမှုတွင် Premium မုဒ်အားလုံး ဖွင့်ပြီးပါပြီ။"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "နေ့စဉ် screenshot များအတွက်"
+   },
+   "premium_free_visible": {
+      "message": "မြင်ရသောအပိုင်းကို ဖမ်းယူ"
+   },
+   "premium_free_full": {
+      "message": "Scroll ဖြင့် စာမျက်နှာအပြည့် ဖမ်းယူ"
+   },
+   "premium_free_edit": {
+      "message": "မှတ်ချက်၊ ဖြတ်တောက်၊ ကူးယူ၊ ပရင့်၊ PDF/JPG/PNG ထုတ်ရန်"
+   },
+   "premium_free_hd": {
+      "message": "HD စာမျက်နှာအပြည့် ဖမ်းယူမှု: အခမဲ့ ၅ ကြိမ်"
+   },
+   "premium_free_scrollable": {
+      "message": "Scroll ဧရိယာ ဖမ်းယူမှု: အခမဲ့ ၅ ကြိမ်"
+   },
+   "premium_free_long_page_split": {
+      "message": "စာမျက်နှာရှည် ခွဲဖမ်းယူမှု"
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_price": {
+      "message": "နှစ်စဉ် စာရင်းသွင်းမှု"
+   },
+   "premium_active_price": {
+      "message": "နှစ်စဉ် စာရင်းသွင်းမှု အသက်ဝင်နေသည်"
+   },
+   "premium_all_free": {
+      "message": "Free ထဲရှိ အရာအားလုံး"
+   },
+   "premium_hd": {
+      "message": "HD စာမျက်နှာအပြည့် အကန့်အသတ်မရှိ"
+   },
+   "premium_scrollable": {
+      "message": "Scroll ဧရိယာ ဖမ်းယူမှု အကန့်အသတ်မရှိ"
+   },
+   "premium_long_page_split": {
+      "message": "သမိုင်းနေရာ ပိုများ"
+   },
+   "premium_cloud": {
+      "message": "Google Drive သို့ တင်ရန်"
+   },
+   "premium_mode_switching": {
+      "message": "Light/Dark မုဒ် ပြောင်းရန်"
+   },
+   "premium_future": {
+      "message": "နောင်လာမည့် Premium လုပ်ဆောင်ချက်များ"
+   },
+   "premium_back": {
+      "message": "နောက်သို့"
+   },
+   "premium_upgrade": {
+      "message": "Premium သို့ အဆင့်မြှင့်"
+   },
+   "premium_valid_until": {
+      "message": "သက်တမ်းကုန်မည့်နေ့"
+   },
+   "premium_unknown_date": {
+      "message": "မသိပါ"
+   },
+   "premium_back_to_opencapture": {
+      "message": "OpenCapture သို့ ပြန်သွားရန်"
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe ဖွင့်နေသည်..."
+   },
+   "premium_stripe_error": {
+      "message": "Stripe ငွေပေးချေမှုလင့်ခ် မဖွင့်နိုင်ပါ။ နောက်မှ ထပ်ကြိုးစားပါ။"
+   },
+   "premium_manage": {
+      "message": "စီမံရန်"
+   },
+   "premium_opening_portal": {
+      "message": "ဖွင့်နေသည်..."
+   },
+   "premium_portal_error_full": {
+      "message": "စာရင်းသွင်းမှု စီမံခန့်ခွဲမှု မဖွင့်နိုင်ပါ။ နောက်မှ ထပ်ကြိုးစားပါ။"
+   },
+   "premium_restore_guide": {
+      "message": "ဝယ်ပြီးသား သို့မဟုတ် ပြန်ထည့်သွင်းထားပါသလား?"
+   },
+   "premium_restore_link": {
+      "message": "Premium ပြန်လည်ရယူရန်"
+   },
+   "premium_feature_title_default": {
+      "message": "ဤ Premium လုပ်ဆောင်ချက်"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD စာမျက်နှာအပြည့် ဖမ်းယူမှု"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Scroll ဧရိယာ ဖမ်းယူမှု"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "စာမျက်နှာရှည် ခွဲဖမ်းယူမှု"
+   }
+}

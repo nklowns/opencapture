@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Verificatiecode"
+   },
+   "accountLogin": {
+      "message": "Inloggen met wachtwoord"
+   },
+   "add": {
+      "message": "Toevoegen"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Autoriseer eerst downloadmachtigingen"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Downloadmachtigingen autoriseren"
+   },
+   "auto_clase": {
+      "message": "Venster automatisch sluiten"
+   },
+   "bar_copy": {
+      "message": "Kopiëren"
+   },
+   "bar_save": {
+      "message": "Opslaan"
+   },
+   "btn_cancel": {
+      "message": "Annuleren"
+   },
+   "btn_lock": {
+      "message": "Privé"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Verwijderen"
+   },
+   "btn_snap": {
+      "message": "Momentopname"
+   },
+   "btn_submit": {
+      "message": "Verzenden"
+   },
+   "btn_view": {
+      "message": "Bekijken"
+   },
+   "capture2pdfDownload": {
+      "message": "Opslaan als PDF"
+   },
+   "captureAllPage": {
+      "message": "Hele pagina vastleggen"
+   },
+   "captureAnnotate": {
+      "message": "Annoteren"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Deze screenshot uploaden"
+   },
+   "captureClickAnnotate": {
+      "message": "Klik op de screenshot om aantekeningen te maken"
+   },
+   "captureDownload": {
+      "message": "Afbeelding opslaan"
+   },
+   "captureHighResAllPage": {
+      "message": "Volledige pagina in HD"
+   },
+   "capturePage": {
+      "message": "Zichtbaar gedeelte vastleggen"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Vanaf huidige positie vastleggen"
+   },
+   "captureScrollable": {
+      "message": "Scrollbare gebied vastleggen"
+   },
+   "captureSelection": {
+      "message": "Selectie vastleggen"
+   },
+   "capture_interrupted": {
+      "message": "Tab-wissel gedetecteerd, screenshot gestopt!"
+   },
+   "capture_scroll": {
+      "message": "Dit vastleggen"
+   },
+   "clickSel": {
+      "message": "Klik om te selecteren"
+   },
+   "clickUnfold": {
+      "message": "Klik om uit te vouwen"
+   },
+   "close": {
+      "message": "Sluiten"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Kan afbeelding niet kopiëren"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Afbeelding gekopieerd naar klembord"
+   },
+   "copyNotSupport": {
+      "message": "Uw browser ondersteunt het kopiëren van afbeeldingen niet!"
+   },
+   "copyToClipBoard": {
+      "message": "Kopiëren naar klembord"
+   },
+   "copy_false": {
+      "message": "Kopiëren mislukt!"
+   },
+   "copy_success": {
+      "message": "Gekopieerd naar klembord!"
+   },
+   "crop": {
+      "message": "Bijsnijden"
+   },
+   "default_set": {
+      "message": "Standaardinstelling"
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "deleteAlert": {
+      "message": "Weet u zeker dat u wilt verwijderen?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Onbekende fout opgetreden!"
+   },
+   "error_upload_snap": {
+      "message": "Fout bij uploaden momentopname!"
+   },
+   "exist_info": {
+      "message": "De webpagina is opgeslagen!"
+   },
+   "exitUploading": {
+      "message": "Uploaden bezig, weet je zeker dat je wilt verlaten?"
+   },
+   "favMyTags": {
+      "message": "Mijn Tags"
+   },
+   "favOption": {
+      "message": "Optie"
+   },
+   "favSuggestTag": {
+      "message": "Tags voorstellen"
+   },
+   "favTag": {
+      "message": "Tag"
+   },
+   "favTagLengthOver": {
+      "message": "Tag is te lang"
+   },
+   "favTagNumOver": {
+      "message": "Het aantal tags overschrijdt de limiet!"
+   },
+   "favTagPlaceholder": {
+      "message": "Tags"
+   },
+   "favTitle": {
+      "message": "Titel"
+   },
+   "favUrl": {
+      "message": "Link"
+   },
+   "fav_edit": {
+      "message": "Collectie bewerken"
+   },
+   "fav_success": {
+      "message": "Opslaan geslaagd!"
+   },
+   "fav_success_edit": {
+      "message": "Opslaan geslaagd - Bewerken"
+   },
+   "forgetPsw": {
+      "message": "Wachtwoord vergeten?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(2x HD-screenshot)"
+   },
+   "history": {
+      "message": "Geschiedenis"
+   },
+   "historyClear": {
+      "message": "Wissen"
+   },
+   "historyClearAll": {
+      "message": "Alle records wissen"
+   },
+   "historyClearConfirm": {
+      "message": "Alle screenshotgeschiedenis wissen?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Geschiedenis wissen"
+   },
+   "historyClearOlder1Month": {
+      "message": "Records ouder dan 1 maand wissen"
+   },
+   "historyClearOlder3Months": {
+      "message": "Records ouder dan 3 maanden wissen"
+   },
+   "historyDelete": {
+      "message": "Verwijderen"
+   },
+   "historyEmpty": {
+      "message": "Nog geen screenshotgeschiedenis."
+   },
+   "historyUnknownDomain": {
+      "message": "Onbekend domein"
+   },
+   "iframe_capture": {
+      "message": "Iframe-nesting gedetecteerd! Maak de volledige screenshot opnieuw op de automatisch geopende pagina"
+   },
+   "img": {
+      "message": "Afbeelding"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Voer de afbeelding verificatiecode in!"
+   },
+   "issueContentAdd": {
+      "message": "Een korte beschrijving van het probleem"
+   },
+   "issueEmail": {
+      "message": "E-mail"
+   },
+   "issueTitleAdd": {
+      "message": "Voeg een titel toe"
+   },
+   "issueUrl": {
+      "message": "Link"
+   },
+   "like_body": {
+      "message": "Het ontwikkelen van een nuttig programma kost veel moeite en we zijn blij dat je het leuk vindt!<br /><br />Zou je een minuut de tijd willen nemen om ons een beoordeling van vijf sterren te geven? Het zou ons enorm helpen. :)"
+   },
+   "like_no_thanks": {
+      "message": "Nee, bedankt"
+   },
+   "like_title": {
+      "message": "Vind je dit hulpmiddel leuk?"
+   },
+   "like_yes": {
+      "message": "Ja"
+   },
+   "loading": {
+      "message": "Laden"
+   },
+   "loginCodeResend": {
+      "message": "Opnieuw verzenden"
+   },
+   "loginCodeSent": {
+      "message": "Verzonden"
+   },
+   "loginSignUp": {
+      "message": "Inloggen / Registreren"
+   },
+   "login_refresh": {
+      "message": "Ververs na inloggen"
+   },
+   "msg_title": {
+      "message": "Tip - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Meerdere gebieden gevonden, kies er één."
+   },
+   "my_collections": {
+      "message": "Mijn Collecties"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Netwerkverzoekfout!"
+   },
+   "noSupportMultiPic": {
+      "message": "Meerdere afbeeldingen bijsnijden wordt niet ondersteund"
+   },
+   "not_support": {
+      "message": "Welkom bij de OpenCapture-extensie. U kunt deze uitvoeren op elke webpagina, behalve op pagina's waar de browser extensies verbiedt scripts uit te voeren. Dit omvat de extensiewinkel, browserinstellingen en andere extensies.<br /><br />Probeer een andere webpagina, zoals <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">deze</a>. Veel plezier!<br /><br />De browser staat om veiligheidsredenen geen toegang toe tot bepaalde URL's. Dit omvat de webwinkelgalerij, andere extensies en chrome://, extension:// URL's. <b>De huidige pagina lijkt een beperkte URL te zijn.</b><br /><br />Voor verdere vragen, neem contact met ons op.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Optioneel"
+   },
+   "page_not_ready": {
+      "message": "Bezig met laden, probeer later opnieuw."
+   },
+   "permissionDownloadsDenied": {
+      "message": "U heeft toestemming voor downloadbeheer geweigerd"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium is actief."
+   },
+   "premium_active_price": {
+      "message": "Jaarabonnement actief"
+   },
+   "premium_active_subtitle": {
+      "message": "Alle Premium-modi zijn ontgrendeld voor deze browserinstallatie."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium is actief"
+   },
+   "premium_all_free": {
+      "message": "Alles van Free"
+   },
+   "premium_back": {
+      "message": "Terug"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Terug naar OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Uploaden naar Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Deze Premium-functie"
+   },
+   "premium_feature_title_high_res": {
+      "message": "HD-screenshots volledige pagina"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Lange pagina’s in delen vastleggen"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Screenshots van scrollbare gebieden"
+   },
+   "premium_free_edit": {
+      "message": "Annoteren, bijsnijden, kopiëren, afdrukken, PDF/JPG/PNG exporteren"
+   },
+   "premium_free_full": {
+      "message": "Volledige pagina met scrollen vastleggen"
+   },
+   "premium_free_hd": {
+      "message": "HD-screenshots volledige pagina: 5 gratis tests"
+   },
+   "premium_free_long_page_split": {
+      "message": "Lange pagina’s in delen vastleggen"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Voor dagelijkse screenshots"
+   },
+   "premium_free_scrollable": {
+      "message": "Screenshots van scrollbare gebieden: 5 gratis tests"
+   },
+   "premium_free_visible": {
+      "message": "Zichtbaar deel vastleggen"
+   },
+   "premium_future": {
+      "message": "Toegang tot toekomstige Premium-functies"
+   },
+   "premium_hd": {
+      "message": "Onbeperkte HD-screenshots volledige pagina"
+   },
+   "premium_long_page_split": {
+      "message": "Meer ruimte voor geschiedenis"
+   },
+   "premium_manage": {
+      "message": "Beheren"
+   },
+   "premium_manage_subscription": {
+      "message": "Abonnement beheren"
+   },
+   "premium_mode_switching": {
+      "message": "Schakelen tussen licht/donker"
+   },
+   "premium_notice_low": {
+      "message": "Je gratis proefbeurten voor {feature} zijn bijna op. Resterend: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Upgrade naar Premium om meer geavanceerde functies te ontgrendelen."
+   },
+   "premium_notice_used_up": {
+      "message": "Je gratis proefbeurten voor {feature} zijn op."
+   },
+   "premium_opening_portal": {
+      "message": "Openen..."
+   },
+   "premium_opening_stripe": {
+      "message": "Stripe openen..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Kan abonnementsbeheer niet openen."
+   },
+   "premium_portal_error_full": {
+      "message": "Kan abonnementsbeheer niet openen. Probeer later opnieuw."
+   },
+   "premium_portal_opening": {
+      "message": "Bezig met openen..."
+   },
+   "premium_price": {
+      "message": "Jaarabonnement"
+   },
+   "premium_restore_guide": {
+      "message": "Al gekocht of opnieuw geïnstalleerd?"
+   },
+   "premium_restore_link": {
+      "message": "Premium herstellen"
+   },
+   "premium_scrollable": {
+      "message": "Onbeperkte screenshots van scrollbare gebieden"
+   },
+   "premium_stripe_error": {
+      "message": "Kan Stripe-betaallink niet openen. Probeer later opnieuw."
+   },
+   "premium_subtitle": {
+      "message": "Premium ontgrendelt alle modi, inclusief HD-screenshots van volledige pagina’s en scrollbare gebieden."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Upgrade naar Premium om de modus te wijzigen."
+   },
+   "premium_title": {
+      "message": "Steun ons en upgrade naar OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Onbekend"
+   },
+   "premium_upgrade": {
+      "message": "Upgrade naar Premium"
+   },
+   "premium_valid_until": {
+      "message": "Geldig tot"
+   },
+   "print": {
+      "message": "Afdrukken"
+   },
+   "privacy": {
+      "message": "Privacy"
+   },
+   "privateBeizhu": {
+      "message": "Privé-opmerkingen"
+   },
+   "refresh_effective": {
+      "message": "Effectief na vernieuwen"
+   },
+   "reportIssue": {
+      "message": "Probleem melden"
+   },
+   "saveUrl2Private": {
+      "message": "Privé"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Instellen als privé, alleen zichtbaar voor jezelf"
+   },
+   "saveUrl2Public": {
+      "message": "Openbaar"
+   },
+   "saveUrl2Snap": {
+      "message": "Momentopname"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Webpagina-momentopname opslaan"
+   },
+   "savedFileNameByTile": {
+      "message": "Op titel"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "bijv.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Op tijd"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "bijv.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Bestandsnaam"
+   },
+   "scrollable_area_no": {
+      "message": "Geen scrollbaar gebied gevonden."
+   },
+   "sendMailCode": {
+      "message": "Verzenden"
+   },
+   "setting_appearance": {
+      "message": "Weergave"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Cloud-uploadformaat"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Geef het bestandsformaat op bij het uploaden van screenshots naar de clouddrive."
+   },
+   "setting_default_private": {
+      "message": "Standaard Privé"
+   },
+   "setting_default_private_info": {
+      "message": "Specificeer standaard privé bij opslaan naar YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Afbeelding opslaan"
+   },
+   "setting_down_image_format_info": {
+      "message": "Specificeer het afbeeldingsformaat voor het downloaden van screenshots."
+   },
+   "setting_download": {
+      "message": "Downloaden"
+   },
+   "setting_download_save_as": {
+      "message": "Opslaan als"
+   },
+   "setting_download_save_as_info": {
+      "message": "Toon een \"opslaan als\"-dialoogvenster bij het downloaden van screenshots."
+   },
+   "setting_more": {
+      "message": "Meer instellingen"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Paginamarge"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Specificeer de paginamarge in pt, bereik (0-40) pt"
+   },
+   "setting_pdf_papersize": {
+      "message": "Papierformaat"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Specificeer het papierformaat voor export naar PDF."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Toon 'Opslaan naar YesKeeper' dialoog"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Toon 'Opslaan naar YesKeeper' dialoog voor het opslaan als een webpagina-momentopname"
+   },
+   "setting_theme_mode": {
+      "message": "Modus"
+   },
+   "setting_theme_mode_info": {
+      "message": "Kies het weergavethema voor OpenCapture-pagina's."
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "signInWithApple": {
+      "message": "Aanmelden met Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Aanmelden met Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Aanmelden met Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Door je te registreren, ga je akkoord met YesKeeper's <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Gebruikersovereenkomst</a> en <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Privacybeleid</a>"
+   },
+   "site_item1": {
+      "message": "Webpagina Momentopname"
+   },
+   "site_item2": {
+      "message": "Cloud Bladwijzers"
+   },
+   "site_item3": {
+      "message": "Later lezen"
+   },
+   "site_language": {
+      "message": "Taal"
+   },
+   "site_login": {
+      "message": "Inloggen"
+   },
+   "site_reg": {
+      "message": "Registreren"
+   },
+   "snap_shot_prepare": {
+      "message": "Voorbereiden om het scherm te scrollen en momentopname te uploaden"
+   },
+   "snap_shot_uploading": {
+      "message": "Momentopname wordt geüpload..."
+   },
+   "splitMultiImages": {
+      "message": "Opmerking: Deze pagina is te groot om door de browser als één afbeelding vast te leggen. De pagina wordt verdeeld in meerdere afbeeldingen."
+   },
+   "stop_scrolling": {
+      "message": "Stop met scrollen"
+   },
+   "submitFalse": {
+      "message": "Indienen mislukt!"
+   },
+   "tags_no": {
+      "message": "Geen tags"
+   },
+   "theme_dark": {
+      "message": "Donker"
+   },
+   "theme_follow_system": {
+      "message": "Systeem volgen"
+   },
+   "theme_light": {
+      "message": "Licht"
+   },
+   "tryAgainLater": {
+      "message": "Laden, probeer het later opnieuw"
+   },
+   "uploadToCloudDrive": {
+      "message": "Uploaden naar cloudopslag"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Upload mislukt"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Succesvol geüpload"
+   },
+   "viewMyCollections": {
+      "message": "Bekijk Mijn Collecties"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

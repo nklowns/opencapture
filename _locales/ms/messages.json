@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "Kod Pengesahan Emel"
+   },
+   "accountLogin": {
+      "message": "Log masuk dengan kata laluan akaun"
+   },
+   "add": {
+      "message": "Tambah"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "Sila autorisasi pengurusan muat turun terlebih dahulu"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "Autorisasi pengurusan muat turun"
+   },
+   "auto_clase": {
+      "message": "Tutup automatik"
+   },
+   "bar_copy": {
+      "message": "Kopikan"
+   },
+   "bar_save": {
+      "message": "Simpan"
+   },
+   "btn_cancel": {
+      "message": "Batal"
+   },
+   "btn_lock": {
+      "message": "Peribadi"
+   },
+   "btn_ok": {
+      "message": "OK"
+   },
+   "btn_remove": {
+      "message": "Hapus"
+   },
+   "btn_snap": {
+      "message": "Tangkapan"
+   },
+   "btn_submit": {
+      "message": "Hantar"
+   },
+   "btn_view": {
+      "message": "Lihat"
+   },
+   "capture2pdfDownload": {
+      "message": "Simpan sebagai PDF"
+   },
+   "captureAllPage": {
+      "message": "Tangkap keseluruhan halaman"
+   },
+   "captureAnnotate": {
+      "message": "Buat Catatan"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "Unggah tangkapan ini"
+   },
+   "captureClickAnnotate": {
+      "message": "Klik pada tangkapan untuk membuat catatan"
+   },
+   "captureDownload": {
+      "message": "Simpan gambar"
+   },
+   "captureHighResAllPage": {
+      "message": "Tangkap keseluruhan halaman HD"
+   },
+   "capturePage": {
+      "message": "Tangkap bahagian yang kelihatan"
+   },
+   "capturePageCurrentPosition": {
+      "message": "Tangkap dari posisi semasa"
+   },
+   "captureScrollable": {
+      "message": "Tangkap kawasan boleh skrol"
+   },
+   "captureSelection": {
+      "message": "Tangkap pilihan"
+   },
+   "capture_interrupted": {
+      "message": "Pertukaran tab dikesan, tangkapan skrin dihentikan!"
+   },
+   "capture_scroll": {
+      "message": "Tangkap ini"
+   },
+   "clickSel": {
+      "message": "Klik untuk pilih"
+   },
+   "clickUnfold": {
+      "message": "Klik untuk lipat"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "Tidak dapat mengkopikan gambar"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "Gambar dikopi ke papan klip"
+   },
+   "copyNotSupport": {
+      "message": "Browser anda tidak menyokong pengkopian gambar!"
+   },
+   "copyToClipBoard": {
+      "message": "Kopikan ke papan klip"
+   },
+   "copy_false": {
+      "message": "Gagal mengkopikan!"
+   },
+   "copy_success": {
+      "message": "Dikopi ke papan klip!"
+   },
+   "crop": {
+      "message": "Potong"
+   },
+   "default_set": {
+      "message": "Tetapan laluan"
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "deleteAlert": {
+      "message": "Adakah anda pasti ingin menghapuskan?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "Ralat tidak diketahui berlaku!"
+   },
+   "error_upload_snap": {
+      "message": "Ralat menghantar tangkapan!"
+   },
+   "exist_info": {
+      "message": "Laman web telah disimpan!"
+   },
+   "exitUploading": {
+      "message": "Menghantar, adakah anda pasti ingin keluar?"
+   },
+   "favMyTags": {
+      "message": "Tag Saya"
+   },
+   "favOption": {
+      "message": "Pilihan"
+   },
+   "favSuggestTag": {
+      "message": "Tag Cadangan"
+   },
+   "favTag": {
+      "message": "Tag"
+   },
+   "favTagLengthOver": {
+      "message": "Tag terlalu panjang"
+   },
+   "favTagNumOver": {
+      "message": " bilangan tag melebihi had!"
+   },
+   "favTagPlaceholder": {
+      "message": "Tag"
+   },
+   "favTitle": {
+      "message": "Tajuk"
+   },
+   "favUrl": {
+      "message": "Link"
+   },
+   "fav_edit": {
+      "message": "Edit Koleksi"
+   },
+   "fav_success": {
+      "message": "Disimpan berjaya!"
+   },
+   "fav_success_edit": {
+      "message": "Simpan berjaya - Edit"
+   },
+   "forgetPsw": {
+      "message": "Lupa Kata Laluan?"
+   },
+   "highResCaptureEditLabel": {
+      "message": "(tangkapan skrin HD 2x)"
+   },
+   "history": {
+      "message": "Sejarah"
+   },
+   "historyClear": {
+      "message": "Kosongkan"
+   },
+   "historyClearAll": {
+      "message": "Kosongkan semua rekod"
+   },
+   "historyClearConfirm": {
+      "message": "Kosongkan semua sejarah tangkapan skrin?"
+   },
+   "historyClearDialogTitle": {
+      "message": "Kosongkan sejarah"
+   },
+   "historyClearOlder1Month": {
+      "message": "Kosongkan rekod yang lebih lama daripada 1 bulan"
+   },
+   "historyClearOlder3Months": {
+      "message": "Kosongkan rekod yang lebih lama daripada 3 bulan"
+   },
+   "historyDelete": {
+      "message": "Padam"
+   },
+   "historyEmpty": {
+      "message": "Belum ada sejarah tangkapan skrin."
+   },
+   "historyUnknownDomain": {
+      "message": "Domain tidak diketahui"
+   },
+   "iframe_capture": {
+      "message": "Found iframe nesting! Please take the full screenshot again on the automatically opened page"
+   },
+   "img": {
+      "message": "Gambar"
+   },
+   "imgCaptcha": {
+      "message": "Captcha"
+   },
+   "imgCodeInput": {
+      "message": "Masukkan kod pengesahan imej!"
+   },
+   "issueContentAdd": {
+      "message": "Deskripsi isu ringkas"
+   },
+   "issueEmail": {
+      "message": "Emel"
+   },
+   "issueTitleAdd": {
+      "message": "Tambah tajuk"
+   },
+   "issueUrl": {
+      "message": "Link"
+   },
+   "like_body": {
+      "message": "Membangunkan program yang berguna memerlukan banyak usaha, dan kami gembira anda menyukainya!<br /><br />Bolehkah anda meluangkan satu minit untuk memberikan kami ulasan lima bintang? Ia akan sangat membantu kami. :)"
+   },
+   "like_no_thanks": {
+      "message": "Tidak, terima kasih"
+   },
+   "like_title": {
+      "message": "Adakah anda suka alat ini?"
+   },
+   "like_yes": {
+      "message": "Ya"
+   },
+   "loading": {
+      "message": "Memuat"
+   },
+   "loginCodeResend": {
+      "message": "Hantar semula"
+   },
+   "loginCodeSent": {
+      "message": "Dihantar"
+   },
+   "loginSignUp": {
+      "message": "Log Masuk / Daftar"
+   },
+   "login_refresh": {
+      "message": "Segar semula selepas log masuk"
+   },
+   "msg_title": {
+      "message": "Tip - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "Beberapa kawasan ditemui, pilih satu."
+   },
+   "my_collections": {
+      "message": "Koleksi Saya"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "Ralat permintaan rangkaian!"
+   },
+   "noSupportMultiPic": {
+      "message": "Potongan gambar pelbagai tidak disokong"
+   },
+   "not_support": {
+      "message": "Selamat datang ke pengembangan OpenCapture. Anda boleh menjalankan ini pada mana-mana laman web kecuali di mana browser menyekat pelaksanaan skrip ekstensi. Ini termasuk kedai web ekstensi, halaman tetapan browser dan ekstensi lain<br /><br /> cubalah laman web lain seperti <a style=\"color: #3279f6;\" href=\"https://www.google.com/search?q=OpenCapture+Screenshot\" target=\"_blank\">ini</a>. Selamat berseronok!<br /><br />Browser tidak membenarkan akses kepada sesetengah URL atas sebab keselamatan. Ini termasuk galeri kedai web, ekstensi lain, dan URL chrome://, extension://. <b>Laman web semasa mungkin URL terhad.</b<br /><br />Untuk soalan lanjut, hubungi kami.<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "Pilihan"
+   },
+   "page_not_ready": {
+      "message": "Sedang memuat, cuba lagi nanti."
+   },
+   "permissionDownloadsDenied": {
+      "message": "Anda telah menolak autorisasi pengurusan muat turun"
+   },
+   "premium_active_notice": {
+      "message": "OpenCapture Premium aktif."
+   },
+   "premium_active_price": {
+      "message": "Langganan tahunan aktif"
+   },
+   "premium_active_subtitle": {
+      "message": "Semua mod Premium dibuka pada pemasangan pelayar ini."
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium aktif"
+   },
+   "premium_all_free": {
+      "message": "Semua dalam Free"
+   },
+   "premium_back": {
+      "message": "Kembali"
+   },
+   "premium_back_to_opencapture": {
+      "message": "Kembali ke OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "Muat naik ke Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "Ciri Premium ini"
+   },
+   "premium_feature_title_high_res": {
+      "message": "Tangkapan HD halaman penuh"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "Tangkapan halaman panjang berbahagi"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "Tangkapan kawasan boleh tatal"
+   },
+   "premium_free_edit": {
+      "message": "Anotasi, potong, salin, cetak, eksport PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "Tangkap halaman penuh dengan tatal"
+   },
+   "premium_free_hd": {
+      "message": "Tangkapan HD halaman penuh: 5 percubaan percuma"
+   },
+   "premium_free_long_page_split": {
+      "message": "Tangkapan halaman panjang berbahagi"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "Untuk tangkapan harian"
+   },
+   "premium_free_scrollable": {
+      "message": "Tangkapan kawasan boleh tatal: 5 percubaan percuma"
+   },
+   "premium_free_visible": {
+      "message": "Tangkap bahagian kelihatan"
+   },
+   "premium_future": {
+      "message": "Akses ciri Premium akan datang"
+   },
+   "premium_hd": {
+      "message": "Tangkapan HD halaman penuh tanpa had"
+   },
+   "premium_long_page_split": {
+      "message": "Lebih ruang sejarah"
+   },
+   "premium_manage": {
+      "message": "Urus"
+   },
+   "premium_manage_subscription": {
+      "message": "Urus langganan"
+   },
+   "premium_mode_switching": {
+      "message": "Tukar mod cerah/gelap"
+   },
+   "premium_notice_low": {
+      "message": "Percubaan percuma anda untuk {feature} hampir habis. Baki: {remaining}."
+   },
+   "premium_notice_no_feature": {
+      "message": "Naik taraf ke Premium untuk membuka lebih banyak ciri lanjutan."
+   },
+   "premium_notice_used_up": {
+      "message": "Percubaan percuma anda untuk {feature} telah habis."
+   },
+   "premium_opening_portal": {
+      "message": "Membuka..."
+   },
+   "premium_opening_stripe": {
+      "message": "Membuka Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "Tidak dapat membuka pengurusan langganan."
+   },
+   "premium_portal_error_full": {
+      "message": "Tidak dapat membuka pengurusan langganan. Cuba lagi kemudian."
+   },
+   "premium_portal_opening": {
+      "message": "Membuka..."
+   },
+   "premium_price": {
+      "message": "Langganan tahunan"
+   },
+   "premium_restore_guide": {
+      "message": "Sudah beli atau pasang semula?"
+   },
+   "premium_restore_link": {
+      "message": "Pulihkan Premium"
+   },
+   "premium_scrollable": {
+      "message": "Tangkapan kawasan boleh tatal tanpa had"
+   },
+   "premium_stripe_error": {
+      "message": "Tidak dapat membuka pautan pembayaran Stripe. Cuba lagi kemudian."
+   },
+   "premium_subtitle": {
+      "message": "Premium membuka semua mod, termasuk tangkapan HD halaman penuh dan kawasan boleh tatal."
+   },
+   "premium_theme_upgrade_required": {
+      "message": "Naik taraf ke Premium untuk menukar mod."
+   },
+   "premium_title": {
+      "message": "Sokong kami dan naik taraf ke OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "Tidak diketahui"
+   },
+   "premium_upgrade": {
+      "message": "Naik taraf ke Premium"
+   },
+   "premium_valid_until": {
+      "message": "Sah hingga"
+   },
+   "print": {
+      "message": "Cetak"
+   },
+   "privacy": {
+      "message": "Privasi"
+   },
+   "privateBeizhu": {
+      "message": "Catatan Peribadi"
+   },
+   "refresh_effective": {
+      "message": "Berkesan selepas segar semula"
+   },
+   "reportIssue": {
+      "message": "Laporkan isu"
+   },
+   "saveUrl2Private": {
+      "message": "Peribadi"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "Tetapkan sebagai peribadi, hanya boleh dilihat oleh pengguna sendiri"
+   },
+   "saveUrl2Public": {
+      "message": "Umum"
+   },
+   "saveUrl2Snap": {
+      "message": "Tangkapan"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "Simpan tangkapan laman web"
+   },
+   "savedFileNameByTile": {
+      "message": "Berdasarkan Tajuk"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "cth.: Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "Berdasarkan Masa"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "cth.: OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "Penamaan Fail"
+   },
+   "scrollable_area_no": {
+      "message": "Tiada kawasan boleh skrol ditemui."
+   },
+   "sendMailCode": {
+      "message": "Hantar"
+   },
+   "setting_appearance": {
+      "message": "Penampilan"
+   },
+   "setting_cloud_upload_format": {
+      "message": "Format muat naik awan"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "Tentukan format fail semasa memuat naik tangkapan skrin ke pemacu awan."
+   },
+   "setting_default_private": {
+      "message": "Default Peribadi"
+   },
+   "setting_default_private_info": {
+      "message": "Tetapkan tetapan laluan sebagai peribadi ketika menyimpan ke YesKeeper."
+   },
+   "setting_down_image_format": {
+      "message": "Format simpanan gambar"
+   },
+   "setting_down_image_format_info": {
+      "message": "Tentukan format gambar untuk muat turun tangkapan skrin."
+   },
+   "setting_download": {
+      "message": "Muat turun"
+   },
+   "setting_download_save_as": {
+      "message": "Simpan sebagai"
+   },
+   "setting_download_save_as_info": {
+      "message": "Tunjukkan dialog 'simpan sebagai' ketika muat turun tangkapan skrin."
+   },
+   "setting_more": {
+      "message": "Lebih banyak tetapan"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "Margin halaman"
+   },
+   "setting_pdf_margin_info": {
+      "message": "Tentukan margin halaman dalam unit pt (0-40 pt)."
+   },
+   "setting_pdf_papersize": {
+      "message": "Saiz kertas"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "Tentukan saiz kertas untuk PDF ketika eksport."
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "Tunjukkan dialog simpan ke yeskeeper"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "Tunjukkan dialog 'Simpan ke YesKeeper' ketika menyimpan sebagai tangkapan laman web."
+   },
+   "setting_theme_mode": {
+      "message": "Mod"
+   },
+   "setting_theme_mode_info": {
+      "message": "Pilih tema paparan untuk halaman OpenCapture."
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "signInWithApple": {
+      "message": "Log masuk dengan Apple"
+   },
+   "signInWithGoogle": {
+      "message": "Log masuk dengan Google"
+   },
+   "signInWithMicrosoft": {
+      "message": "Log masuk dengan Microsoft"
+   },
+   "signUpAgreement": {
+      "message": "Dengan mendaftar, anda bersetuju dengan <a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">Perjanjian Perkhidmatan Pengguna</a> dan <a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">Dasar Privasi</a> YesKeeper."
+   },
+   "site_item1": {
+      "message": "Tangkapan Webpage"
+   },
+   "site_item2": {
+      "message": "Buku Web"
+   },
+   "site_item3": {
+      "message": "Baca Kemudian"
+   },
+   "site_language": {
+      "message": "Bahasa"
+   },
+   "site_login": {
+      "message": "Log Masuk"
+   },
+   "site_reg": {
+      "message": "Daftar"
+   },
+   "snap_shot_prepare": {
+      "message": "Persiapan untuk menggulirkan skrin dan menghantar tangkapan"
+   },
+   "snap_shot_uploading": {
+      "message": "Menghantar tangkapan..."
+   },
+   "splitMultiImages": {
+      "message": "Nota: Halaman ini terlalu besar untuk diambil sebagai satu gambar oleh browser. Ia akan dibahagikan kepada beberapa gambar."
+   },
+   "stop_scrolling": {
+      "message": "Berhenti tatal"
+   },
+   "submitFalse": {
+      "message": "Penyampaian gagal!"
+   },
+   "tags_no": {
+      "message": "Tiada tag"
+   },
+   "theme_dark": {
+      "message": "Gelap"
+   },
+   "theme_follow_system": {
+      "message": "Ikut sistem"
+   },
+   "theme_light": {
+      "message": "Cerah"
+   },
+   "tryAgainLater": {
+      "message": "Sedang memuat, sila cuba kemudian"
+   },
+   "uploadToCloudDrive": {
+      "message": "Muat naik ke storan awan"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "Muat naik gagal"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "Berjaya dimuat naik"
+   },
+   "viewMyCollections": {
+      "message": "Lihat Koleksi Saya"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}

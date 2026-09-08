@@ -1,0 +1,626 @@
+{
+   "MailVerificationCode": {
+      "message": "邮件验证码"
+   },
+   "accountLogin": {
+      "message": "账号密码登录"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "agreePermissionDownloadsFirst": {
+      "message": "请先授权管理下载权限"
+   },
+   "agreePermissionDownloads_text": {
+      "message": "授权管理下载权限"
+   },
+   "auto_clase": {
+      "message": "自动关闭"
+   },
+   "bar_copy": {
+      "message": "复制"
+   },
+   "bar_save": {
+      "message": "保存"
+   },
+   "btn_cancel": {
+      "message": "取消"
+   },
+   "btn_lock": {
+      "message": "私有"
+   },
+   "btn_ok": {
+      "message": "确定"
+   },
+   "btn_remove": {
+      "message": "移除"
+   },
+   "btn_snap": {
+      "message": "快照"
+   },
+   "btn_submit": {
+      "message": "提交"
+   },
+   "btn_view": {
+      "message": "查看"
+   },
+   "capture2pdfDownload": {
+      "message": "转PDF下载"
+   },
+   "captureAllPage": {
+      "message": "截图整个页面"
+   },
+   "captureAnnotate": {
+      "message": "注释截图"
+   },
+   "captureAsSnapshotUpload": {
+      "message": "此截图作为快照上传"
+   },
+   "captureClickAnnotate": {
+      "message": "点击以下截图，可添加注释"
+   },
+   "captureDownload": {
+      "message": "下载截图"
+   },
+   "captureHighResAllPage": {
+      "message": "高清整页截图"
+   },
+   "capturePage": {
+      "message": "截图可见部分"
+   },
+   "capturePageCurrentPosition": {
+      "message": "当前位置滚动截图"
+   },
+   "captureScrollable": {
+      "message": "截图可滚动区域"
+   },
+   "captureSelection": {
+      "message": "截图选定区域"
+   },
+   "capture_interrupted": {
+      "message": "检测到您切换了标签页，截图被中断！"
+   },
+   "capture_scroll": {
+      "message": "捕捉此区域"
+   },
+   "clickSel": {
+      "message": "点击选择"
+   },
+   "clickUnfold": {
+      "message": "点击展开"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "copyImageToClipBoardFalse": {
+      "message": "无法复制图片到剪贴板"
+   },
+   "copyImageToClipBoardSuccess": {
+      "message": "图片已复制到剪贴板"
+   },
+   "copyNotSupport": {
+      "message": "您的浏览器不支持复制图片到剪贴板"
+   },
+   "copyToClipBoard": {
+      "message": "复制到剪切板"
+   },
+   "copy_false": {
+      "message": "复制失败！"
+   },
+   "copy_success": {
+      "message": "已复制到剪贴板！"
+   },
+   "crop": {
+      "message": "裁剪"
+   },
+   "default_set": {
+      "message": "默认设置"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "deleteAlert": {
+      "message": "真的要删除吗?"
+   },
+   "description": {
+      "message": "Open source webpage screenshot and full-page scrolling capture tool."
+   },
+   "error_no": {
+      "message": "发生未知错误！"
+   },
+   "error_upload_snap": {
+      "message": "快照上传错误！"
+   },
+   "exist_info": {
+      "message": "已保存过该网页！"
+   },
+   "exitUploading": {
+      "message": "文件正在上传，确定要离开吗？"
+   },
+   "favMyTags": {
+      "message": "我的标签"
+   },
+   "favOption": {
+      "message": "选项"
+   },
+   "favSuggestTag": {
+      "message": "推荐标签"
+   },
+   "favTag": {
+      "message": "标签"
+   },
+   "favTagLengthOver": {
+      "message": "该标签过长"
+   },
+   "favTagNumOver": {
+      "message": "超过标签数量上限！"
+   },
+   "favTagPlaceholder": {
+      "message": "多标签可空格隔开"
+   },
+   "favTitle": {
+      "message": "标题"
+   },
+   "favUrl": {
+      "message": "链接"
+   },
+   "fav_edit": {
+      "message": "修改"
+   },
+   "fav_success": {
+      "message": "保存成功！"
+   },
+   "fav_success_edit": {
+      "message": "保存成功 - 编辑"
+   },
+   "forgetPsw": {
+      "message": "忘记密码？"
+   },
+   "highResCaptureEditLabel": {
+      "message": "（2倍高清截图）"
+   },
+   "history": {
+      "message": "历史记录"
+   },
+   "historyClear": {
+      "message": "清空"
+   },
+   "historyClearAll": {
+      "message": "清空全部记录"
+   },
+   "historyClearConfirm": {
+      "message": "确定清空所有截图历史记录吗？"
+   },
+   "historyClearDialogTitle": {
+      "message": "清空历史记录"
+   },
+   "historyClearOlder1Month": {
+      "message": "清空1个月前记录"
+   },
+   "historyClearOlder3Months": {
+      "message": "清空3个月前记录"
+   },
+   "historyDelete": {
+      "message": "删除"
+   },
+   "historyEmpty": {
+      "message": "暂无截图历史记录。"
+   },
+   "historyUnknownDomain": {
+      "message": "未知域名"
+   },
+   "iframe_capture": {
+      "message": "发现页面嵌套，请在自动打开的页面里重新完整截图"
+   },
+   "img": {
+      "message": "图片"
+   },
+   "imgCaptcha": {
+      "message": "图片验证码"
+   },
+   "imgCodeInput": {
+      "message": "输入图片验证码！"
+   },
+   "issueContentAdd": {
+      "message": "问题描述"
+   },
+   "issueEmail": {
+      "message": "您的邮箱"
+   },
+   "issueTitleAdd": {
+      "message": "问题标题"
+   },
+   "issueUrl": {
+      "message": "问题链接"
+   },
+   "like_body": {
+      "message": "开发一个好用的程序需要花费大量精力，很高兴你喜欢它<br /><br />你能花一分钟给我们一个五星好评吗，这将对我们非常有帮助 :)"
+   },
+   "like_no_thanks": {
+      "message": "不，谢谢"
+   },
+   "like_title": {
+      "message": "你喜欢这个小工具吗？"
+   },
+   "like_yes": {
+      "message": "好的"
+   },
+   "loading": {
+      "message": "加载中..."
+   },
+   "loginCodeResend": {
+      "message": "再次发送"
+   },
+   "loginCodeSent": {
+      "message": "已发送"
+   },
+   "loginSignUp": {
+      "message": "登录 / 注册"
+   },
+   "login_refresh": {
+      "message": "登录后刷新"
+   },
+   "msg_title": {
+      "message": "提示信息 - OpenCapture"
+   },
+   "multi_scrollable": {
+      "message": "发现多个区域，选择一个。"
+   },
+   "my_collections": {
+      "message": "我的收藏"
+   },
+   "name": {
+      "message": "OpenCapture"
+   },
+   "name_s": {
+      "message": "滚动整页截图 - OpenCapture"
+   },
+   "name_site": {
+      "message": "OpenCapture"
+   },
+   "net_error": {
+      "message": "网络请求错误！"
+   },
+   "noSupportMultiPic": {
+      "message": "不支持多图片裁剪"
+   },
+   "not_support": {
+      "message": "欢迎使用 OpenCapture 扩展。您可以在任何网页上运行此扩展，除了浏览器限制脚本运行的网页。这包括扩展商店、浏览器设置页面和其他扩展。<br /><br />由于安全原因，浏览器不允许访问某些 URL。这包括扩展市场、浏览器设置、其他扩展以及 chrome://、extension:// URL。<b>目前页面似乎是一个受限制的 URL。</b><br /><br />在网络上的其他页面尝试一下，比如 <a style=\"color: #3279f6;\" href=\"https://www.baidu.com/s?wd=OpenCapture+Screenshot\" target=\"_blank\">这个链接</a>。祝您玩得愉快！<br /><br />如有其他问题，请与我们联系。<br />https://github.com/nklowns/opencapture/issues"
+   },
+   "optional": {
+      "message": "选填"
+   },
+   "page_not_ready": {
+      "message": "加载中，请稍后再试。"
+   },
+   "permissionDownloadsDenied": {
+      "message": "您已拒绝授权管理下载权限"
+   },
+   "premium_active_notice": {
+      "message": "当前浏览器已激活 OpenCapture Premium。"
+   },
+   "premium_active_price": {
+      "message": "当前年订阅已生效"
+   },
+   "premium_active_subtitle": {
+      "message": "当前浏览器安装的所有 Premium 截图能力都已解锁。"
+   },
+   "premium_active_title": {
+      "message": "OpenCapture Premium 已激活"
+   },
+   "premium_all_free": {
+      "message": "包含 Free 的全部功能"
+   },
+   "premium_back": {
+      "message": "返回"
+   },
+   "premium_back_to_opencapture": {
+      "message": "返回 OpenCapture"
+   },
+   "premium_cloud": {
+      "message": "支持上传到 Google Drive"
+   },
+   "premium_feature_title_default": {
+      "message": "该 Premium 功能"
+   },
+   "premium_feature_title_high_res": {
+      "message": "高清整页截图"
+   },
+   "premium_feature_title_long_page_split": {
+      "message": "超长分图截图"
+   },
+   "premium_feature_title_scrollable": {
+      "message": "可滚动区域截图"
+   },
+   "premium_free_edit": {
+      "message": "标注、裁剪、复制、打印、导出 PDF/JPG/PNG"
+   },
+   "premium_free_full": {
+      "message": "整页滚动截图"
+   },
+   "premium_free_hd": {
+      "message": "高清整页截图：5 次免费体验"
+   },
+   "premium_free_long_page_split": {
+      "message": "超长网页分图截图"
+   },
+   "premium_free_plan": {
+      "message": "Free"
+   },
+   "premium_free_price": {
+      "message": "适合日常截图使用"
+   },
+   "premium_free_scrollable": {
+      "message": "可滚动区域截图：5 次免费体验"
+   },
+   "premium_free_visible": {
+      "message": "可视区域截图"
+   },
+   "premium_future": {
+      "message": "解锁后续 Premium 新功能"
+   },
+   "premium_hd": {
+      "message": "不限次数高清整页截图"
+   },
+   "premium_long_page_split": {
+      "message": "更多历史记录空间"
+   },
+   "premium_manage": {
+      "message": "管理"
+   },
+   "premium_manage_subscription": {
+      "message": "管理订阅"
+   },
+   "premium_mode_switching": {
+      "message": "Light/Dark 模式切换"
+   },
+   "premium_notice_low": {
+      "message": "{feature} 的免费体验次数即将用完，还剩 {remaining} 次。"
+   },
+   "premium_notice_no_feature": {
+      "message": "立刻升级到 Premium，解锁更多高级功能。"
+   },
+   "premium_notice_used_up": {
+      "message": "{feature} 的免费体验次数已经用完。"
+   },
+   "premium_opening_portal": {
+      "message": "正在打开..."
+   },
+   "premium_opening_stripe": {
+      "message": "正在打开 Stripe..."
+   },
+   "premium_plan": {
+      "message": "Premium"
+   },
+   "premium_portal_error": {
+      "message": "无法打开订阅管理。"
+   },
+   "premium_portal_error_full": {
+      "message": "无法打开订阅管理，请稍后再试。"
+   },
+   "premium_portal_opening": {
+      "message": "正在打开..."
+   },
+   "premium_price": {
+      "message": "按年订阅"
+   },
+   "premium_restore_guide": {
+      "message": "已经购买或重新安装？"
+   },
+   "premium_restore_link": {
+      "message": "恢复 Premium"
+   },
+   "premium_scrollable": {
+      "message": "不限次数可滚动区域截图"
+   },
+   "premium_stripe_error": {
+      "message": "无法打开 Stripe 支付链接，请稍后再试。"
+   },
+   "premium_subtitle": {
+      "message": "Premium 解锁全部截图能力，包括高清整页截图和可滚动区域截图。"
+   },
+   "premium_theme_upgrade_required": {
+      "message": "升级到 Premium 后可切换模式。"
+   },
+   "premium_title": {
+      "message": "支持我们，升级到 OpenCapture Premium"
+   },
+   "premium_unknown_date": {
+      "message": "未知"
+   },
+   "premium_upgrade": {
+      "message": "升级到 Premium"
+   },
+   "premium_valid_until": {
+      "message": "有效期至"
+   },
+   "print": {
+      "message": "打印"
+   },
+   "privacy": {
+      "message": "隐私"
+   },
+   "privateBeizhu": {
+      "message": "私密备注"
+   },
+   "refresh_effective": {
+      "message": "页面刷新后生效"
+   },
+   "reportIssue": {
+      "message": "反馈问题及建议"
+   },
+   "saveUrl2Private": {
+      "message": "私有"
+   },
+   "saveUrl2PrivateInfo": {
+      "message": "设为私有，仅自己可见"
+   },
+   "saveUrl2Public": {
+      "message": "公开"
+   },
+   "saveUrl2Snap": {
+      "message": "快照"
+   },
+   "saveUrl2SnapInfo": {
+      "message": "保存网页快照"
+   },
+   "savedFileNameByTile": {
+      "message": "以网页标题命名"
+   },
+   "savedFileNameByTileInfo": {
+      "message": "例如：Google.png"
+   },
+   "savedFileNameByTime": {
+      "message": "以时间轴命名"
+   },
+   "savedFileNameByTimeInfo": {
+      "message": "例如：OpenCapture_2025-09-19_222343_www.google.com.png"
+   },
+   "savedFileNameSet": {
+      "message": "文件命名方式"
+   },
+   "scrollable_area_no": {
+      "message": "没有发现可滚动的子区域"
+   },
+   "sendMailCode": {
+      "message": "发送"
+   },
+   "setting_appearance": {
+      "message": "外观"
+   },
+   "setting_cloud_upload_format": {
+      "message": "上传云盘格式"
+   },
+   "setting_cloud_upload_format_info": {
+      "message": "指定上传截图到云盘时使用的文件格式。"
+   },
+   "setting_default_private": {
+      "message": "收藏默认私有"
+   },
+   "setting_default_private_info": {
+      "message": "保存到YesKeeper时默认设置为私有。"
+   },
+   "setting_down_image_format": {
+      "message": "保存成图片"
+   },
+   "setting_down_image_format_info": {
+      "message": "指定下载屏幕截图的图像格式。"
+   },
+   "setting_download": {
+      "message": "下载"
+   },
+   "setting_download_save_as": {
+      "message": "另存为"
+   },
+   "setting_download_save_as_info": {
+      "message": "下载导出截图时显示“另存为”对话框。"
+   },
+   "setting_more": {
+      "message": "更多设置"
+   },
+   "setting_pdf": {
+      "message": "PDF"
+   },
+   "setting_pdf_margin": {
+      "message": "页面边距"
+   },
+   "setting_pdf_margin_info": {
+      "message": "指定页边距、单位pt、指定范围（0-40）pt。"
+   },
+   "setting_pdf_papersize": {
+      "message": "页面尺寸"
+   },
+   "setting_pdf_papersize_info": {
+      "message": "指定导出为PDF文件的页面格式大小。"
+   },
+   "setting_show_save_to_yeskeeer": {
+      "message": "显示保存到YesKeeper窗口"
+   },
+   "setting_show_save_to_yeskeeer_info": {
+      "message": "显示保存到YesKeeper窗口，方便将截图保存成私有网页快照"
+   },
+   "setting_theme_mode": {
+      "message": "模式"
+   },
+   "setting_theme_mode_info": {
+      "message": "选择 OpenCapture 页面的显示主题。"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "signInWithApple": {
+      "message": "通过苹果账户登录"
+   },
+   "signInWithGoogle": {
+      "message": "通过Google登录"
+   },
+   "signInWithMicrosoft": {
+      "message": "通过微软账户登录"
+   },
+   "signUpAgreement": {
+      "message": "注册视为同意<a href=\"https://yeskeeper.com/agreement\" target=\"_blank\">用户服务协议</a>和<a href=\"https://yeskeeper.com/privacy\" target=\"_blank\">隐私协议</a>"
+   },
+   "site_item1": {
+      "message": "云快照"
+   },
+   "site_item2": {
+      "message": "云书签"
+   },
+   "site_item3": {
+      "message": "跨平台"
+   },
+   "site_language": {
+      "message": "语言"
+   },
+   "site_login": {
+      "message": "登录"
+   },
+   "site_reg": {
+      "message": "注册"
+   },
+   "snap_shot_prepare": {
+      "message": "即将准备滚动截图..."
+   },
+   "snap_shot_uploading": {
+      "message": "快照上传中..."
+   },
+   "splitMultiImages": {
+      "message": "提示：此页面太大，浏览器无法将其捕获为一个图像。它将被分成多张图片。"
+   },
+   "stop_scrolling": {
+      "message": "停止滚动"
+   },
+   "submitFalse": {
+      "message": "提交失败！"
+   },
+   "tags_no": {
+      "message": "暂无标签"
+   },
+   "theme_dark": {
+      "message": "黑夜模式"
+   },
+   "theme_follow_system": {
+      "message": "跟随系统"
+   },
+   "theme_light": {
+      "message": "白天模式"
+   },
+   "tryAgainLater": {
+      "message": "加载中，请稍后重试"
+   },
+   "uploadToCloudDrive": {
+      "message": "上传到云盘"
+   },
+   "uploadToCloudDriveFailed": {
+      "message": "上传失败"
+   },
+   "uploadToCloudDriveSuccess": {
+      "message": "上传成功"
+   },
+   "viewMyCollections": {
+      "message": "查看我的收藏"
+   },
+   "vip": {
+      "message": "Pro"
+   }
+}
