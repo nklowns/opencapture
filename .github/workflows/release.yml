@@ -1,0 +1,37 @@
+name: Release Packaged Extension
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Extension Package (.ZIP)
+        run: |
+          mkdir -p dist
+          zip -r dist/opencapture-${{ github.ref_name }}.zip \
+            manifest.json \
+            content.js \
+            service-worker.js \
+            LICENSE \
+            README.md \
+            THIRD_PARTY_LICENSES.md \
+            _locales \
+            assets \
+            html \
+            -x "*.git*"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/opencapture-${{ github.ref_name }}.zip
+          generate_release_notes: true
