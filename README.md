@@ -110,6 +110,8 @@ You do **not** need any coding experience or terminal tools to install and use O
 2. Click the **pin icon (📌)** next to **OpenCapture**.
 3. Now, whenever you want to take a screenshot, just click the OpenCapture camera icon!
 
+> 💡 **Keyboard Shortcut:** Press `Alt + Shift + S` (or `Cmd + Shift + S` on macOS) on any page to open the OpenCapture menu instantly! You can customize this shortcut anytime at `chrome://extensions/shortcuts`.
+
 ---
 
 ## ⚙️ Configurable Options

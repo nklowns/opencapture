@@ -110,6 +110,8 @@ Você **não precisa saber programar** nem usar comandos no terminal para instal
 2. Clique no **alfinete (📌)** ao lado do **OpenCapture**.
 3. Pronto! O ícone de câmera estará sempre visível na sua barra para quando você precisar registrar uma página.
 
+> 💡 **Atalho de Teclado:** Pressione `Alt + Shift + S` (ou `Cmd + Shift + S` no macOS) em qualquer página para abrir o menu do OpenCapture instantaneamente! Você pode personalizar esse atalho quando quiser em `chrome://extensions/shortcuts`.
+
 ---
 
 ## ⚙️ Opções Configuráveis
