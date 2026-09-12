@@ -67,7 +67,7 @@ Most popular screen capture extensions have shifted toward aggressive freemium m
 You do **not** need any coding experience or terminal tools to install and use OpenCapture in your browser! Just follow these quick steps:
 
 ### 1️⃣ Download OpenCapture
-- **[👉 Click here to download OpenCapture (.ZIP)](https://github.com/nklowns/opencapture/archive/refs/heads/main.zip)**
+- **[👉 Click here to download OpenCapture (.ZIP)](https://github.com/nklowns/opencapture/releases/latest/download/opencapture-v1.0.0.zip)** (or visit the [Releases page](https://github.com/nklowns/opencapture/releases))
 - Save the file to your computer.
 
 ### 2️⃣ Extract the ZIP to a Permanent Folder

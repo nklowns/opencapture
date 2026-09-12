@@ -67,7 +67,7 @@ O **OpenCapture** foi criado para o caminho oposto: oferecer uma **suíte comple
 Você **não precisa saber programar** nem usar comandos no terminal para instalar o OpenCapture. O processo leva menos de 2 minutos:
 
 ### 1️⃣ Baixe o OpenCapture
-- **[👉 Clique aqui para baixar o OpenCapture (.ZIP)](https://github.com/nklowns/opencapture/archive/refs/heads/main.zip)**
+- **[👉 Clique aqui para baixar o OpenCapture (.ZIP)](https://github.com/nklowns/opencapture/releases/latest/download/opencapture-v1.0.0.zip)** (ou acesse a [página de Lançamentos](https://github.com/nklowns/opencapture/releases))
 - Salve o arquivo em seu computador.
 
 ### 2️⃣ Extraia o Arquivo ZIP para uma Pasta Definitiva
